@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Зелени екрани 5250 Терминал със скенер за баркод. Научете повече на www.greenscreens.io</string>
+
+      <string name="title_configs">Изберете конфигурация</string>
+      <string name="title_plugins">Изберете плъгин</string>
+      <string name="title_help">Зелени екрани - Помощ</string>
+      <string name="selectAction">Изберете действие</string>
+      <string name="cancel">Отказ</string>
+      <string name="ok">Добре</string>
+      <string name="data_removed">Данните са премахнати!</string>
+      <string name="config_data_required">UUID и Host са задължителни стойности!</string>
+      <string name="otp_data_required">Потребителят и маркерът са задължителни стойности!</string>
+
+      <string name="loading">Зареждане…</string>
+      <string name="action_tutors">уроци</string>
+
+      <string name="action_help">Помогне</string>
+      <string name="action_about">относно</string>
+
+      <string name="labelBarcode">Баркод</string>
+      <string name="labelPrinter">печатар</string>
+      <string name="labelLockRotate">Заключване на завъртане</string>
+      <string name="labelSplitScreen">Разделен екран</string>
+      <string name="labelTheme">Тема за превключване</string>
+      <string name="labelTemplate">Шаблон на макарата</string>
+      <string name="labelDownload">Изтегляне на файл</string>
+      <string name="labelUpload">Качване на файл</string>
+      <string name="pasteModeInfo">Режимът на копиране / поставяне е променен</string>
+      <string name="crash_toast_text">Ооооопс! Претърпях срив, но доклад е изпратен до моя програмист, за да помогна за отстраняването на проблема!</string>
+      <string name="crash_dialog_title">Терминалът се е разбил</string>
+      <string name="crash_dialog_text">Възникна неочаквана грешка, принудила приложението да спре. Моля, помогнете ни да поправим това, като ни изпратите данни за грешки. Всичко, което трябва да направите, е да щракнете върху OK.</string>
+      <string name="crash_dialog_comment_prompt">Можете да добавите коментарите си за проблема по-долу:</string>
+      <string name="msg_macro">Име на макрос</string>
+      <string name="msg_macro_undefined">Макрос не е дефиниран</string>
+      <string name="msg_barcode_invalid">Невалидни данни, проверете дали е сканиран грешен баркод!</string>
+      <string name="msg_barcode_error">Грешка при обработката на баркод.</string>
+      <string name="action_settings">Настройки</string>
+      <string name="action_demo">Демонстрации</string>
+      <string name="action_camera">преглеждане</string>
+      <string name="saveBtn">Запази</string>
+      <string name="submitBtn">Изпращане</string>
+    <string name="warning">Внимание</string>
+      <string name="unsupported_version">Тази версия на Android не се поддържа.</string>
+      <string name="update_webview">За да използвате приложението, моля, актуализирайте уеб двигателя до най-новата версия.</string>
+      <string name="network_unavailable">Мрежата не е налична! Моля, отворете мрежовата връзка!</string>
+      <string name="downloads_permission">Изтеглянията не са налични. Моля, активирайте разрешенията за приложение.</string>
+      <string name="info">Информация</string>
+      <string name="close_session_question">Сигурни ли сте, че искате да затворите тази сесия?</string>
+      <string name="invalid_url">Невалиден адрес!</string>
+      <string name="error">грешка</string>
+      <string name="service_unavailable">Невъзможно е достъп до отдалечена услуга</string>
+      <string name="no_data">Няма запазени данни за конфигурация</string>
+      <string name="service_not_set">URL адресът на услугата не е зададен</string>
+      <string name="description">описание</string>
+      <string name="no_data_from_scanner">Няма данни от скенер</string>
+      <string name="no_plugins_installed">Няма инсталирани приставки</string>
+      <string name="internal_detector">AI баркод скенер</string>
+      <string name="wtma_invalid_service_url">Невалиден URL адрес на услугата за баркод, превключен по подразбиране!</string>
+      <string name="offline_mode">Офлайн режим</string>
+      <string name="system_request">Системна заявка</string>
+      <string name="enter_number">Въведете номер!</string>
+      <string name="printer">печатар</string>
+      <string name="printer_not_active">Принтерът не е активен.</string>
+      <string name="report_template">Шаблон за отчет</string>
+      <string name="enter_template_name">Въведете име на шаблон!</string>
+      <string name="disconnect">Прекъсване на връзката</string>
+      <string name="already_activated">Вече е активирано:</string>
+      <string name="ssl_certificate_error">Грешка в сертификата за SSL</string>
+      <string name="cert_authority_not_trusted">На сертифициращия орган не се вярва.</string>
+      <string name="cert_expired">Сертификатът е изтекъл.</string>
+      <string name="cert_mismatch">Несъответствие с името на хоста на сертификата.</string>
+      <string name="cert_not_yet_valid">Сертификатът все още не е валиден.</string>
+      <string name="do_you_want_to_continue">Искате ли да продължите все пак?</string>
+      <string name="continue_btn">продължи</string>
+      <string name="labelMacro">Макро запис</string>
+      <string name="delete">Изтрий</string>
+      <string name="title_activity_macro">Макрос</string>
+
+      <string name="fileNotFound">Файл не съществува.</string>
+
+      <string name="pin_not_matched">ПИН кодът не съвпада</string>
+      <string name="pin_not_set">ПИН кодът не е зададен</string>
+      <string name="labelKbar">Превключване на клавиатурата</string>
+      <string name="otp_invalid_token">\ ?? НЕВАЛИДЕН ЖЕТОН ??</string>
+      <string name="otp_token_unsupported">OTP Token не се поддържа</string>
+      <string name="otp_token_title">OTP вписване на маркери</string>
+      <string name="otp_token_title_reg">Регистрация на OTP Token</string>
+      <string name="otp_token_message">Необходим OTP Token - Въведете идентификационни данни</string>
+      <string name="otp_token_unsync">ВНИМАНИЕ!!! Моля, проверете дали системното време е синхронизирано.</string>
+      <string name="webauth_required_message">Всички полета са задължителни</string>
+      <string name="webauth_title">Биометрични</string>
+      <string name="wtma_sent">WTMA потвърди</string>
+      <string name="file_too_big">Файлът е твърде голям, за да се отвори!</string>
+      <string name="biometricBtn">продължи</string>
+      <string name="not_in_demo">Не се предлага в демо режим!</string>
+      <string name="tab_a_label">ОБЩ</string>
+      <string name="tab_b_label">УСТРОЙСТВО</string>
+      <string name="tab_c_label">ДРУГИ</string>
+ </resources>

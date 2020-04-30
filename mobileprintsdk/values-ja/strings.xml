@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">印刷サービス情報</string>
+      <string name="print_service_help_title_1">印刷サービスプラグインを入手する</string>
+      <string name="print_service_help_msg_1">印刷するには、印刷サービスプラグインがインストールされている必要があります。プリンタの各ブランドには、モバイルデバイスから印刷できるようにする独自のプラグインがあります。一般的な印刷サービスプラグインも利用できます。最適なプラグインを選択してください。追加の印刷プラグインはいつでも追加できます。</string>
+      <string name="print_service_help_title_2">プラグインを有効にする</string>
+      <string name="print_service_help_msg_2">印刷サービスプラグインをダウンロードした後、プラグインを有効にするように求められます。それを選択し、スイッチを「ON」にタップするだけです。</string>
+      <string name="plugin_manager_title">プリントサービスマネージャー</string>
+      <string name="plugin_manager_sub_title">印刷するには、印刷サービスプラグインをインストールして有効にする必要があります。</string>
+      <string name="before_enable_tips">Android印刷設定に移動します。</string>
+      <string name="before_enable_tips_title">プラグインを有効にする</string>
+      <string name="ok">設定に移動</string>
+      <string name="cancel">キャンセル</string>
+      <string name="enabled">有効</string>
+      <string name="disabled">無効</string>
+ </resources>

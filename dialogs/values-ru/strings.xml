@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">логотип</string>
+      <string name="ok">Хорошо</string>
+      <string name="cancel">Отмена</string>
+      <string name="change">+ Изменить</string>
+      <string name="stop">Стоп</string>
+      <string name="disconnect">Отключить</string>
+      <string name="enter_printer_name">Введите имя устройства принтера</string>
+      <string name="printer">принтер</string>
+      <string name="enter_pin">Введите PIN-код</string>
+      <string name="enter_otp">Введите пользователя OTP и токен</string>
+      <string name="already_activated">Уже активирован:</string>
+      <string name="file_download">Загрузить файл</string>
+      <string name="file_upload">Загрузить файл</string>
+      <string name="rate_dialog_title">Тарифы %s.</string>
+      <string name="rate_dialog_message">Если вам нравится использовать %s, помогите нам, оценив его. Это займет всего пару секунд!</string>
+      <string name="rate_dialog_action_rate">Ставка</string>
+      <string name="rate_dialog_action_never">Нет, спасибо</string>
+      <string name="rate_dialog_action_later">Потом</string>
+      <string name="rate_dialog_thank_you">Спасибо!</string>
+ </resources>

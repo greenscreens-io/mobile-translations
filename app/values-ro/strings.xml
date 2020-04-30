@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Ecrane verzi 5250 Terminal cu scaner de coduri de bare. Aflați mai multe pe www.greenscreens.io</string>
+
+      <string name="title_configs">Selectați configurația</string>
+      <string name="title_plugins">Selectați pluginul</string>
+      <string name="title_help">Ecrane verzi - Ajutor</string>
+      <string name="selectAction">Selectați acțiunea</string>
+      <string name="cancel">Anulare</string>
+      <string name="ok">O.K</string>
+      <string name="data_removed">Datele eliminate!</string>
+      <string name="config_data_required">UUID și gazdă sunt valori obligatorii!</string>
+      <string name="otp_data_required">Utilizatorul și simbolul sunt valori obligatorii!</string>
+
+      <string name="loading">Se încarcă…</string>
+      <string name="action_tutors">Tutoriale</string>
+
+      <string name="action_help">Ajutor</string>
+      <string name="action_about">Despre</string>
+
+      <string name="labelBarcode">coduri de bare</string>
+      <string name="labelPrinter">Imprimanta</string>
+      <string name="labelLockRotate">Blocați rotirea</string>
+      <string name="labelSplitScreen">Ecran divizat</string>
+      <string name="labelTheme">Comutarea temei</string>
+      <string name="labelTemplate">Șablon Spool</string>
+      <string name="labelDownload">Descărcare fișier</string>
+      <string name="labelUpload">Fișier încărcat</string>
+      <string name="pasteModeInfo">Modul Copiere / Lipire modificat</string>
+      <string name="crash_toast_text">Ooooops! M-am prăbușit, dar un raport a fost trimis dezvoltatorului meu pentru a ajuta la remedierea problemei!</string>
+      <string name="crash_dialog_title">Terminalul s-a prăbușit</string>
+      <string name="crash_dialog_text">A apărut o eroare neașteptată forțând cererea să se oprească. Vă rugăm să ne ajutați să remediați acest lucru trimițându-ne date de eroare, tot ce trebuie să faceți este să faceți clic pe OK.</string>
+      <string name="crash_dialog_comment_prompt">Puteți adăuga comentariile dvs. despre problema de mai jos:</string>
+      <string name="msg_macro">Nume macro</string>
+      <string name="msg_macro_undefined">Macro nedeterminată</string>
+      <string name="msg_barcode_invalid">Date nevalide, verificați dacă codul de bare greșit a fost scanat!</string>
+      <string name="msg_barcode_error">Eroare la procesarea codului de bare.</string>
+      <string name="action_settings">Setări</string>
+      <string name="action_demo">Demonstrații</string>
+      <string name="action_camera">scanda</string>
+      <string name="saveBtn">Salvați</string>
+      <string name="submitBtn">Trimite</string>
+    <string name="warning">Avertizare</string>
+      <string name="unsupported_version">Această versiune de Android nu este acceptată.</string>
+      <string name="update_webview">Pentru a utiliza aplicația, vă rugăm să actualizați motorul web la cea mai recentă versiune.</string>
+      <string name="network_unavailable">Rețea indisponibilă! Vă rugăm să deschideți conexiunea la rețea!</string>
+      <string name="downloads_permission">Descărcările nu sunt disponibile. Vă rugăm, activați permisiunile pentru aplicații.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Sigur doriți să închideți această sesiune?</string>
+      <string name="invalid_url">URL invalid!</string>
+      <string name="error">Eroare</string>
+      <string name="service_unavailable">Imposibil de accesat serviciul de la distanță</string>
+      <string name="no_data">Nu există date de configurare salvate</string>
+      <string name="service_not_set">URL-ul serviciului nu este setat</string>
+      <string name="description">Descriere</string>
+      <string name="no_data_from_scanner">Nu există date de la scaner</string>
+      <string name="no_plugins_installed">Nu sunt instalate pluginuri</string>
+      <string name="internal_detector">Scaner de coduri de bare AI</string>
+      <string name="wtma_invalid_service_url">URL-ul serviciului de coduri de bare nevalide, comutat la valoarea implicită!</string>
+      <string name="offline_mode">Modul offline</string>
+      <string name="system_request">Cerere de sistem</string>
+      <string name="enter_number">Introdu numarul!</string>
+      <string name="printer">Imprimanta</string>
+      <string name="printer_not_active">Imprimanta nu este activă.</string>
+      <string name="report_template">Model de raport</string>
+      <string name="enter_template_name">Introduceți numele șablonului!</string>
+      <string name="disconnect">Deconectat</string>
+      <string name="already_activated">Deja activat:</string>
+      <string name="ssl_certificate_error">Eroare certificat SSL.</string>
+      <string name="cert_authority_not_trusted">Autoritatea de certificare nu are încredere.</string>
+      <string name="cert_expired">Certificatul a expirat.</string>
+      <string name="cert_mismatch">Nerespectarea numelui de gazdă certificat.</string>
+      <string name="cert_not_yet_valid">Certificatul nu este încă valabil.</string>
+      <string name="do_you_want_to_continue">Vrei să continui oricum?</string>
+      <string name="continue_btn">Continua</string>
+      <string name="labelMacro">Înregistrare macro</string>
+      <string name="delete">Șterge</string>
+      <string name="title_activity_macro">macrocomenzi</string>
+
+      <string name="fileNotFound">Fișierul nu există.</string>
+
+      <string name="pin_not_matched">PIN-ul nu se potrivește</string>
+      <string name="pin_not_set">PIN-ul nu este setat</string>
+      <string name="labelKbar">Comutați bara de chei</string>
+      <string name="otp_invalid_token">\ ?? SIMBOL INVALID ??</string>
+      <string name="otp_token_unsupported">Token OTP nu este acceptat</string>
+      <string name="otp_token_title">Intrare Token OTP</string>
+      <string name="otp_token_title_reg">Înregistrare jeton OTP</string>
+      <string name="otp_token_message">Token OTP Obligatoriu - Introduceți datele de acreditare</string>
+      <string name="otp_token_unsync">AVERTIZARE!!! Verificați dacă ora sistemului este sincronizată.</string>
+      <string name="webauth_required_message">Toate câmpurile sunt obligatorii</string>
+      <string name="webauth_title">biometrice</string>
+      <string name="wtma_sent">WTMA a confirmat</string>
+      <string name="file_too_big">Fișier prea mare pentru a fi deschis!</string>
+      <string name="biometricBtn">Continua</string>
+      <string name="not_in_demo">Nu este disponibil în modul demo!</string>
+      <string name="tab_a_label">GENERAL</string>
+      <string name="tab_b_label">DISPOZITIV</string>
+      <string name="tab_c_label">ALTE</string>
+ </resources>

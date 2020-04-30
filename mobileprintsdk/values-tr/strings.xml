@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Yazdırma Hizmeti Bilgileri</string>
+      <string name="print_service_help_title_1">Baskı Hizmeti Eklentisi Alın</string>
+      <string name="print_service_help_msg_1">Yazdırmak için bir yazdırma hizmeti eklentisine sahip olmanız gerekir. Her yazıcı markası, mobil aygıtınızdan yazdırmanızı sağlayan kendi eklentisine sahiptir. Genel baskı hizmeti eklentileri de mevcuttur. Size en iyi hizmeti veren eklentiyi seçin. İstediğiniz zaman ek yazdırma eklentileri ekleyebilirsiniz.</string>
+      <string name="print_service_help_title_2">Eklentiyi Etkinleştir</string>
+      <string name="print_service_help_msg_2">Bir Yazdırma Hizmeti Eklentisini indirdikten sonra, eklentinizi etkinleştirmeniz istenir. Sadece seçin ve “AÇIK” konumuna getirin.</string>
+      <string name="plugin_manager_title">Yazdırma Hizmeti Yöneticisi</string>
+      <string name="plugin_manager_sub_title">Yazdırmak için yüklenmiş ve etkinleştirilmiş bir Yazdırma Hizmeti Eklentisine ihtiyacınız var.</string>
+      <string name="before_enable_tips">Android Yazdırma Ayarlarına yönlendirileceksiniz.</string>
+      <string name="before_enable_tips_title">Eklentinizi etkinleştirin</string>
+      <string name="ok">AYARLARA GİT</string>
+      <string name="cancel">İPTAL ETMEK</string>
+      <string name="enabled">Etkin</string>
+      <string name="disabled">engelli</string>
+ </resources>

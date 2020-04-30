@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Wibruj po naciśnięciu klawisza</string>
+      <string name="borders">Kluczowe granice</string>
+      <string name="pref_keyboard_custom">Niestandardowe kolory motywów</string>
+      <string name="pref_keyboard_preview">Zapowiedź</string>
+      <string name="keyb2_custom_action_color_title">Kolor akcji</string>
+      <string name="keyb2_custom_action_color_summary">Kolor płaskich przycisków</string>
+      <string name="keyb2_custom_background_color_title">tło</string>
+      <string name="keyb2_custom_background_color_summary">Kolor tła klawiatury</string>
+      <string name="keyb2_custom_button_color_title">Kluczowy kolor</string>
+      <string name="keyb2_custom_button_color_summary">Kolor klucza, jeśli włączone są ramki</string>
+      <string name="keyb2_custom_button_border_color_title">Kolor obramowania klucza</string>
+      <string name="keyb2_custom_button_border_color_summary">Kolor kluczowy, jeśli obramowania są włączone</string>
+      <string name="keyb2_custom_shadow_color_title">Cień w tle</string>
+      <string name="keyb2_custom_shadow_color_summary">Kolor górnej krawędzi klawiatury</string>
+      <string name="keyb2_custom_text_color_title">Kluczowa etykieta</string>
+      <string name="keyb2_custom_text_color_summary">Kluczowy kolor głównej etykiety</string>
+      <string name="keyb2_custom_text_alt_color_title">Mała etykieta klucza</string>
+      <string name="keyb2_custom_text_alt_color_summary">Kluczowy kolor małej etykiety</string>
+ </resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Для виявлення потрібен доступ до камери</string>
+      <string name="permission_warning">Попередження про дозвіл</string>
+      <string name="no_camera_permission">Розпізнавання штрих-коду не може працювати, оскільки на ньому немає дозволу камери.</string>
+      <string name="low_storage_error">Залежності детектора штрих-коду неможливо завантажити через низький обсяг пам’яті пристрою</string>
+ </resources>

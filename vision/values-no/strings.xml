@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Tilgang til kameraet er nødvendig for å oppdage</string>
+      <string name="permission_warning">Tillatelsesvarsel</string>
+      <string name="no_camera_permission">Strekkodegjenkjenning kan ikke kjøres fordi den ikke har kameraet tillatelse.</string>
+      <string name="low_storage_error">Strekkodedetektoravhengigheter kan ikke lastes ned på grunn av lite enhetslagring</string>
+ </resources>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Informações sobre o serviço de impressão</string>
+      <string name="print_service_help_title_1">Obtenha um plug-in de serviço de impressão</string>
+      <string name="print_service_help_msg_1">Você deve ter um plug-in de serviço de impressão instalado para imprimir. Cada marca de impressora possui seu próprio plug-in que permite imprimir no seu dispositivo móvel. Também estão disponíveis plugins genéricos de serviço de impressão. Selecione o plugin que melhor lhe serve. Você pode adicionar plug-ins de impressão adicionais a qualquer momento.</string>
+      <string name="print_service_help_title_2">Ativar plug-in</string>
+      <string name="print_service_help_msg_2">Após o download de um plug-in de serviço de impressão, você será solicitado a ativar seu plug-in. Basta selecioná-lo e tocar no interruptor para “ON”.</string>
+      <string name="plugin_manager_title">Gerente de Serviços de Impressão</string>
+      <string name="plugin_manager_sub_title">Você precisa de um plug-in de serviço de impressão instalado e habilitado para imprimir.</string>
+      <string name="before_enable_tips">Você será direcionado para as configurações de impressão do Android.</string>
+      <string name="before_enable_tips_title">Habilite seu plug-in</string>
+      <string name="ok">VÁ PARA AS CONFIGURAÇÕES</string>
+      <string name="cancel">CANCELAR</string>
+      <string name="enabled">ativado</string>
+      <string name="disabled">Desativado</string>
+ </resources>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Yerel depolamaya yazma izni reddedildi.</string>
+      <string name="show_keyboard">Klavyeyi Göster</string>
+      <string name="select_keyboard">Klavye Seç</string>
+      <string name="keyboard_notification">Klavye bildirimi etkin.</string>
+      <string name="tap_to_open_keyboard">Yeşil Ekranlar klavyesini açmak için dokunun.</string>
+      <string name="tap_to_select_keyboard">Klavyeyi seçmek için dokunun.</string>
+      <string name="no_intent_document">Belge kullanılacak uygulama yok</string>
+      <string name="print_mode_unsupported">Rapor modu seçilen sürücü için desteklenmiyor</string>
+
+      <string name="help_download">Sunucudan manuel indiriliyor ...</string>
+      <string name="no_pdf_viewer">PDF Görüntüleyici bulunamadı! Lütfen Google Play\'den bir tane yükleyin.</string>
+      <string name="no_file">Dosya bulunamadı.</string>
+      <string name="no_print_data">Yazdırılacak veri yok.</string>
+      <string name="network_unavailable">Ağ kullanılamıyor. Lütfen WIFI veya Mobil ağı açın.</string>
+      <string name="internal_initialization">Başlatma işlemi devam ediyor, lütfen birkaç saniye içinde tekrar deneyin.</string>
+      <string name="print_error">Veri yazdırılmadı</string>
+      <string name="printer_not_found">Zebra Yazıcı bulunamadı</string>
+      <string name="multipart_upload">Çok Parçalı Yükleme</string>
+      <string name="cancel_upload">İptal etmek</string>
+      <string name="upload_cancelled">Yükleme iptal edildi</string>
+      <string name="upload_success">Yükleme [[ELAPSED_TIME]] içinde başarıyla tamamlandı</string>
+      <string name="upload_error">Yüklerken hata</string>
+      <string name="upload_title">Yükleme ...</string>
+      <string name="uploading">[[UPLOAD_RATE]] - [[PROGRESS]] sayfasında [[TOTAL_FILES]] sayfasının [[UPLOADED_FILES]] klasörünü yükledi</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra Sürücüsü kurulu değil!</string>
+      <string name="youAreNotUpdatedTitle">Güncelleme uygun</string>
+      <string name="youAreNotUpdatedMessage">Yeşil Ekran Terminalinin yeni bir sürümü mevcut. \ NLütfen sürüme güncelleyin!</string>
+      <string name="update">Güncelleme</string>
+      <string name="report_downloaded">Rapor cihaza indirildi</string>
+      <string name="report_downloading">Sunucudan indirmeyi rapor et</string>
+      <string name="report_print">Rapor yazdırmaya gönder</string>
+      <string name="biometric_authenticate_ok">Biyometrik kimlik doğrulaması</string>
+      <string name="biometric_validate_ok">Biyometrik onaylı</string>
+      <string name="biometric_register_ok">Biyometrik kayıtlıdır</string>
+      <string name="biometric_unregister_ok">Biyometrik kayıt dışı</string>
+      <string name="biometric_update_ok">Biyometrik güncellendi</string>
+      <string name="biometric_error">Biyometrik kayıtlı değil</string>
+ </resources>

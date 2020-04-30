@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">ปฏิเสธสิทธิ์ในการเขียนไปยังที่จัดเก็บในตัวเครื่อง</string>
+      <string name="show_keyboard">แสดงแป้นพิมพ์</string>
+      <string name="select_keyboard">เลือกคีย์บอร์ด</string>
+      <string name="keyboard_notification">เปิดใช้งานการแจ้งเตือนคีย์บอร์ด</string>
+      <string name="tap_to_open_keyboard">แตะเพื่อเปิดแป้นพิมพ์หน้าจอสีเขียว</string>
+      <string name="tap_to_select_keyboard">แตะเพื่อเลือกแป้นพิมพ์</string>
+      <string name="no_intent_document">ไม่มีแอปพลิเคชันที่จะใช้เอกสาร</string>
+      <string name="print_mode_unsupported">โหมดรายงานไม่รองรับไดร์เวอร์ที่เลือก</string>
+
+      <string name="help_download">กำลังดาวน์โหลดคู่มือจากเซิร์ฟเวอร์ ...</string>
+      <string name="no_pdf_viewer">ไม่พบ PDF Viewer! กรุณาติดตั้งจาก Google Play</string>
+      <string name="no_file">ไม่พบไฟล์.</string>
+      <string name="no_print_data">ไม่มีข้อมูลที่จะพิมพ์</string>
+      <string name="network_unavailable">เครือข่ายใช้งานไม่ได้ กรุณาเปิด WIFI หรือเครือข่ายมือถือ</string>
+      <string name="internal_initialization">กำลังดำเนินการเริ่มต้นโปรดลองอีกครั้งในไม่กี่วินาที</string>
+      <string name="print_error">ข้อมูลไม่ถูกพิมพ์</string>
+      <string name="printer_not_found">ไม่พบเครื่องพิมพ์ Zebra</string>
+      <string name="multipart_upload">Multipart Upload</string>
+      <string name="cancel_upload">ยกเลิก</string>
+      <string name="upload_cancelled">การอัปโหลดถูกยกเลิก</string>
+      <string name="upload_success">การอัปโหลดเสร็จสมบูรณ์ใน [[ELAPSED_TIME]]</string>
+      <string name="upload_error">เกิดข้อผิดพลาดขณะอัพโหลด</string>
+      <string name="upload_title">อัปโหลด ...</string>
+      <string name="uploading">อัปโหลด [[UPLOADED_FILES]] จาก [[TOTAL_FILES]] ที่ [[UPLOAD_RATE]] - [[ความก้าวหน้า]]</string>
+      <string name="ZEBRA_NOT_FOUND">ไม่ได้ติดตั้งไดรเวอร์ Zebra!</string>
+      <string name="youAreNotUpdatedTitle">อัปเดตพร้อมใช้งาน</string>
+      <string name="youAreNotUpdatedMessage">มี Terminal สีเขียวเวอร์ชันใหม่พร้อมใช้งาน \ n โปรดอัปเดตเป็นเวอร์ชัน!</string>
+      <string name="update">ปรับปรุง</string>
+      <string name="report_downloaded">รายงานดาวน์โหลดไปยังอุปกรณ์</string>
+      <string name="report_downloading">รายงานการดาวน์โหลดจากเซิร์ฟเวอร์</string>
+      <string name="report_print">รายงานส่งไปยังพิมพ์</string>
+      <string name="biometric_authenticate_ok">รับรองความถูกต้องทางชีวภาพ</string>
+      <string name="biometric_validate_ok">ผ่านการตรวจสอบความถูกต้องทางชีวภาพ</string>
+      <string name="biometric_register_ok">ไบโอเมตริกซ์ที่ลงทะเบียน</string>
+      <string name="biometric_unregister_ok">ไม่มีการลงทะเบียนทางชีวภาพ</string>
+      <string name="biometric_update_ok">อัปเดต Biometric แล้ว</string>
+      <string name="biometric_error">Biometric ไม่ได้ลงทะเบียน</string>
+ </resources>

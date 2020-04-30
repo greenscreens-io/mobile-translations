@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logotyp</string>
+      <string name="ok">OK</string>
+      <string name="cancel">Avbryt</string>
+      <string name="change">Förändra</string>
+      <string name="stop">Sluta</string>
+      <string name="disconnect">Koppla ifrån</string>
+      <string name="enter_printer_name">Ange skrivarens enhetsnamn</string>
+      <string name="printer">Skrivare</string>
+      <string name="enter_pin">Ange PIN-koden</string>
+      <string name="enter_otp">Ange OTP-användare och symbol</string>
+      <string name="already_activated">Redan aktiverad:</string>
+      <string name="file_download">Nedladdning fil</string>
+      <string name="file_upload">Ladda upp fil</string>
+      <string name="rate_dialog_title">Betyg %s.</string>
+      <string name="rate_dialog_message">Om du gillar att använda %s, vänligen hjälp oss genom att betygsätta det. Det tar bara några sekunder!</string>
+      <string name="rate_dialog_action_rate">Betygsätta</string>
+      <string name="rate_dialog_action_never">Nej tack</string>
+      <string name="rate_dialog_action_later">Senare</string>
+      <string name="rate_dialog_thank_you">Tack!</string>
+ </resources>

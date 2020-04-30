@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Ang pag-access sa camera ay kinakailangan para sa pagtuklas</string>
+      <string name="permission_warning">Babala ng pahintulot</string>
+      <string name="no_camera_permission">Hindi maaaring tumakbo ang pagkilala sa barcode dahil wala itong pahintulot sa camera.</string>
+      <string name="low_storage_error">Hindi maaaring mai-download ang mga dependencies ng detektor ng barcode dahil sa pag-iimbak ng mababang aparato</string>
+ </resources>

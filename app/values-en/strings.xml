@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_desc">Green Screens 5250 Terminal with barcode scanner. Find out more at www.greenscreens.io</string>
+
+
+    <string name="title_configs">Select configuration</string>
+    <string name="title_plugins">Select plugin</string>
+    <string name="title_help">Green Screens - Help</string>
+
+    <string name="selectAction">Select action</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="data_removed">Data removed!</string>
+    <string name="config_data_required">UUID and Host are required values!</string>
+    <string name="otp_data_required">User and token are required values!</string>
+
+    <string name="loading">Loading…</string>
+    <string name="action_tutors">Tutorials</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+
+    <string name="labelBarcode">Barcode</string>
+    <string name="labelPrinter">Printer</string>
+    <string name="labelLockRotate">Lock rotate</string>
+    <string name="labelSplitScreen">Split Screen</string>
+    <string name="labelTheme">Switch Theme</string>
+    <string name="labelTemplate">Spool Template</string>
+    <string name="labelDownload">File Download</string>
+    <string name="labelUpload">File Upload</string>
+
+    <string name="pasteModeInfo">Copy /Paste mode changed</string>
+
+    <!-- CONFIGURATION VALUES -->
+
+    <!-- ACRA VALUES -->
+    <string name="crash_toast_text">Ooooops ! I crashed, but a report has been sent to my developer to help fix the issue !</string>
+
+    <string name="crash_dialog_title">Terminal has crashed</string>
+    <string name="crash_dialog_text">An unexpected error occurred forcing the application to stop. Please help us fix this by sending us error data, all you have to do is click OK.</string>
+    <string name="crash_dialog_comment_prompt">You might add your comments about the problem below:</string>
+
+    <string name="msg_macro">Macro name</string>
+    <string name="msg_macro_undefined">Macro not defined</string>
+
+    <string name="msg_barcode_invalid">Invalid data, check if wrong barcode scanned!</string>
+    <string name="msg_barcode_error">Error while processing barcode.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_demo">Demos</string>
+    <string name="action_camera">Scan</string>
+    <string name="saveBtn">Save</string>
+    <string name="submitBtn">Submit</string>
+
+    <string name="warning">Warning</string>
+    <string name="unsupported_version">This version of Android is not supported.</string>
+    <string name="update_webview">In order to use application, please update web engine to the latest version.</string>
+    <string name="network_unavailable">Network not available! Please open network connection!</string>
+    <string name="downloads_permission">Downloads not available. Please, enable application permissions.</string>
+    <string name="info">Info</string>
+    <string name="close_session_question">Are you sure you want to close this session?</string>
+    <string name="invalid_url">Invalid url!</string>
+    <string name="error">Error</string>
+    <string name="service_unavailable">Unable to access remote service</string>
+    <string name="no_data">No saved configuration data</string>
+    <string name="service_not_set">Service URL not set</string>
+    <string name="description">Description</string>
+    <string name="no_data_from_scanner">No data from scanner</string>
+    <string name="no_plugins_installed">No plugins installed</string>
+    <string name="internal_detector">AI Barcode Scanner</string>
+
+    <string name="wtma_invalid_service_url">Invalid barcode service url, switched to default!</string>
+
+    <string name="offline_mode">Offline mode</string>
+    <string name="system_request">System Request</string>
+    <string name="enter_number">Enter number!</string>
+    <string name="printer">Printer</string>
+    <string name="printer_not_active">Printer not active.</string>
+    <string name="report_template">Report template</string>
+    <string name="enter_template_name">Enter template name!</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="already_activated">Already activated :</string>
+    <string name="ssl_certificate_error">SSL Certificate error.</string>
+    <string name="cert_authority_not_trusted">The certificate authority is not trusted.</string>
+    <string name="cert_expired">The certificate has expired.</string>
+    <string name="cert_mismatch">The certificate Hostname mismatch.</string>
+    <string name="cert_not_yet_valid">The certificate is not yet valid.</string>
+    <string name="do_you_want_to_continue">Do you want to continue anyway?</string>
+    <string name="continue_btn">Continue</string>
+    <string name="labelMacro">Macro Record</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_macro">Macros</string>
+
+    <string name="fileNotFound">File does not exists.</string>
+    <string name="pin_not_matched">PIN does not match</string>
+    <string name="pin_not_set">PIN not set</string>
+
+    <string name="labelKbar">Switch Keybar</string>
+
+    <!-- OTP messages-->
+    <string name="otp_invalid_token">\?? INVALID TOKEN ??</string>
+    <string name="otp_token_unsupported">OTP Token not supported</string>
+    <string name="otp_token_title">OTP Token Entry</string>
+    <string name="otp_token_title_reg">OTP Token Registration</string>
+    <string name="otp_token_message">OTP Token Required - Enter Credentials</string>
+    <string name="otp_token_unsync">WARNING!!! Please check if system time is synchronized.</string>
+    <string name="webauth_required_message">All field are required</string>
+    <string name="webauth_title">Biometric</string>
+    <string name="wtma_sent">WTMA confirmed</string>
+    <string name="file_too_big">File too big to open!</string>
+    <string name="biometricBtn">Continue</string>
+
+
+    <string name="not_in_demo">Not available in demo mode!</string>
+    <string name="tab_a_label">GENERAL</string>
+    <string name="tab_b_label">DEVICE</string>
+    <string name="tab_c_label">OTHER</string>
+
+</resources>

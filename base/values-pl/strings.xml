@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Odmowa zezwolenia na zapis do lokalnego magazynu.</string>
+      <string name="show_keyboard">Pokaż klawiaturę</string>
+      <string name="select_keyboard">Wybierz klawiaturę</string>
+      <string name="keyboard_notification">Powiadomienie z klawiatury włączone.</string>
+      <string name="tap_to_open_keyboard">Stuknij, aby otworzyć klawiaturę zielonego ekranu.</string>
+      <string name="tap_to_select_keyboard">Naciśnij, aby wybrać klawiaturę.</string>
+      <string name="no_intent_document">Brak aplikacji do korzystania z dokumentu</string>
+      <string name="print_mode_unsupported">Tryb raportu nie jest obsługiwany dla wybranego sterownika</string>
+
+      <string name="help_download">Pobieranie instrukcji z serwera ...</string>
+      <string name="no_pdf_viewer">Przeglądarka PDF nie została znaleziona! Zainstaluj jeden z Google Play.</string>
+      <string name="no_file">Nie znaleziono pliku.</string>
+      <string name="no_print_data">Brak danych do wydrukowania.</string>
+      <string name="network_unavailable">Sieć niedostępna. Otwórz sieć WIFI lub sieć komórkową.</string>
+      <string name="internal_initialization">Trwa inicjalizacja, spróbuj ponownie za kilka sekund.</string>
+      <string name="print_error">Dane nie są drukowane</string>
+      <string name="printer_not_found">Nie znaleziono drukarki Zebra</string>
+      <string name="multipart_upload">Przesyłanie wieloczęściowe</string>
+      <string name="cancel_upload">Anuluj</string>
+      <string name="upload_cancelled">Przesyłanie zostało anulowane</string>
+      <string name="upload_success">Przesyłanie zakończone powodzeniem za [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Błąd podczas przesyłania</string>
+      <string name="upload_title">Przesyłanie ...</string>
+      <string name="uploading">Przesłano [[UPLOADED_FILES]] z [[TOTAL_FILES]] w [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Sterownik Zebra nie został zainstalowany!</string>
+      <string name="youAreNotUpdatedTitle">Dostępna aktualizacja</string>
+      <string name="youAreNotUpdatedMessage">Dostępna jest nowa wersja terminalu zielonych ekranów. \ NZaktualizuj do wersji!</string>
+      <string name="update">Aktualizacja</string>
+      <string name="report_downloaded">Raport pobrany na urządzenie</string>
+      <string name="report_downloading">Zgłoś pobieranie z serwera</string>
+      <string name="report_print">Raport wyślij do wydruku</string>
+      <string name="biometric_authenticate_ok">Uwierzytelnienie biometryczne</string>
+      <string name="biometric_validate_ok">Walidacja biometryczna</string>
+      <string name="biometric_register_ok">Zarejestrowano dane biometryczne</string>
+      <string name="biometric_unregister_ok">Biometryczny niezarejestrowany</string>
+      <string name="biometric_update_ok">Zaktualizowano dane biometryczne</string>
+      <string name="biometric_error">Biometryczny niezarejestrowany</string>
+ </resources>

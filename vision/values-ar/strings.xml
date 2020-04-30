@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">الوصول إلى الكاميرا مطلوب للكشف</string>
+      <string name="permission_warning">تحذير إذن</string>
+      <string name="no_camera_permission">لا يمكن تشغيل التعرف على الرمز الشريطي لأنه ليس لديه إذن الكاميرا.</string>
+      <string name="low_storage_error">لا يمكن تنزيل تبعيات كاشف الباركود نظرًا لانخفاض سعة تخزين الجهاز</string>
+ </resources>

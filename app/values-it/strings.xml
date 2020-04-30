@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Terminali Green Screens 5250 con scanner di codici a barre. Scopri di più su www.greenscreens.io</string>
+
+      <string name="title_configs">Seleziona la configurazione</string>
+      <string name="title_plugins">Seleziona plug-in</string>
+      <string name="title_help">Schermate verdi - Guida</string>
+      <string name="selectAction">Seleziona azione</string>
+      <string name="cancel">Annulla</string>
+      <string name="ok">ok</string>
+      <string name="data_removed">Dati rimossi!</string>
+      <string name="config_data_required">UUID e Host sono valori obbligatori!</string>
+      <string name="otp_data_required">Utente e token sono valori obbligatori!</string>
+
+      <string name="loading">Caricamento in corso…</string>
+      <string name="action_tutors">Esercitazioni</string>
+
+      <string name="action_help">Aiuto</string>
+      <string name="action_about">Di</string>
+
+      <string name="labelBarcode">Codice a barre</string>
+      <string name="labelPrinter">Stampante</string>
+      <string name="labelLockRotate">Il blocco ruota</string>
+      <string name="labelSplitScreen">Schermo diviso</string>
+      <string name="labelTheme">Cambia tema</string>
+      <string name="labelTemplate">Modello di spool</string>
+      <string name="labelDownload">Download file</string>
+      <string name="labelUpload">Upload di file</string>
+      <string name="pasteModeInfo">La modalità Copia / Incolla è cambiata</string>
+      <string name="crash_toast_text">Ooooops! Mi sono bloccato, ma un rapporto è stato inviato al mio sviluppatore per aiutare a risolvere il problema!</string>
+      <string name="crash_dialog_title">Il terminale è andato in crash</string>
+      <string name="crash_dialog_text">Si è verificato un errore imprevisto che ha costretto l\'arresto dell\'applicazione. Aiutaci a risolvere questo problema inviandoci dati di errore, tutto ciò che devi fare è fare clic su OK.</string>
+      <string name="crash_dialog_comment_prompt">Potresti aggiungere i tuoi commenti sul problema di seguito:</string>
+      <string name="msg_macro">Nome macro</string>
+      <string name="msg_macro_undefined">Macro non definita</string>
+      <string name="msg_barcode_invalid">Dati non validi, controlla se il codice a barre sbagliato è stato scansionato!</string>
+      <string name="msg_barcode_error">Errore durante l\'elaborazione del codice a barre.</string>
+      <string name="action_settings">impostazioni</string>
+      <string name="action_demo">Demos</string>
+      <string name="action_camera">Scansione</string>
+      <string name="saveBtn">Salva</string>
+      <string name="submitBtn">Invia</string>
+    <string name="warning">avvertimento</string>
+      <string name="unsupported_version">Questa versione di Android non è supportata.</string>
+      <string name="update_webview">Per utilizzare l\'applicazione, aggiornare il motore Web all\'ultima versione.</string>
+      <string name="network_unavailable">Rete non disponibile! Si prega di aprire la connessione di rete!</string>
+      <string name="downloads_permission">Download non disponibili. Abilitare le autorizzazioni dell\'applicazione.</string>
+      <string name="info">Informazioni</string>
+      <string name="close_session_question">Sei sicuro di voler chiudere questa sessione?</string>
+      <string name="invalid_url">URL non valido!</string>
+      <string name="error">Errore</string>
+      <string name="service_unavailable">Impossibile accedere al servizio remoto</string>
+      <string name="no_data">Nessun dato di configurazione salvato</string>
+      <string name="service_not_set">URL del servizio non impostato</string>
+      <string name="description">Descrizione</string>
+      <string name="no_data_from_scanner">Nessun dato dallo scanner</string>
+      <string name="no_plugins_installed">Nessun plugin installato</string>
+      <string name="internal_detector">Scanner di codici a barre AI</string>
+      <string name="wtma_invalid_service_url">URL del servizio codice a barre non valido, impostato sul valore predefinito!</string>
+      <string name="offline_mode">Modalità offline</string>
+      <string name="system_request">Richiesta di sistema</string>
+      <string name="enter_number">Inserisci numero!</string>
+      <string name="printer">Stampante</string>
+      <string name="printer_not_active">Stampante non attiva.</string>
+      <string name="report_template">Modello di report</string>
+      <string name="enter_template_name">Inserisci il nome del modello!</string>
+      <string name="disconnect">Disconnect</string>
+      <string name="already_activated">Già attivato:</string>
+      <string name="ssl_certificate_error">Errore certificato SSL.</string>
+      <string name="cert_authority_not_trusted">L\'autorità di certificazione non è attendibile.</string>
+      <string name="cert_expired">Il certificato è scaduto</string>
+      <string name="cert_mismatch">Mancata corrispondenza del nome host del certificato.</string>
+      <string name="cert_not_yet_valid">Il certificato non è ancora valido</string>
+      <string name="do_you_want_to_continue">Vuoi continuare comunque?</string>
+      <string name="continue_btn">Continua</string>
+      <string name="labelMacro">Macro Record</string>
+      <string name="delete">Elimina</string>
+      <string name="title_activity_macro">Macro</string>
+
+      <string name="fileNotFound">Il file non esiste.</string>
+
+      <string name="pin_not_matched">Il PIN non corrisponde</string>
+      <string name="pin_not_set">PIN non impostato</string>
+      <string name="labelKbar">Cambia barra dei tasti</string>
+      <string name="otp_invalid_token">\ ?? GETTONE NON VALIDO ??</string>
+      <string name="otp_token_unsupported">Token OTP non supportato</string>
+      <string name="otp_token_title">Voce token OTP</string>
+      <string name="otp_token_title_reg">Registrazione token OTP</string>
+      <string name="otp_token_message">Token OTP richiesto: immettere le credenziali</string>
+      <string name="otp_token_unsync">AVVERTIMENTO!!! Verificare se l\'ora del sistema è sincronizzata.</string>
+      <string name="webauth_required_message">Tutti i campi sono obbligatori</string>
+      <string name="webauth_title">biometrico</string>
+      <string name="wtma_sent">WTMA confermato</string>
+      <string name="file_too_big">File troppo grande per essere aperto!</string>
+      <string name="biometricBtn">Continua</string>
+      <string name="not_in_demo">Non disponibile in modalità demo!</string>
+      <string name="tab_a_label">GENERALE</string>
+      <string name="tab_b_label">DISPOSITIVO</string>
+      <string name="tab_c_label">ALTRO</string>
+ </resources>

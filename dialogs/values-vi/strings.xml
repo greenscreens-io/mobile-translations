@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">Logo</string>
+      <string name="ok">đồng ý</string>
+      <string name="cancel">Hủy bỏ</string>
+      <string name="change">Thay đổi</string>
+      <string name="stop">Dừng lại</string>
+      <string name="disconnect">Ngắt kết nối</string>
+      <string name="enter_printer_name">Nhập tên thiết bị máy in</string>
+      <string name="printer">Máy in</string>
+      <string name="enter_pin">Nhập PIN</string>
+      <string name="enter_otp">Nhập mã thông báo và người dùng OTP</string>
+      <string name="already_activated">Đã được kích hoạt :</string>
+      <string name="file_download">Tải tập tin</string>
+      <string name="file_upload">Cập nhật dử liệu</string>
+      <string name="rate_dialog_title">Giá %s.</string>
+      <string name="rate_dialog_message">Nếu bạn thích sử dụng %s, vui lòng giúp chúng tôi bằng cách xếp hạng nó. Nó chỉ mất một vài giây!</string>
+      <string name="rate_dialog_action_rate">Tỷ lệ</string>
+      <string name="rate_dialog_action_never">Không, cám ơn</string>
+      <string name="rate_dialog_action_later">Một lát sau</string>
+      <string name="rate_dialog_thank_you">Cảm ơn bạn!</string>
+ </resources>

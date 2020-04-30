@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Green Screens 5250 Terminal na may scanner ng barcode. Alamin ang higit pa sa www.greenscreens.io</string>
+
+      <string name="title_configs">Piliin ang pagsasaayos</string>
+      <string name="title_plugins">Piliin ang plugin</string>
+      <string name="title_help">Green Screens - Tulong</string>
+      <string name="selectAction">Piliin ang pagkilos</string>
+      <string name="cancel">Pagkansela</string>
+      <string name="ok">OK</string>
+      <string name="data_removed">Inalis ang data!</string>
+      <string name="config_data_required">Ang UUID at Host ay kinakailangan mga halaga!</string>
+      <string name="otp_data_required">Ang mga gumagamit at token ay kinakailangang mga halaga!</string>
+
+      <string name="loading">Naglo-load ...</string>
+      <string name="action_tutors">Mga Tutorial</string>
+
+      <string name="action_help">Tulong</string>
+      <string name="action_about">Tungkol sa</string>
+
+      <string name="labelBarcode">Barcode</string>
+      <string name="labelPrinter">Printer</string>
+      <string name="labelLockRotate">I-rotate</string>
+      <string name="labelSplitScreen">Hati ng Screen</string>
+      <string name="labelTheme">Tema ng Lumipat</string>
+      <string name="labelTemplate">Template ng Spool</string>
+      <string name="labelDownload">Pag-download ng File</string>
+      <string name="labelUpload">Pag-upload ng File</string>
+      <string name="pasteModeInfo">Nabago ang mode ng Copy / paste</string>
+      <string name="crash_toast_text">Ooooops! Nag-crash ako, ngunit ang isang ulat ay ipinadala sa aking developer upang makatulong na ayusin ang isyu!</string>
+      <string name="crash_dialog_title">Nag-crash ang Terminal</string>
+      <string name="crash_dialog_text">Isang hindi inaasahang error ang naganap sa pagpilit sa aplikasyon na huminto. Mangyaring tulungan kaming ayusin ito sa pamamagitan ng pagpapadala sa amin ng data ng error, ang kailangan mo lang gawin ay mag-click sa OK.</string>
+      <string name="crash_dialog_comment_prompt">Maaari mong idagdag ang iyong mga puna tungkol sa problema sa ibaba:</string>
+      <string name="msg_macro">Macro pangalan</string>
+      <string name="msg_macro_undefined">Hindi tinukoy ang Macro</string>
+      <string name="msg_barcode_invalid">Hindi wastong data, suriin kung na-scan ang maling barcode!</string>
+      <string name="msg_barcode_error">Error habang nagpoproseso ng barcode.</string>
+      <string name="action_settings">Mga setting</string>
+      <string name="action_demo">Mga Demonyo</string>
+      <string name="action_camera">Scan</string>
+      <string name="saveBtn">I-save</string>
+      <string name="submitBtn">Ipasa</string>
+    <string name="warning">Babala</string>
+      <string name="unsupported_version">Ang bersyon na ito ng Android ay hindi suportado.</string>
+      <string name="update_webview">Upang magamit ang application, mangyaring i-update ang web engine sa pinakabagong bersyon.</string>
+      <string name="network_unavailable">Hindi magagamit ang network! Mangyaring buksan ang koneksyon sa network!</string>
+      <string name="downloads_permission">Hindi magagamit ang mga pag-download. Mangyaring, paganahin ang mga pahintulot sa aplikasyon.</string>
+      <string name="info">Impormasyon</string>
+      <string name="close_session_question">Sigurado ka bang nais mong isara ang session na ito?</string>
+      <string name="invalid_url">Di wastong url!</string>
+      <string name="error">Error</string>
+      <string name="service_unavailable">Hindi ma-access ang malayuang serbisyo</string>
+      <string name="no_data">Walang naka-save na data ng pagsasaayos</string>
+      <string name="service_not_set">Hindi nakatakda ang URL ng serbisyo</string>
+      <string name="description">Paglalarawan</string>
+      <string name="no_data_from_scanner">Walang data mula sa scanner</string>
+      <string name="no_plugins_installed">Walang naka-install na mga plugin</string>
+      <string name="internal_detector">AI Barcode Scanner</string>
+      <string name="wtma_invalid_service_url">Hindi wastong url ng serbisyo ng barcode, lumipat sa default!</string>
+      <string name="offline_mode">Di konektado</string>
+      <string name="system_request">Humiling ng System</string>
+      <string name="enter_number">Maglagay ng numero!</string>
+      <string name="printer">Printer</string>
+      <string name="printer_not_active">Ang Printer ay hindi aktibo.</string>
+      <string name="report_template">I-template ang ulat</string>
+      <string name="enter_template_name">Ipasok ang pangalan ng template!</string>
+      <string name="disconnect">Idiskonekta</string>
+      <string name="already_activated">Na-activate na:</string>
+      <string name="ssl_certificate_error">Ang error sa SSL Certificate.</string>
+      <string name="cert_authority_not_trusted">Hindi mapagkakatiwalaan ang awtoridad ng sertipiko.</string>
+      <string name="cert_expired">Natapos na ang sertipiko.</string>
+      <string name="cert_mismatch">Ang sertipiko Hostname mismatch.</string>
+      <string name="cert_not_yet_valid">Ang sertipiko ay hindi pa wasto.</string>
+      <string name="do_you_want_to_continue">Nais mo bang magpatuloy pa rin?</string>
+      <string name="continue_btn">Magpatuloy</string>
+      <string name="labelMacro">Record ng Macro</string>
+      <string name="delete">Tanggalin</string>
+      <string name="title_activity_macro">Macros</string>
+
+      <string name="fileNotFound">Ang file ay hindi umiiral.</string>
+
+      <string name="pin_not_matched">Hindi tumutugma ang PIN</string>
+      <string name="pin_not_set">Hindi nakatakda ang PIN</string>
+      <string name="labelKbar">Lumipat Keybar</string>
+      <string name="otp_invalid_token">\ ?? INVALID TOKEN ??</string>
+      <string name="otp_token_unsupported">Hindi suportado ng OTP Token</string>
+      <string name="otp_token_title">OTP Token Entry</string>
+      <string name="otp_token_title_reg">Pagrehistro ng OTP Token</string>
+      <string name="otp_token_message">Kailangan ng OTP Token - Ipasok ang Mga Kredensyal</string>
+      <string name="otp_token_unsync">BABALA !!! Mangyaring suriin kung ang oras ng system ay naka-synchronize.</string>
+      <string name="webauth_required_message">Kinakailangan ang lahat ng patlang</string>
+      <string name="webauth_title">Biometric</string>
+      <string name="wtma_sent">Kinumpirma ng WTMA</string>
+      <string name="file_too_big">Malaki ang file upang buksan!</string>
+      <string name="biometricBtn">Magpatuloy</string>
+      <string name="not_in_demo">Hindi magagamit sa mode ng demo!</string>
+      <string name="tab_a_label">PANGKALAPATAN</string>
+      <string name="tab_b_label">PAGTATAYA</string>
+      <string name="tab_c_label">IBA</string>
+ </resources>

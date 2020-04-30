@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Basınca titret</string>
+      <string name="borders">Anahtar kenarlıklar</string>
+      <string name="pref_keyboard_custom">Özel Tema Renkleri</string>
+      <string name="pref_keyboard_preview">Ön izleme</string>
+      <string name="keyb2_custom_action_color_title">Eylem rengi</string>
+      <string name="keyb2_custom_action_color_summary">Düz düğmeler için renk</string>
+      <string name="keyb2_custom_background_color_title">Arka fon</string>
+      <string name="keyb2_custom_background_color_summary">Klavye arka plan rengi</string>
+      <string name="keyb2_custom_button_color_title">Anahtar Renk</string>
+      <string name="keyb2_custom_button_color_summary">Kenarlıklar etkinse anahtar rengi</string>
+      <string name="keyb2_custom_button_border_color_title">Anahtar Kenarlık Rengi</string>
+      <string name="keyb2_custom_button_border_color_summary">Kenarlıklar etkinse tuş sırası rengi</string>
+      <string name="keyb2_custom_shadow_color_title">Arka Plan Gölge</string>
+      <string name="keyb2_custom_shadow_color_summary">Klavye üst kenarlık rengi</string>
+      <string name="keyb2_custom_text_color_title">Anahtar etiketi</string>
+      <string name="keyb2_custom_text_color_summary">Anahtar ana etiket rengi</string>
+      <string name="keyb2_custom_text_alt_color_title">Anahtar etiketi küçük</string>
+      <string name="keyb2_custom_text_alt_color_summary">Anahtar küçük etiket rengi</string>
+ </resources>

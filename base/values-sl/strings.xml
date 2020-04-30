@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Dovoljenje ni bilo mogoče pisati v lokalni pomnilnik.</string>
+      <string name="show_keyboard">Pokaži tipkovnico</string>
+      <string name="select_keyboard">Izberite Tipkovnica</string>
+      <string name="keyboard_notification">Oglaševanje s tipkovnico je omogočeno.</string>
+      <string name="tap_to_open_keyboard">Tapnite, da odprete tipkovnico Zeleni zasloni.</string>
+      <string name="tap_to_select_keyboard">Tapnite za izbiro tipkovnice.</string>
+      <string name="no_intent_document">Za uporabo dokumenta ni nobene vloge</string>
+      <string name="print_mode_unsupported">Način poročanja za izbrani gonilnik ni podprt</string>
+
+      <string name="help_download">Prenos priročnika s strežnika ...</string>
+      <string name="no_pdf_viewer">Pregledovalnika PDF ni mogoče najti! Namestite ga iz Googla Play.</string>
+      <string name="no_file">Datoteka ni najdena.</string>
+      <string name="no_print_data">Ni podatkov za tiskanje.</string>
+      <string name="network_unavailable">Omrežje ni na voljo. Odprite WIFI ali mobilno omrežje.</string>
+      <string name="internal_initialization">Inicializacija je v postopku, poskusite znova čez nekaj sekund.</string>
+      <string name="print_error">Podatki niso natisnjeni</string>
+      <string name="printer_not_found">Zebra tiskalnika ni mogoče najti</string>
+      <string name="multipart_upload">Prenos več delov</string>
+      <string name="cancel_upload">Prekliči</string>
+      <string name="upload_cancelled">Nalaganje je preklicano</string>
+      <string name="upload_success">Naložba je uspešno zaključena v [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Napaka pri prenosu</string>
+      <string name="upload_title">Nalaganje ...</string>
+      <string name="uploading">Naloženo [[UPLOADED_FILES]] od [[TOTAL_FILES]] v [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Gonilnik Zebra ni nameščen!</string>
+      <string name="youAreNotUpdatedTitle">Posodobitev je na voljo</string>
+      <string name="youAreNotUpdatedMessage">Na voljo je nova različica terminala Zeleni zasloni. \ NPosodobite različico!</string>
+      <string name="update">Nadgradnja</string>
+      <string name="report_downloaded">Poročilo je bilo naloženo v napravo</string>
+      <string name="report_downloading">Poročilo o nalaganju s strežnika</string>
+      <string name="report_print">Pošlji poročilo v tisk</string>
+      <string name="biometric_authenticate_ok">Biometrična overjena</string>
+      <string name="biometric_validate_ok">Biometrično potrjeno</string>
+      <string name="biometric_register_ok">Registrirano biometrično</string>
+      <string name="biometric_unregister_ok">Biometrična neprijavljena</string>
+      <string name="biometric_update_ok">Biometrično posodobljeno</string>
+      <string name="biometric_error">Biometrična ni registrirana</string>
+ </resources>

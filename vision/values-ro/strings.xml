@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Accesul la cameră este necesar pentru detectare</string>
+      <string name="permission_warning">Avertisment de permis</string>
+      <string name="no_camera_permission">Recunoașterea codurilor de bare nu poate fi rulată deoarece nu are permisiunea camerei.</string>
+      <string name="low_storage_error">Dependențele detectorului de coduri de bare nu pot fi descărcate din cauza stocării reduse a dispozitivului</string>
+ </resources>

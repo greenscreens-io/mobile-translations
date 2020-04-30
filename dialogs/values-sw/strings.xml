@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">nembo</string>
+      <string name="ok">sawa</string>
+      <string name="cancel">Ghairi</string>
+      <string name="change">Badilisha</string>
+      <string name="stop">Acha</string>
+      <string name="disconnect">Kukata</string>
+      <string name="enter_printer_name">Ingiza jina la kifaa cha printa</string>
+      <string name="printer">Printa</string>
+      <string name="enter_pin">Ingiza PIN</string>
+      <string name="enter_otp">Ingiza Mtumiaji wa OTP na ishara</string>
+      <string name="already_activated">Imewashwa tayari:</string>
+      <string name="file_download">Pakua faili</string>
+      <string name="file_upload">Pakia faili</string>
+      <string name="rate_dialog_title">Viwango %s.</string>
+      <string name="rate_dialog_message">Ikiwa unafurahi kutumia %s, tafadhali tusaidie kwa kuipima. Inachukua sekunde chache!</string>
+      <string name="rate_dialog_action_rate">Kiwango</string>
+      <string name="rate_dialog_action_never">Hapana, asante</string>
+      <string name="rate_dialog_action_later">Baadae</string>
+      <string name="rate_dialog_thank_you">Asante!</string>
+ </resources>

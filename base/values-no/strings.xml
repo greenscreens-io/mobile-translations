@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Tillatelse nektet å skrive til lokal lagring.</string>
+      <string name="show_keyboard">Vis tastatur</string>
+      <string name="select_keyboard">Velg tastatur</string>
+      <string name="keyboard_notification">Tastaturvarsling aktivert.</string>
+      <string name="tap_to_open_keyboard">Trykk for å åpne Green Screens-tastaturet.</string>
+      <string name="tap_to_select_keyboard">Trykk for å velge tastatur.</string>
+      <string name="no_intent_document">Ingen søknad om å bruke dokumentet</string>
+      <string name="print_mode_unsupported">Rapportmodus støttes ikke for valgt driver</string>
+
+      <string name="help_download">Laster ned manual fra server ...</string>
+      <string name="no_pdf_viewer">PDF-visning ikke funnet! Installer en fra Google Play.</string>
+      <string name="no_file">Fil ikke funnet.</string>
+      <string name="no_print_data">Ingen data å skrive ut.</string>
+      <string name="network_unavailable">Nettverket er ikke tilgjengelig. Åpne WIFI eller mobilnett.</string>
+      <string name="internal_initialization">Initialisering i prosess, vennligst prøv igjen om noen sekunder.</string>
+      <string name="print_error">Data ikke skrevet ut</string>
+      <string name="printer_not_found">Zebra-skriver ikke funnet</string>
+      <string name="multipart_upload">Multipart Upload</string>
+      <string name="cancel_upload">Avbryt</string>
+      <string name="upload_cancelled">Opplastingen er kansellert</string>
+      <string name="upload_success">Opplastingen ble fullført i løpet av [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Feil under opplasting</string>
+      <string name="upload_title">Laster opp ...</string>
+      <string name="uploading">Lastet opp [[UPLOADED_FILES]] av [[TOTAL_FILES]] på [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra Driver ikke installert!</string>
+      <string name="youAreNotUpdatedTitle">Oppdatering tilgjengelig</string>
+      <string name="youAreNotUpdatedMessage">En ny versjon av Green Screens Terminal er tilgjengelig. \ NVennligst oppdater til versjonen!</string>
+      <string name="update">Oppdater</string>
+      <string name="report_downloaded">Rapporter lastet ned til enheten</string>
+      <string name="report_downloading">Rapporter nedlasting fra serveren</string>
+      <string name="report_print">Rapport send til utskrift</string>
+      <string name="biometric_authenticate_ok">Biometrisk autentisert</string>
+      <string name="biometric_validate_ok">Biometrisk validert</string>
+      <string name="biometric_register_ok">Biometrisk registrert</string>
+      <string name="biometric_unregister_ok">Uregistrert biometrisk</string>
+      <string name="biometric_update_ok">Biometrisk oppdatert</string>
+      <string name="biometric_error">Biometrisk ikke registrert</string>
+ </resources>

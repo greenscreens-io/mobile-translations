@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Barkod skaneri ilə Yaşıl ekranlar 5250 Terminal. Daha çox məlumatı www.greenscreens.io saytında əldə edin</string>
+
+      <string name="title_configs">Konfiqurasiya seçin</string>
+      <string name="title_plugins">Plugin seçin</string>
+      <string name="title_help">Yaşıl ekranlar - Kömək</string>
+      <string name="selectAction">Fəaliyyəti seçin</string>
+      <string name="cancel">Ləğv et</string>
+      <string name="ok">tamam</string>
+      <string name="data_removed">Məlumat silindi!</string>
+      <string name="config_data_required">UUID və Host tələb olunan dəyərlərdir!</string>
+      <string name="otp_data_required">İstifadəçi və mö\'cüzə tələb olunan dəyərlərdir!</string>
+
+      <string name="loading">Yüklənir ...</string>
+      <string name="action_tutors">Dərsliklər</string>
+
+      <string name="action_help">Kömək edin</string>
+      <string name="action_about">Haqqında</string>
+
+      <string name="labelBarcode">Barkod</string>
+      <string name="labelPrinter">Printer</string>
+      <string name="labelLockRotate">Kilidi döndərin</string>
+      <string name="labelSplitScreen">Bölünmüş ekran</string>
+      <string name="labelTheme">Mövzunu dəyişdirin</string>
+      <string name="labelTemplate">Süpürgə şablonu</string>
+      <string name="labelDownload">Fayl Yükləmə</string>
+      <string name="labelUpload">Fayl Yükləmə</string>
+      <string name="pasteModeInfo">Kopyalama / Yapışdırma rejimi dəyişdirildi</string>
+      <string name="crash_toast_text">Ooooops! Mən qəzaya uğradım, amma məsələni həll etməyə kömək etmək üçün tərtibatçıma bir hesabat göndərildi!</string>
+      <string name="crash_dialog_title">Terminal qəzaya uğrayıb</string>
+      <string name="crash_dialog_text">Tətbiqi dayandırmağa məcbur edən gözlənilməz bir səhv baş verdi. Xahiş edirik bizə səhv məlumatları göndərərək bunu düzəltməyə kömək edin, yalnız OK düyməsini basın.</string>
+      <string name="crash_dialog_comment_prompt">Problem barədə şərhlərinizi aşağıda əlavə edə bilərsiniz:</string>
+      <string name="msg_macro">Makronun adı</string>
+      <string name="msg_macro_undefined">Makro müəyyənləşdirilməyib</string>
+      <string name="msg_barcode_invalid">Yanlış məlumat, səhv ştrix kodun skan edildiyini yoxlayın!</string>
+      <string name="msg_barcode_error">Barkodun işlənməsi zamanı xəta.</string>
+      <string name="action_settings">Parametrlər</string>
+      <string name="action_demo">Demolar</string>
+      <string name="action_camera">Skan edin</string>
+      <string name="saveBtn">Yadda saxla</string>
+      <string name="submitBtn">təqdim</string>
+    <string name="warning">Xəbərdarlıq</string>
+      <string name="unsupported_version">Android-in bu versiyası dəstəklənmir.</string>
+      <string name="update_webview">Tətbiqdən istifadə etmək üçün veb mühərrikini ən son versiyaya yeniləyin.</string>
+      <string name="network_unavailable">Şəbəkə mövcud deyil! Zəhmət olmasa şəbəkə bağlantısını açın!</string>
+      <string name="downloads_permission">Yükləmələr mövcud deyildir. Zəhmət olmasa tətbiq icazələrini aktiv edin.</string>
+      <string name="info">Məlumat</string>
+      <string name="close_session_question">Bu seansı bağlamaq istədiyinizə əminsiniz?</string>
+      <string name="invalid_url">Yanlış url!</string>
+      <string name="error">Xəta</string>
+      <string name="service_unavailable">Uzaqdan xidmətə daxil olmaq olmur</string>
+      <string name="no_data">Saxlanılan konfiqurasiya məlumatları yoxdur</string>
+      <string name="service_not_set">Xidmət URL təyin edilməyib</string>
+      <string name="description">Təsvir</string>
+      <string name="no_data_from_scanner">Skanerdən məlumat yoxdur</string>
+      <string name="no_plugins_installed">Heç bir plugin quraşdırılmadı</string>
+      <string name="internal_detector">AI Barkod Skaneri</string>
+      <string name="wtma_invalid_service_url">Yanlış ştrix kod url, u mənim vəziyyətə keçdi!</string>
+      <string name="offline_mode">Offline rejimi</string>
+      <string name="system_request">Sistem sorğusu</string>
+      <string name="enter_number">Nömrəni daxil edin!</string>
+      <string name="printer">Printer</string>
+      <string name="printer_not_active">Printer aktiv deyil.</string>
+      <string name="report_template">Şablon şablonu</string>
+      <string name="enter_template_name">Şablon adını daxil edin!</string>
+      <string name="disconnect">Qoşulun</string>
+      <string name="already_activated">Artıq aktivləşdirilib:</string>
+      <string name="ssl_certificate_error">SSL Sertifikat xətası.</string>
+      <string name="cert_authority_not_trusted">Sertifikat orqanına etibar edilmir.</string>
+      <string name="cert_expired">Sertifikatın müddəti bitmişdir.</string>
+      <string name="cert_mismatch">Sertifikat Hostname uyğun deyil.</string>
+      <string name="cert_not_yet_valid">Sertifikat hələ etibarlı deyil.</string>
+      <string name="do_you_want_to_continue">Hər halda davam etmək istəyirsən?</string>
+      <string name="continue_btn">Davam edin</string>
+      <string name="labelMacro">Makro qeyd</string>
+      <string name="delete">Silin</string>
+      <string name="title_activity_macro">Makroslar</string>
+
+      <string name="fileNotFound">Fayl yoxdur.</string>
+
+      <string name="pin_not_matched">PIN uyğun gəlmir</string>
+      <string name="pin_not_set">PİN təyin edilməyib</string>
+      <string name="labelKbar">Düyməni dəyişdirin</string>
+      <string name="otp_invalid_token">\ ?? YANLIŞ TOKEN ??</string>
+      <string name="otp_token_unsupported">OTP Token dəstəklənmir</string>
+      <string name="otp_token_title">OTP Token Giriş</string>
+      <string name="otp_token_title_reg">OTP Token Qeydiyyatı</string>
+      <string name="otp_token_message">OTP Token tələb olunur - Etibarnamələrini daxil edin</string>
+      <string name="otp_token_unsync">DİQQƏT !!! Zəhmət olmasa sistem vaxtının sinxronlaşdırıldığını yoxlayın.</string>
+      <string name="webauth_required_message">Bütün sahə tələb olunur</string>
+      <string name="webauth_title">Biometrikdir</string>
+      <string name="wtma_sent">WTMA təsdiqlədi</string>
+      <string name="file_too_big">Fayl açmaq üçün çox böyükdür!</string>
+      <string name="biometricBtn">Davam edin</string>
+      <string name="not_in_demo">Demo rejimində mövcud deyil!</string>
+      <string name="tab_a_label">ÜMUMİ</string>
+      <string name="tab_b_label">QURĞU</string>
+      <string name="tab_c_label">DİGƏR</string>
+ </resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Kameraan pääsy tarvitaan tunnistamiseen</string>
+      <string name="permission_warning">Lupavaroitus</string>
+      <string name="no_camera_permission">Viivakooditunnistusta ei voi suorittaa, koska sillä ei ole kameran lupaa.</string>
+      <string name="low_storage_error">Viivakoodinilmaisimien riippuvuuksia ei voida ladata laitteen vähäisen tallennustilan vuoksi</string>
+ </resources>

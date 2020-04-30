@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">की दबाने पर कांपना</string>
+      <string name="borders">प्रमुख सीमाएँ</string>
+      <string name="pref_keyboard_custom">कस्टम थीम रंग</string>
+      <string name="pref_keyboard_preview">पूर्वावलोकन</string>
+      <string name="keyb2_custom_action_color_title">कार्रवाई का रंग</string>
+      <string name="keyb2_custom_action_color_summary">फ्लैट बटन के लिए रंग</string>
+      <string name="keyb2_custom_background_color_title">पृष्ठभूमि</string>
+      <string name="keyb2_custom_background_color_summary">कीबोर्ड पृष्ठभूमि का रंग</string>
+      <string name="keyb2_custom_button_color_title">कुंजी रंग</string>
+      <string name="keyb2_custom_button_color_summary">मुख्य रंग यदि बॉर्डर सक्षम है</string>
+      <string name="keyb2_custom_button_border_color_title">कुंजी सीमा रंग</string>
+      <string name="keyb2_custom_button_border_color_summary">यदि सीमाएँ सक्षम हैं तो कुंजी नॉडर रंग</string>
+      <string name="keyb2_custom_shadow_color_title">बैकग्राउंड शैडो</string>
+      <string name="keyb2_custom_shadow_color_summary">कीबोर्ड टॉप बॉर्डर कलर</string>
+      <string name="keyb2_custom_text_color_title">कुंजी लेबल</string>
+      <string name="keyb2_custom_text_color_summary">मुख्य मुख्य लेबल रंग</string>
+      <string name="keyb2_custom_text_alt_color_title">कुंजी लेबल छोटा</string>
+      <string name="keyb2_custom_text_alt_color_summary">कुंजी छोटे लेबल रंग</string>
+ </resources>

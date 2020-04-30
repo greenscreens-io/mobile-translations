@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Quyền bị từ chối để ghi vào lưu trữ cục bộ.</string>
+      <string name="show_keyboard">Hiển thị bàn phím</string>
+      <string name="select_keyboard">Chọn bàn phím</string>
+      <string name="keyboard_notification">Thông báo bàn phím được bật.</string>
+      <string name="tap_to_open_keyboard">Nhấn để mở bàn phím Màn hình xanh.</string>
+      <string name="tap_to_select_keyboard">Nhấn để chọn bàn phím.</string>
+      <string name="no_intent_document">Không có ứng dụng để sử dụng tài liệu</string>
+      <string name="print_mode_unsupported">Chế độ báo cáo không được hỗ trợ cho trình điều khiển được chọn</string>
+
+      <string name="help_download">Tải xuống hướng dẫn từ máy chủ ...</string>
+      <string name="no_pdf_viewer">Trình xem PDF không tìm thấy! Vui lòng cài đặt một từ Google Play.</string>
+      <string name="no_file">Không tìm thấy tập tin.</string>
+      <string name="no_print_data">Không có dữ liệu để in.</string>
+      <string name="network_unavailable">Không có mạng. Vui lòng mở WIFI hoặc mạng di động.</string>
+      <string name="internal_initialization">Khởi tạo trong quá trình, vui lòng thử lại sau vài giây.</string>
+      <string name="print_error">Dữ liệu không được in</string>
+      <string name="printer_not_found">Không tìm thấy máy in Zebra</string>
+      <string name="multipart_upload">Tải lên nhiều phần</string>
+      <string name="cancel_upload">Hủy bỏ</string>
+      <string name="upload_cancelled">Tải lên đã bị hủy</string>
+      <string name="upload_success">Tải lên hoàn tất thành công trong [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Lỗi trong khi tải lên</string>
+      <string name="upload_title">Đang tải lên ...</string>
+      <string name="uploading">Đã tải lên [[UPLOADED_FILES]] của [[TOTAL_FILES]] tại [[UPLOAD_RATE]] - [[TIẾN ĐỘ]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra Driver chưa được cài đặt!</string>
+      <string name="youAreNotUpdatedTitle">Cập nhật có sẵn</string>
+      <string name="youAreNotUpdatedMessage">Đã có phiên bản mới của Green Screens Terminal. \ NVui lòng cập nhật lên phiên bản!</string>
+      <string name="update">Cập nhật</string>
+      <string name="report_downloaded">Báo cáo được tải xuống thiết bị</string>
+      <string name="report_downloading">Báo cáo tải xuống từ máy chủ</string>
+      <string name="report_print">Báo cáo gửi để in</string>
+      <string name="biometric_authenticate_ok">Sinh trắc học xác thực</string>
+      <string name="biometric_validate_ok">Xác nhận sinh trắc học</string>
+      <string name="biometric_register_ok">Đăng ký sinh trắc học</string>
+      <string name="biometric_unregister_ok">Sinh trắc học chưa đăng ký</string>
+      <string name="biometric_update_ok">Cập nhật sinh trắc học</string>
+      <string name="biometric_error">Sinh trắc học chưa đăng ký</string>
+ </resources>

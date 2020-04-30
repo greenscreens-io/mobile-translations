@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">키를 누를 때 진동</string>
+      <string name="borders">키 테두리</string>
+      <string name="pref_keyboard_custom">커스텀 테마 색상</string>
+      <string name="pref_keyboard_preview">시사</string>
+      <string name="keyb2_custom_action_color_title">액션 컬러</string>
+      <string name="keyb2_custom_action_color_summary">플랫 버튼의 색상</string>
+      <string name="keyb2_custom_background_color_title">배경</string>
+      <string name="keyb2_custom_background_color_summary">키보드 배경색</string>
+      <string name="keyb2_custom_button_color_title">키 색상</string>
+      <string name="keyb2_custom_button_color_summary">테두리가 활성화 된 경우 키 색상</string>
+      <string name="keyb2_custom_button_border_color_title">키 테두리 색상</string>
+      <string name="keyb2_custom_button_border_color_summary">테두리가 활성화 된 경우 키 노르 더 색상</string>
+      <string name="keyb2_custom_shadow_color_title">배경 그림자</string>
+      <string name="keyb2_custom_shadow_color_summary">키보드 상단 테두리 색상</string>
+      <string name="keyb2_custom_text_color_title">키 라벨</string>
+      <string name="keyb2_custom_text_color_summary">주요 기본 라벨 색상</string>
+      <string name="keyb2_custom_text_alt_color_title">키 라벨 소</string>
+      <string name="keyb2_custom_text_alt_color_summary">키 작은 라벨 색상</string>
+ </resources>

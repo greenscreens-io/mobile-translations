@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">検出にはカメラへのアクセスが必要です</string>
+      <string name="permission_warning">許可警告</string>
+      <string name="no_camera_permission">カメラの権限がないため、バーコード認識を実行できません。</string>
+      <string name="low_storage_error">デバイスのストレージが少ないため、バーコード検出器の依存関係をダウンロードできません</string>
+ </resources>

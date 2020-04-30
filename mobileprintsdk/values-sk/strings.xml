@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Informácie o tlači</string>
+      <string name="print_service_help_title_1">Získajte doplnok Print Service</string>
+      <string name="print_service_help_msg_1">Na tlač musíte mať nainštalovaný doplnok tlačovej služby. Každá značka tlačiarne má svoj vlastný doplnok, ktorý umožňuje tlačiť z mobilného zariadenia. K dispozícii sú aj všeobecné doplnky pre tlačovú službu. Vyberte doplnok, ktorý vám najlepšie vyhovuje. Kedykoľvek môžete pridať ďalšie tlačové doplnky.</string>
+      <string name="print_service_help_title_2">Povoliť doplnok</string>
+      <string name="print_service_help_msg_2">Po stiahnutí doplnku Print Service Plugin sa zobrazí výzva na povolenie doplnku. Stačí ho vybrať a klepnúť na prepínač do polohy „ON“.</string>
+      <string name="plugin_manager_title">Správca tlačových služieb</string>
+      <string name="plugin_manager_sub_title">Na tlač potrebujete nainštalovaný a povolený doplnok Print Service Plugin.</string>
+      <string name="before_enable_tips">Budete presmerovaní na Nastavenia tlače Android.</string>
+      <string name="before_enable_tips_title">Povoľte svoj doplnok</string>
+      <string name="ok">CHOĎ DO NASTAVENÍ</string>
+      <string name="cancel">ZRUŠIŤ</string>
+      <string name="enabled">povolené</string>
+      <string name="disabled">invalidný</string>
+ </resources>

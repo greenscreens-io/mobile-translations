@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Adgang til kameraet er nødvendig for at detektere</string>
+      <string name="permission_warning">Advarsel om tilladelse</string>
+      <string name="no_camera_permission">Stregkodegenkendelse kan ikke køre, fordi den ikke har kameraet tilladelse.</string>
+      <string name="low_storage_error">Stregkodedetektorafhængigheder kan ikke downloades på grund af lav enhedslager</string>
+ </resources>

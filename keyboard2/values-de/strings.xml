@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibrieren auf Knopfdruck</string>
+      <string name="borders">Schlüsselgrenzen</string>
+      <string name="pref_keyboard_custom">Benutzerdefinierte Themenfarben</string>
+      <string name="pref_keyboard_preview">Vorschau</string>
+      <string name="keyb2_custom_action_color_title">Aktionsfarbe</string>
+      <string name="keyb2_custom_action_color_summary">Farbe für flache Knöpfe</string>
+      <string name="keyb2_custom_background_color_title">Hintergrund</string>
+      <string name="keyb2_custom_background_color_summary">Hintergrundfarbe der Tastatur</string>
+      <string name="keyb2_custom_button_color_title">Schlüsselfarbe</string>
+      <string name="keyb2_custom_button_color_summary">Schlüsselfarbe, wenn Rahmen aktiviert sind</string>
+      <string name="keyb2_custom_button_border_color_title">Schlüsselrandfarbe</string>
+      <string name="keyb2_custom_button_border_color_summary">Schlüsselfarbe, wenn Rahmen aktiviert sind</string>
+      <string name="keyb2_custom_shadow_color_title">Hintergrundschatten</string>
+      <string name="keyb2_custom_shadow_color_summary">Farbe des oberen Randes der Tastatur</string>
+      <string name="keyb2_custom_text_color_title">Schlüsseletikett</string>
+      <string name="keyb2_custom_text_color_summary">Hauptfarbe des Hauptetiketts</string>
+      <string name="keyb2_custom_text_alt_color_title">Schlüsseletikett klein</string>
+      <string name="keyb2_custom_text_alt_color_summary">Wichtige kleine Etikettenfarbe</string>
+ </resources>

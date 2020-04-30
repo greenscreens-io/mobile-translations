@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">tamam</string>
+      <string name="cancel">İptal etmek</string>
+      <string name="change">Değişiklik</string>
+      <string name="stop">Dur</string>
+      <string name="disconnect">kesmek</string>
+      <string name="enter_printer_name">Yazıcı aygıt adını girin</string>
+      <string name="printer">Yazıcı</string>
+      <string name="enter_pin">PIN girin</string>
+      <string name="enter_otp">OTP Kullanıcısını ve Simgesini Girin</string>
+      <string name="already_activated">Zaten etkinleştirildi:</string>
+      <string name="file_download">Dosyayı indir</string>
+      <string name="file_upload">Dosya yükleme</string>
+      <string name="rate_dialog_title">Oran %s.</string>
+      <string name="rate_dialog_message">%s kullanmaktan hoşlanıyorsanız, lütfen derecelendirerek bize yardımcı olun. Sadece birkaç saniye sürer!</string>
+      <string name="rate_dialog_action_rate">oran</string>
+      <string name="rate_dialog_action_never">Hayır teşekkürler</string>
+      <string name="rate_dialog_action_later">Sonra</string>
+      <string name="rate_dialog_thank_you">Teşekkür ederim!</string>
+ </resources>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">الشاشات الخضراء 5250 الطرفية مع ماسح الباركود. اكتشف المزيد على www.greenscreens.io</string>
+
+      <string name="title_configs">حدد التكوين</string>
+      <string name="title_plugins">حدد البرنامج المساعد</string>
+      <string name="title_help">الشاشات الخضراء - مساعدة</string>
+      <string name="selectAction">اختر فعلا</string>
+      <string name="cancel">إلغاء</string>
+      <string name="ok">حسنا</string>
+      <string name="data_removed">تمت إزالة البيانات!</string>
+      <string name="config_data_required">UUID والمضيف قيم مطلوبة!</string>
+      <string name="otp_data_required">المستخدم والرمز المميز قيم مطلوبة!</string>
+
+      <string name="loading">جار التحميل…</string>
+      <string name="action_tutors">دروس</string>
+
+      <string name="action_help">مساعدة</string>
+      <string name="action_about">حول</string>
+
+      <string name="labelBarcode">الرمز الشريطي</string>
+      <string name="labelPrinter">طابعة</string>
+      <string name="labelLockRotate">تدوير القفل</string>
+      <string name="labelSplitScreen">تقسيم الشاشة</string>
+      <string name="labelTheme">تبديل السمة</string>
+      <string name="labelTemplate">قالب التخزين المؤقت</string>
+      <string name="labelDownload">تحميل الملف</string>
+      <string name="labelUpload">تحميل الملف</string>
+      <string name="pasteModeInfo">تم تغيير وضع النسخ / اللصق</string>
+      <string name="crash_toast_text">عفوًا! لقد تعطلت ، ولكن تم إرسال تقرير إلى مطورّي للمساعدة في حل المشكلة!</string>
+      <string name="crash_dialog_title">تعطلت المحطة</string>
+      <string name="crash_dialog_text">حدث خطأ غير متوقع مما اضطر التطبيق إلى التوقف. الرجاء مساعدتنا في إصلاح هذا عن طريق إرسال بيانات الخطأ إلينا ، كل ما عليك فعله هو النقر فوق موافق.</string>
+      <string name="crash_dialog_comment_prompt">يمكنك إضافة تعليقاتك حول المشكلة أدناه:</string>
+      <string name="msg_macro">اسم الماكرو</string>
+      <string name="msg_macro_undefined">الماكرو غير محدد</string>
+      <string name="msg_barcode_invalid">بيانات غير صالحة ، تحقق مما إذا تم مسح رمز شريطي خاطئ!</string>
+      <string name="msg_barcode_error">حدث خطأ أثناء معالجة الرمز الشريطي.</string>
+      <string name="action_settings">الإعدادات</string>
+      <string name="action_demo">تجريبي</string>
+      <string name="action_camera">مسح</string>
+      <string name="saveBtn">حفظ</string>
+      <string name="submitBtn">إرسال</string>
+    <string name="warning">تحذير</string>
+      <string name="unsupported_version">هذا الإصدار من Android غير معتمد.</string>
+      <string name="update_webview">من أجل استخدام التطبيق ، يرجى تحديث محرك الويب إلى أحدث إصدار.</string>
+      <string name="network_unavailable">الشبكة غير متاحة! يرجى فتح اتصال الشبكة!</string>
+      <string name="downloads_permission">التنزيلات غير متاحة. من فضلك ، قم بتمكين أذونات التطبيق.</string>
+      <string name="info">معلومات</string>
+      <string name="close_session_question">هل أنت متأكد أنك تريد إغلاق هذه الجلسة؟</string>
+      <string name="invalid_url">URL غير صالح!</string>
+      <string name="error">خطأ</string>
+      <string name="service_unavailable">تعذر الوصول إلى الخدمة عن بعد</string>
+      <string name="no_data">لا توجد بيانات تكوين محفوظة</string>
+      <string name="service_not_set">لم يتم تعيين عنوان URL للخدمة</string>
+      <string name="description">وصف</string>
+      <string name="no_data_from_scanner">لا توجد بيانات من الماسح الضوئي</string>
+      <string name="no_plugins_installed">لم يتم تثبيت أي مكونات إضافية</string>
+      <string name="internal_detector">ماسح الباركود AI</string>
+      <string name="wtma_invalid_service_url">عنوان url لخدمة الرمز الشريطي غير صالح ، تم تبديله إلى الإعداد الافتراضي!</string>
+      <string name="offline_mode">وضع غير متصل بالشبكة</string>
+      <string name="system_request">طلب النظام</string>
+      <string name="enter_number">أدخل رقم!</string>
+      <string name="printer">طابعة</string>
+      <string name="printer_not_active">الطابعة غير نشطة.</string>
+      <string name="report_template">نموذج التقرير</string>
+      <string name="enter_template_name">أدخل اسم القالب!</string>
+      <string name="disconnect">قطع الاتصال</string>
+      <string name="already_activated">بالفعل تنشيط :</string>
+      <string name="ssl_certificate_error">خطأ في شهادة SSL.</string>
+      <string name="cert_authority_not_trusted">المرجع المصدق غير موثوق به.</string>
+      <string name="cert_expired">انتهت صلاحية الشهادة.</string>
+      <string name="cert_mismatch">عدم تطابق اسم مضيف الشهادة.</string>
+      <string name="cert_not_yet_valid">الشهادة ليست صالحة بعد.</string>
+      <string name="do_you_want_to_continue">هل تريد المتابعة على أية حال؟</string>
+      <string name="continue_btn">استمر</string>
+      <string name="labelMacro">سجل الماكرو</string>
+      <string name="delete">حذف</string>
+      <string name="title_activity_macro">وحدات الماكرو</string>
+
+      <string name="fileNotFound">الملف غير موجود.</string>
+      <string name="pin_not_matched">رقم التعريف الشخصي غير مطابق</string>
+      <string name="pin_not_set">لم يتم تعيين رقم التعريف الشخصي</string>
+      <string name="labelKbar">تبديل شريط المفاتيح</string>
+      <string name="otp_invalid_token">\ ؟؟ رمز غير صالح ؟؟</string>
+      <string name="otp_token_unsupported">رمز OTP غير معتمد</string>
+      <string name="otp_token_title">إدخال رمز OTP</string>
+      <string name="otp_token_title_reg">تسجيل رمز OTP</string>
+      <string name="otp_token_message">مطلوب OTP Token - أدخل بيانات الاعتماد</string>
+      <string name="otp_token_unsync">تحذير!!! يرجى التحقق مما إذا كان وقت النظام متزامنًا.</string>
+      <string name="webauth_required_message">جميع الحقول مطلوبة</string>
+      <string name="webauth_title">بصمات</string>
+      <string name="wtma_sent">وأكد WTMA</string>
+      <string name="file_too_big">الملف كبير جدًا ولا يمكن فتحه!</string>
+      <string name="biometricBtn">استمر</string>
+      <string name="not_in_demo">غير متوفر في الوضع التجريبي!</string>
+      <string name="tab_a_label">جنرال لواء</string>
+      <string name="tab_b_label">جهاز</string>
+      <string name="tab_c_label">آخر</string>
+ </resources>

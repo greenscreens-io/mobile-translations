@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">В разрешении на запись в локальное хранилище отказано.</string>
+      <string name="show_keyboard">Показать клавиатуру</string>
+      <string name="select_keyboard">Выбрать клавиатуру</string>
+      <string name="keyboard_notification">Уведомление с клавиатуры включено.</string>
+      <string name="tap_to_open_keyboard">Нажмите, чтобы открыть клавиатуру Green Screens.</string>
+      <string name="tap_to_select_keyboard">Нажмите, чтобы выбрать клавиатуру.</string>
+      <string name="no_intent_document">Нет приложения для использования документа</string>
+      <string name="print_mode_unsupported">Режим отчета не поддерживается для выбранного драйвера</string>
+
+      <string name="help_download">Загрузка руководства с сервера ...</string>
+      <string name="no_pdf_viewer">Просмотрщик PDF не найден! Пожалуйста, установите один из Google Play.</string>
+      <string name="no_file">Файл не найден.</string>
+      <string name="no_print_data">Нет данных для печати.</string>
+      <string name="network_unavailable">Сеть недоступна. Пожалуйста, откройте WIFI или мобильную сеть.</string>
+      <string name="internal_initialization">Процесс инициализации, повторите попытку через несколько секунд.</string>
+      <string name="print_error">Данные не распечатаны</string>
+      <string name="printer_not_found">Принтер Zebra не найден</string>
+      <string name="multipart_upload">Multipart Upload</string>
+      <string name="cancel_upload">Отмена</string>
+      <string name="upload_cancelled">Загрузка была отменена</string>
+      <string name="upload_success">Загрузка успешно завершена в [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Ошибка при загрузке</string>
+      <string name="upload_title">Загрузка ...</string>
+      <string name="uploading">Загружены [[UPLOADED_FILES]] из [[TOTAL_FILES]] в [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Драйвер Zebra не установлен!</string>
+      <string name="youAreNotUpdatedTitle">Обновления доступны</string>
+      <string name="youAreNotUpdatedMessage">Доступна новая версия Green Screens Terminal. \ NПожалуйста, обновите версию!</string>
+      <string name="update">Обновить</string>
+      <string name="report_downloaded">Отчет загружен на устройство</string>
+      <string name="report_downloading">Загрузка отчета с сервера</string>
+      <string name="report_print">Отчет отправить на печать</string>
+      <string name="biometric_authenticate_ok">Биометрическая аутентификация</string>
+      <string name="biometric_validate_ok">Биометрическая проверка</string>
+      <string name="biometric_register_ok">Биометрический зарегистрирован</string>
+      <string name="biometric_unregister_ok">Биометрические незарегистрированные</string>
+      <string name="biometric_update_ok">Биометрическое обновление</string>
+      <string name="biometric_error">Биометрический не зарегистрирован</string>
+ </resources>

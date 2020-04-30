@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Термінал Green Screens 5250 зі сканером штрих-коду. Дізнайтеся більше на www.greenscreens.io</string>
+
+      <string name="title_configs">Виберіть конфігурацію</string>
+      <string name="title_plugins">Виберіть плагін</string>
+      <string name="title_help">Зелені екрани - Довідка</string>
+      <string name="selectAction">Виберіть дію</string>
+      <string name="cancel">Скасувати</string>
+      <string name="ok">добре</string>
+      <string name="data_removed">Дані видалено!</string>
+      <string name="config_data_required">UUID та Host - обов\'язкові значення!</string>
+      <string name="otp_data_required">Користувач і маркер обов\'язкові значення!</string>
+
+      <string name="loading">Завантаження…</string>
+      <string name="action_tutors">Підручники</string>
+
+      <string name="action_help">Довідка</string>
+      <string name="action_about">Про</string>
+
+      <string name="labelBarcode">Штрих-код</string>
+      <string name="labelPrinter">Принтер</string>
+      <string name="labelLockRotate">Блокування обертання</string>
+      <string name="labelSplitScreen">Розділений екран</string>
+      <string name="labelTheme">Тема перемикання</string>
+      <string name="labelTemplate">Шаблон котушки</string>
+      <string name="labelDownload">Завантажити файл</string>
+      <string name="labelUpload">Завантаження файлів</string>
+      <string name="pasteModeInfo">Режим копіювання / вставки змінено</string>
+      <string name="crash_toast_text">Ооооопс! Я вийшов з ладу, але звіт надсилається моєму розробнику, щоб допомогти виправити проблему!</string>
+      <string name="crash_dialog_title">Термінал розбився</string>
+      <string name="crash_dialog_text">Виникла несподівана помилка, яка змусила програму зупинитися. Будь ласка, допоможіть нам виправити це, надіславши нам дані про помилки. Все, що вам потрібно зробити, - це натиснути «ОК».</string>
+      <string name="crash_dialog_comment_prompt">Ви можете додати свої коментарі щодо проблеми нижче:</string>
+      <string name="msg_macro">Назва макросу</string>
+      <string name="msg_macro_undefined">Макрос не визначений</string>
+      <string name="msg_barcode_invalid">Неправильні дані, перевірте, чи скановано неправильний штрих-код!</string>
+      <string name="msg_barcode_error">Помилка під час обробки штрих-коду.</string>
+      <string name="action_settings">Налаштування</string>
+      <string name="action_demo">Демо</string>
+      <string name="action_camera">Сканування</string>
+      <string name="saveBtn">Зберегти</string>
+      <string name="submitBtn">Надіслати</string>
+    <string name="warning">Увага</string>
+      <string name="unsupported_version">Ця версія Android не підтримується.</string>
+      <string name="update_webview">Щоб користуватися додатком, оновіть веб-двигун до останньої версії.</string>
+      <string name="network_unavailable">Мережа недоступна! Відкрийте мережеве з\'єднання!</string>
+      <string name="downloads_permission">Завантаження не доступне. Увімкніть дозволи програми.</string>
+      <string name="info">Інформація</string>
+      <string name="close_session_question">Ви впевнені, що хочете закрити цей сеанс?</string>
+      <string name="invalid_url">Недійсний URL!</string>
+      <string name="error">Помилка</string>
+      <string name="service_unavailable">Неможливо отримати доступ до віддаленої служби</string>
+      <string name="no_data">Немає збережених даних конфігурації</string>
+      <string name="service_not_set">URL-адреса служби не встановлена</string>
+      <string name="description">Опис</string>
+      <string name="no_data_from_scanner">Немає даних від сканера</string>
+      <string name="no_plugins_installed">Плагіни не встановлені</string>
+      <string name="internal_detector">AI сканер штрих-коду</string>
+      <string name="wtma_invalid_service_url">Недійсна URL-адреса служби штрих-коду, перемкнена на стандартну!</string>
+      <string name="offline_mode">Автономний режим</string>
+      <string name="system_request">Запит системи</string>
+      <string name="enter_number">Введіть номер!</string>
+      <string name="printer">Принтер</string>
+      <string name="printer_not_active">Принтер неактивний.</string>
+      <string name="report_template">Шаблон звіту</string>
+      <string name="enter_template_name">Введіть назву шаблону!</string>
+      <string name="disconnect">Відключити</string>
+      <string name="already_activated">Вже активовано:</string>
+      <string name="ssl_certificate_error">Помилка сертифіката SSL</string>
+      <string name="cert_authority_not_trusted">Органу сертифікації не довіряють.</string>
+      <string name="cert_expired">Термін дії сертифікату минув.</string>
+      <string name="cert_mismatch">Невідповідність імені хоста сертифіката</string>
+      <string name="cert_not_yet_valid">Сертифікат ще не дійсний.</string>
+      <string name="do_you_want_to_continue">Ви хочете продовжувати все-таки?</string>
+      <string name="continue_btn">Продовжуйте</string>
+      <string name="labelMacro">Запис макросів</string>
+      <string name="delete">Видалити</string>
+      <string name="title_activity_macro">Макроси</string>
+
+      <string name="fileNotFound">Файл не існує.</string>
+
+      <string name="pin_not_matched">PIN-код не відповідає</string>
+      <string name="pin_not_set">PIN-код не встановлено</string>
+      <string name="labelKbar">Переключити клавіатуру</string>
+      <string name="otp_invalid_token">\ ?? НЕПРИПУСТИМИЙ МАРКЕР ??</string>
+      <string name="otp_token_unsupported">OTP Token не підтримується</string>
+      <string name="otp_token_title">Запис токена OTP</string>
+      <string name="otp_token_title_reg">Реєстрація маркера OTP</string>
+      <string name="otp_token_message">Необхідний маркер OTP - введіть облікові дані</string>
+      <string name="otp_token_unsync">УВАГА!!! Перевірте, чи синхронізовано системний час.</string>
+      <string name="webauth_required_message">Усі поля обов\'язкові для заповнення</string>
+      <string name="webauth_title">Біометричні</string>
+      <string name="wtma_sent">Підтверджено WTMA</string>
+      <string name="file_too_big">Файл занадто великий, щоб відкрити!</string>
+      <string name="biometricBtn">Продовжуйте</string>
+      <string name="not_in_demo">Не доступно в демо-режимі!</string>
+      <string name="tab_a_label">ЗАГАЛЬНІ</string>
+      <string name="tab_b_label">ПРИСТРІЙ</string>
+      <string name="tab_c_label">ІНШИЙ</string>
+ </resources>

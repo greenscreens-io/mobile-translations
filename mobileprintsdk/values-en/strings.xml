@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Hewlett-Packard Company
+  ~ All rights reserved.
+  ~
+  ~ This file, its contents, concepts, methods, behavior, and operation
+  ~ (collectively the "Software") are protected by trade secret, patent,
+  ~ and copyright laws. The use of the Software is governed by a license
+  ~ agreement. Disclosure of the Software to third parties, in any form,
+  ~ in whole or in part, is expressly prohibited except as authorized by
+  ~ the license agreement.
+  -->
+
+<resources>
+
+    <!-- Print Service Plugin Information -->
+    <string name="title_activity_print_service_plugin_info">Print Service Information</string>
+    <string name="print_service_help_title_1">Get a Print Service Plugin</string>
+    <string name="print_service_help_msg_1">You must have a print service plugin installed to print. Each brand of printer has their own plugin that enables you to print from your mobile device. Generic print service plugins are also available. Select the plugin that serves you best. You can add additional print plugins anytime.</string>
+    <string name="print_service_help_title_2">Enable Plugin</string>
+    <string name="print_service_help_msg_2">After downloading a Print Service Plugin, you will be prompted to enable your plugin. Just select it and tap the switch to “ON”.</string>
+
+    <!-- Print Plugin Manager -->
+    <string name="plugin_manager_title">Print Service Manager</string>
+    <string name="plugin_manager_sub_title">You need a Print Service Plugin installed and enabled to print.</string>
+
+    <string name="before_enable_tips">You will be directed to the Android Print Settings.</string>
+    <string name="before_enable_tips_title">Enable your Plugin</string>
+    <string name="ok">GO TO SETTINGS</string>
+    <string name="cancel">CANCEL</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+
+</resources>

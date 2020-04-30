@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Zur Erkennung ist ein Zugriff auf die Kamera erforderlich</string>
+      <string name="permission_warning">Berechtigungswarnung</string>
+      <string name="no_camera_permission">Die Barcode-Erkennung kann nicht ausgeführt werden, da sie nicht über die Kameraberechtigung verfügt.</string>
+      <string name="low_storage_error">Abhängigkeiten von Barcode-Detektoren können aufgrund des geringen Gerätespeichers nicht heruntergeladen werden</string>
+ </resources>

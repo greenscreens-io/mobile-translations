@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibrujte stisknutím tlačítka</string>
+      <string name="borders">Klíčové hranice</string>
+      <string name="pref_keyboard_custom">Vlastní barvy motivu</string>
+      <string name="pref_keyboard_preview">Náhled</string>
+      <string name="keyb2_custom_action_color_title">Akční barva</string>
+      <string name="keyb2_custom_action_color_summary">Barva pro plochá tlačítka</string>
+      <string name="keyb2_custom_background_color_title">Pozadí</string>
+      <string name="keyb2_custom_background_color_summary">Barva pozadí klávesnice</string>
+      <string name="keyb2_custom_button_color_title">Barva klíče</string>
+      <string name="keyb2_custom_button_color_summary">Barva klíče, pokud jsou hranice povoleny</string>
+      <string name="keyb2_custom_button_border_color_title">Barva ohraničení klíče</string>
+      <string name="keyb2_custom_button_border_color_summary">Barva norder klíčů, pokud jsou hranice povoleny</string>
+      <string name="keyb2_custom_shadow_color_title">Pozadí stín</string>
+      <string name="keyb2_custom_shadow_color_summary">Barva horního okraje klávesnice</string>
+      <string name="keyb2_custom_text_color_title">Popisek klíče</string>
+      <string name="keyb2_custom_text_color_summary">Hlavní hlavní barva štítku</string>
+      <string name="keyb2_custom_text_alt_color_title">Štítek klíče malý</string>
+      <string name="keyb2_custom_text_alt_color_summary">Klíčová barva malého štítku</string>
+ </resources>

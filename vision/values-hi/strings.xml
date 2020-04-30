@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">कैमरे का उपयोग पता लगाने के लिए आवश्यक है</string>
+      <string name="permission_warning">अनुमति की चेतावनी</string>
+      <string name="no_camera_permission">बारकोड मान्यता नहीं चल सकती क्योंकि इसमें कैमरा अनुमति नहीं है।</string>
+      <string name="low_storage_error">डिवाइस स्टोरेज कम होने के कारण बारकोड डिटेक्टर निर्भरताएं डाउनलोड नहीं की जा सकती हैं</string>
+ </resources>

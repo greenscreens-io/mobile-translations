@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">اجازه نوشتن به ذخیره سازی محلی رد شد.</string>
+      <string name="show_keyboard">صفحه کلید را نمایش دهید</string>
+      <string name="select_keyboard">صفحه کلید را انتخاب کنید</string>
+      <string name="keyboard_notification">اعلان صفحه کلید فعال شد.</string>
+      <string name="tap_to_open_keyboard">برای باز کردن صفحه کلید صفحه نمایش سبز ضربه بزنید.</string>
+      <string name="tap_to_select_keyboard">برای انتخاب صفحه کلید ضربه بزنید.</string>
+      <string name="no_intent_document">برنامه ای برای استفاده از سند وجود ندارد</string>
+      <string name="print_mode_unsupported">حالت گزارش برای درایور انتخاب شده پشتیبانی نمی شود</string>
+
+      <string name="help_download">در حال بارگیری کتابچه راهنمای کاربر از سرور ...</string>
+      <string name="no_pdf_viewer">PDF Viewer یافت نشد! لطفاً یکی را از Google Play نصب کنید.</string>
+      <string name="no_file">پرونده یافت نشد</string>
+      <string name="no_print_data">داده ای برای چاپ وجود ندارد.</string>
+      <string name="network_unavailable">شبکه در دسترس نیست. لطفاً شبکه WIFI یا Mobile را باز کنید.</string>
+      <string name="internal_initialization">اولیه سازی در مراحل ، لطفاً در چند ثانیه دوباره امتحان کنید.</string>
+      <string name="print_error">داده چاپ نشده است</string>
+      <string name="printer_not_found">چاپگر گورخر یافت نشد</string>
+      <string name="multipart_upload">بارگذاری چند قسمت</string>
+      <string name="cancel_upload">لغو</string>
+      <string name="upload_cancelled">آپلود لغو شده است</string>
+      <string name="upload_success">بارگیری با موفقیت در [[ELAPSED_TIME]]</string>
+      <string name="upload_error">هنگام بارگذاری خطایی رخ داد</string>
+      <string name="upload_title">در حال بارگیری ...</string>
+      <string name="uploading">[[UPLOADED_FILES]] از [[TOTAL_FILES]] در [[UPLOAD_RATE]] بارگذاری شد - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">درایور گورخر نصب نشده است!</string>
+      <string name="youAreNotUpdatedTitle">به روزرسانی موجود</string>
+      <string name="youAreNotUpdatedMessage">نسخه جدیدی از ترمینال صفحه نمایش سبز در دسترس است. \ n لطفا نسخه را به روز کنید!</string>
+      <string name="update">به روز رسانی</string>
+      <string name="report_downloaded">گزارش بارگیری شده به دستگاه</string>
+      <string name="report_downloading">گزارش بارگیری از سرور</string>
+      <string name="report_print">گزارش ارسال برای چاپ</string>
+      <string name="biometric_authenticate_ok">بیومتریک تأیید شده است</string>
+      <string name="biometric_validate_ok">بیومتریک معتبر است</string>
+      <string name="biometric_register_ok">بیومتریک ثبت شده است</string>
+      <string name="biometric_unregister_ok">بیومتریک ثبت نشده است</string>
+      <string name="biometric_update_ok">بیومتریک به روز شد</string>
+      <string name="biometric_error">بیومتریک ثبت نشده است</string>
+ </resources>

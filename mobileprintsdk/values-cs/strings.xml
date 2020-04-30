@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Tiskové servisní informace</string>
+      <string name="print_service_help_title_1">Získejte plugin pro tiskovou službu</string>
+      <string name="print_service_help_msg_1">Abyste mohli tisknout, musíte mít nainstalován plugin tiskové služby. Každá značka tiskárny má svůj vlastní plugin, který vám umožní tisknout z vašeho mobilního zařízení. K dispozici jsou také obecné zásuvné moduly tiskové služby. Vyberte plugin, který vám nejlépe vyhovuje. Můžete přidat další tiskové doplňky kdykoli.</string>
+      <string name="print_service_help_title_2">Povolit plugin</string>
+      <string name="print_service_help_msg_2">Po stažení pluginu pro tiskové služby budete vyzváni k povolení pluginu. Stačí jej vybrat a klepnout na přepínač do polohy „ON“.</string>
+      <string name="plugin_manager_title">Správce tiskových služeb</string>
+      <string name="plugin_manager_sub_title">K tisku potřebujete nainstalovaný a povolený zásuvný modul pro tiskové služby.</string>
+      <string name="before_enable_tips">Budete přesměrováni na Nastavení tisku Android.</string>
+      <string name="before_enable_tips_title">Povolte svůj plugin</string>
+      <string name="ok">JDI DO NASTAVENÍ</string>
+      <string name="cancel">ZRUŠENÍ</string>
+      <string name="enabled">Povoleno</string>
+      <string name="disabled">Zakázáno</string>
+ </resources>

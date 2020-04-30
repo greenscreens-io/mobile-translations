@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Δόνηση στο πάτημα του πλήκτρου</string>
+      <string name="borders">Βασικά σύνορα</string>
+      <string name="pref_keyboard_custom">Προσαρμοσμένα χρώματα θέματος</string>
+      <string name="pref_keyboard_preview">Προεπισκόπηση</string>
+      <string name="keyb2_custom_action_color_title">Χρώμα δράσης</string>
+      <string name="keyb2_custom_action_color_summary">Χρώμα για επίπεδα κουμπιά</string>
+      <string name="keyb2_custom_background_color_title">Ιστορικό</string>
+      <string name="keyb2_custom_background_color_summary">Χρώμα φόντου πληκτρολογίου</string>
+      <string name="keyb2_custom_button_color_title">Βασικό χρώμα</string>
+      <string name="keyb2_custom_button_color_summary">Χρώμα κλειδιού εάν είναι ενεργοποιημένα τα σύνορα</string>
+      <string name="keyb2_custom_button_border_color_title">Χρώμα περιγράμματος κλειδιού</string>
+      <string name="keyb2_custom_button_border_color_summary">Βασικό χρώμα περιγράμματος εάν είναι ενεργοποιημένα τα περιγράμματα</string>
+      <string name="keyb2_custom_shadow_color_title">Σκιά φόντου</string>
+      <string name="keyb2_custom_shadow_color_summary">Χρώμα επάνω περιγράμματος πληκτρολογίου</string>
+      <string name="keyb2_custom_text_color_title">Βασική ετικέτα</string>
+      <string name="keyb2_custom_text_color_summary">Βασικό χρώμα κύριας ετικέτας</string>
+      <string name="keyb2_custom_text_alt_color_title">Βασική ετικέτα μικρή</string>
+      <string name="keyb2_custom_text_alt_color_summary">Βασικό μικρό χρώμα ετικέτας</string>
+ </resources>

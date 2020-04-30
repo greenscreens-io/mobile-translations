@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">OK</string>
+      <string name="cancel">Pagkansela</string>
+      <string name="change">Baguhin</string>
+      <string name="stop">Tumigil</string>
+      <string name="disconnect">Idiskonekta</string>
+      <string name="enter_printer_name">Ipasok ang pangalan ng aparato ng printer</string>
+      <string name="printer">Printer</string>
+      <string name="enter_pin">Ipasok ang PIN</string>
+      <string name="enter_otp">Ipasok ang Gumagamit ng OTP at Token</string>
+      <string name="already_activated">Na-activate na:</string>
+      <string name="file_download">I-download ang file</string>
+      <string name="file_upload">Mag-upload ng file</string>
+      <string name="rate_dialog_title">Rate %s.</string>
+      <string name="rate_dialog_message">Kung masiyahan ka sa paggamit ng %s, mangyaring tulungan kami sa pamamagitan ng pag-rate nito. Tumatagal lamang ng ilang segundo!</string>
+      <string name="rate_dialog_action_rate">Rate</string>
+      <string name="rate_dialog_action_never">Salamat nalang</string>
+      <string name="rate_dialog_action_later">Mamaya</string>
+      <string name="rate_dialog_thank_you">Salamat!</string>
+ </resources>

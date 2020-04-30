@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Trillen bij toetsaanslag</string>
+      <string name="borders">Sleutelgrenzen</string>
+      <string name="pref_keyboard_custom">Aangepaste themakleuren</string>
+      <string name="pref_keyboard_preview">Voorbeeld</string>
+      <string name="keyb2_custom_action_color_title">Actiekleur</string>
+      <string name="keyb2_custom_action_color_summary">Kleur voor platte knoppen</string>
+      <string name="keyb2_custom_background_color_title">Achtergrond</string>
+      <string name="keyb2_custom_background_color_summary">Achtergrondkleur toetsenbord</string>
+      <string name="keyb2_custom_button_color_title">Sleutel kleur</string>
+      <string name="keyb2_custom_button_color_summary">Sleutelkleur als randen zijn ingeschakeld</string>
+      <string name="keyb2_custom_button_border_color_title">Kleur van toetsrand</string>
+      <string name="keyb2_custom_button_border_color_summary">Key norder-kleur als randen zijn ingeschakeld</string>
+      <string name="keyb2_custom_shadow_color_title">Achtergrondschaduw</string>
+      <string name="keyb2_custom_shadow_color_summary">Kleur bovenrand toetsenbord</string>
+      <string name="keyb2_custom_text_color_title">Sleutellabel</string>
+      <string name="keyb2_custom_text_color_summary">Belangrijkste labelkleur</string>
+      <string name="keyb2_custom_text_alt_color_title">Sleuteletiket klein</string>
+      <string name="keyb2_custom_text_alt_color_summary">Sleutel kleine labelkleur</string>
+ </resources>

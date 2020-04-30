@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro_title_1">Welcome</string>
+    <string name="intro_msg_1">Before start, please watch these few introduction slides to see important information.</string>
+
+    <string name="intro_title_2">First run</string>
+    <string name="intro_msg_2">On the first run, two offline demos are created to get started. Use them to get the feeling how app works.</string>
+
+    <string name="intro_title_3">Requirement</string>
+    <string name="intro_msg_3">To use real terminal sessions, Green Screens Terminal Service is required. You have to setup application to point to the Green Screens Service URL.</string>
+
+    <string name="intro_title_4">Tutorial</string>
+    <string name="intro_msg_4">To learn how to use application, select Tutorial from application main menu This will open short video tutorials on YouTube.</string>
+
+    <string name="intro_title_5">Thank You</string>
+    <string name="intro_msg_5">For any questions, contact us through contact form at our web site at www.greenscreens.io.</string>
+</resources>

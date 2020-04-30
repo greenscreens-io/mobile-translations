@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">OK</string>
+      <string name="cancel">Avbryt</string>
+      <string name="change">Endring</string>
+      <string name="stop">Stoppe</string>
+      <string name="disconnect">Koble fra</string>
+      <string name="enter_printer_name">Skriv inn skriverenhetens navn</string>
+      <string name="printer">Skriver</string>
+      <string name="enter_pin">Oppgi PIN-kode</string>
+      <string name="enter_otp">Skriv inn OTP-bruker og token</string>
+      <string name="already_activated">Allerede aktivert:</string>
+      <string name="file_download">Last ned fil</string>
+      <string name="file_upload">Last opp fil</string>
+      <string name="rate_dialog_title">Rate %s.</string>
+      <string name="rate_dialog_message">Hvis du liker å bruke %s, kan du hjelpe oss ved å rangere det. Det tar bare noen sekunder!</string>
+      <string name="rate_dialog_action_rate">Vurdere</string>
+      <string name="rate_dialog_action_never">Nei takk</string>
+      <string name="rate_dialog_action_later">Seinere</string>
+      <string name="rate_dialog_thank_you">Takk skal du ha!</string>
+ </resources>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Kohalikku mäluruumi kirjutamine on keelatud.</string>
+      <string name="show_keyboard">Kuva klaviatuur</string>
+      <string name="select_keyboard">Valige klaviatuur</string>
+      <string name="keyboard_notification">Klaviatuuri teatis on lubatud.</string>
+      <string name="tap_to_open_keyboard">Toksake rohelise ekraani klaviatuuri avamiseks.</string>
+      <string name="tap_to_select_keyboard">Toksake klaviatuuri valimiseks.</string>
+      <string name="no_intent_document">Ühtegi rakendust dokumendi kasutamiseks pole</string>
+      <string name="print_mode_unsupported">Aruanderežiimi valitud draiver ei toeta</string>
+
+      <string name="help_download">Juhendi allalaadimine serverist ...</string>
+      <string name="no_pdf_viewer">PDF-i vaatajat ei leitud! Installige see Google Playst.</string>
+      <string name="no_file">Faili ei leitud.</string>
+      <string name="no_print_data">Prinditavaid andmeid pole.</string>
+      <string name="network_unavailable">Võrk pole saadaval. Palun avage WIFI- või mobiilsidevõrk.</string>
+      <string name="internal_initialization">Alustamine on protsessis, proovige mõne sekundi pärast uuesti.</string>
+      <string name="print_error">Andmeid pole trükitud</string>
+      <string name="printer_not_found">Sebraprinteri ei leitud</string>
+      <string name="multipart_upload">Mitmeosaline üleslaadimine</string>
+      <string name="cancel_upload">Tühista</string>
+      <string name="upload_cancelled">Üleslaadimine on tühistatud</string>
+      <string name="upload_success">Üleslaadimine on edukalt lõpule viidud [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Viga üleslaadimisel</string>
+      <string name="upload_title">Üleslaadimine ...</string>
+      <string name="uploading">Üles laadinud [[UPLOADED_FILES]] [[TOTAL_FILES]] -st saidil [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra draiverit pole installitud!</string>
+      <string name="youAreNotUpdatedTitle">Uuendus saadaval</string>
+      <string name="youAreNotUpdatedMessage">Roheliste ekraanide terminali uus versioon on saadaval. \ NPalun värskendage versioonile!</string>
+      <string name="update">Uuenda</string>
+      <string name="report_downloaded">Aruanne on seadmesse alla laaditud</string>
+      <string name="report_downloading">Teatage serverist allalaadimisest</string>
+      <string name="report_print">Aruanne saadetakse printimiseks</string>
+      <string name="biometric_authenticate_ok">Biomeetriline autentimine</string>
+      <string name="biometric_validate_ok">Biomeetriliselt kinnitatud</string>
+      <string name="biometric_register_ok">Biomeetriliselt registreeritud</string>
+      <string name="biometric_unregister_ok">Biomeetriline registreerimata</string>
+      <string name="biometric_update_ok">Biomeetriline värskendus</string>
+      <string name="biometric_error">Biomeetriline pole registreeritud</string>
+ </resources>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Вибрация при нажатии клавиши</string>
+      <string name="borders">Ключевые границы</string>
+      <string name="pref_keyboard_custom">Пользовательские Цвета Темы</string>
+      <string name="pref_keyboard_preview">предварительный просмотр</string>
+      <string name="keyb2_custom_action_color_title">Цвет действия</string>
+      <string name="keyb2_custom_action_color_summary">Цвет для плоских кнопок</string>
+      <string name="keyb2_custom_background_color_title">Фон</string>
+      <string name="keyb2_custom_background_color_summary">Цвет фона клавиатуры</string>
+      <string name="keyb2_custom_button_color_title">Ключевой цвет</string>
+      <string name="keyb2_custom_button_color_summary">Цвет ключа, если границы включены</string>
+      <string name="keyb2_custom_button_border_color_title">Цвет границы ключа</string>
+      <string name="keyb2_custom_button_border_color_summary">Цвет основного ключа, если границы включены</string>
+      <string name="keyb2_custom_shadow_color_title">Фоновая тень</string>
+      <string name="keyb2_custom_shadow_color_summary">Цвет верхней границы клавиатуры</string>
+      <string name="keyb2_custom_text_color_title">Ключ метка</string>
+      <string name="keyb2_custom_text_color_summary">Основной цвет этикетки</string>
+      <string name="keyb2_custom_text_alt_color_title">Ключ метка маленькая</string>
+      <string name="keyb2_custom_text_alt_color_summary">Ключевой маленький цвет метки</string>
+ </resources>

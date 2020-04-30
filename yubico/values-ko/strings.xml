@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="password_hint">암호</string>
+      <string name="password_remember">생각해 내다</string>
+ </resources>

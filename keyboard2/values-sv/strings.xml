@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibrera på knapptryckning</string>
+      <string name="borders">Nyckelgränser</string>
+      <string name="pref_keyboard_custom">Anpassade temafärger</string>
+      <string name="pref_keyboard_preview">Förhandsvisning</string>
+      <string name="keyb2_custom_action_color_title">Åtgärdens färg</string>
+      <string name="keyb2_custom_action_color_summary">Färg för platta knappar</string>
+      <string name="keyb2_custom_background_color_title">Bakgrund</string>
+      <string name="keyb2_custom_background_color_summary">Tangentbordets bakgrundsfärg</string>
+      <string name="keyb2_custom_button_color_title">Nyckelfärg</string>
+      <string name="keyb2_custom_button_color_summary">Nyckelfärg om gränserna är aktiverade</string>
+      <string name="keyb2_custom_button_border_color_title">Nyckelgränsfärg</string>
+      <string name="keyb2_custom_button_border_color_summary">Nyckelfärgsfärg om kanterna är aktiverade</string>
+      <string name="keyb2_custom_shadow_color_title">Bakgrundsskugga</string>
+      <string name="keyb2_custom_shadow_color_summary">Tangentbordets övre kantfärg</string>
+      <string name="keyb2_custom_text_color_title">Nyckeletikett</string>
+      <string name="keyb2_custom_text_color_summary">Huvudetikettfärg</string>
+      <string name="keyb2_custom_text_alt_color_title">Nyckeletikett liten</string>
+      <string name="keyb2_custom_text_alt_color_summary">Nyckel liten etikettfärg</string>
+ </resources>

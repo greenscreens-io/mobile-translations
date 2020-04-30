@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Permisiunea refuzată să scrie pe spațiul de stocare local.</string>
+      <string name="show_keyboard">Afișați tastatura</string>
+      <string name="select_keyboard">Selectați Tastatură</string>
+      <string name="keyboard_notification">Notificare tastatură activată.</string>
+      <string name="tap_to_open_keyboard">Atingeți pentru a deschide tastatura Ecrane verzi.</string>
+      <string name="tap_to_select_keyboard">Atingeți pentru a selecta tastatura.</string>
+      <string name="no_intent_document">Nicio aplicație pentru a utiliza documentul</string>
+      <string name="print_mode_unsupported">Modul de raportare nu este acceptat pentru driverul selectat</string>
+
+      <string name="help_download">Descărcarea manualului de pe server ...</string>
+      <string name="no_pdf_viewer">PDF Viewer nu a fost găsit! Vă rugăm să instalați unul de pe Google Play.</string>
+      <string name="no_file">Fișierul nu a fost găsit.</string>
+      <string name="no_print_data">Nu există date de imprimat.</string>
+      <string name="network_unavailable">Rețea indisponibilă. Vă rugăm să deschideți rețeaua WIFI sau mobilă.</string>
+      <string name="internal_initialization">Inițializare în proces, încercați din nou în câteva secunde.</string>
+      <string name="print_error">Date care nu sunt tipărite</string>
+      <string name="printer_not_found">Zebra Printer nu a fost găsită</string>
+      <string name="multipart_upload">Încărcare multipart</string>
+      <string name="cancel_upload">Anulare</string>
+      <string name="upload_cancelled">Încărcarea a fost anulată</string>
+      <string name="upload_success">Încărcarea finalizată cu succes în [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Eroare la încărcare</string>
+      <string name="upload_title">Se încarcă ...</string>
+      <string name="uploading">A încărcat [[UPLOADED_FILES]] din [[TOTAL_FILES]] în [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Driverul Zebra nu este instalat!</string>
+      <string name="youAreNotUpdatedTitle">Actualizare disponibila</string>
+      <string name="youAreNotUpdatedMessage">O versiune nouă a terminalului ecrane verzi este disponibilă. \ NVă rugăm să actualizați versiunea!</string>
+      <string name="update">Actualizați</string>
+      <string name="report_downloaded">Raport descărcat pe dispozitiv</string>
+      <string name="report_downloading">Raportează descărcarea de pe server</string>
+      <string name="report_print">Raport trimitere la tipărire</string>
+      <string name="biometric_authenticate_ok">Biometric autentificat</string>
+      <string name="biometric_validate_ok">Biometric validat</string>
+      <string name="biometric_register_ok">Biometric înregistrat</string>
+      <string name="biometric_unregister_ok">Biometric neînregistrat</string>
+      <string name="biometric_update_ok">Biometric actualizat</string>
+      <string name="biometric_error">Biometric neînregistrat</string>
+ </resources>

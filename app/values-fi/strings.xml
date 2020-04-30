@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Vihreät näytöt 5250 -pääte viivakoodinlukijalla. Lisätietoja osoitteessa www.greenscreens.io</string>
+
+      <string name="title_configs">Valitse kokoonpano</string>
+      <string name="title_plugins">Valitse laajennus</string>
+      <string name="title_help">Vihreät näytöt - Ohje</string>
+      <string name="selectAction">Valitse toiminta</string>
+      <string name="cancel">Peruuttaa</string>
+      <string name="ok">kunnossa</string>
+      <string name="data_removed">Tiedot poistettu!</string>
+      <string name="config_data_required">UUID ja isäntä ovat vaadittavat arvot!</string>
+      <string name="otp_data_required">Käyttäjä ja tunnus ovat vaadittavat arvot!</string>
+
+      <string name="loading">Ladataan…</string>
+      <string name="action_tutors">Oppaat</string>
+
+      <string name="action_help">auta</string>
+      <string name="action_about">Noin</string>
+
+      <string name="labelBarcode">Viivakoodi</string>
+      <string name="labelPrinter">kirjoitin</string>
+      <string name="labelLockRotate">Lukko kiertynyt</string>
+      <string name="labelSplitScreen">Jaettu näyttö</string>
+      <string name="labelTheme">Vaihda teema</string>
+      <string name="labelTemplate">Kelan malli</string>
+      <string name="labelDownload">Tiedoston lataus</string>
+      <string name="labelUpload">Tiedoston lataus</string>
+      <string name="pasteModeInfo">Kopiointi- / liitäntätila muutettu</string>
+      <string name="crash_toast_text">Ooooops! Katasin, mutta kehittäjälleni on lähetetty raportti ongelman ratkaisemiseksi!</string>
+      <string name="crash_dialog_title">Terminaali on kaatui</string>
+      <string name="crash_dialog_text">Tapahtui odottamaton virhe, joka pakotti sovelluksen pysähtymään. Auta meitä korjaamaan tämä lähettämällä meille virhedataa. Sinun tarvitsee vain napsauttaa OK.</string>
+      <string name="crash_dialog_comment_prompt">Voit lisätä kommentteja ongelmasta alla:</string>
+      <string name="msg_macro">Makron nimi</string>
+      <string name="msg_macro_undefined">Makroa ei ole määritelty</string>
+      <string name="msg_barcode_invalid">Virheelliset tiedot, tarkista, onko skannattu vääriä viivakoodeja!</string>
+      <string name="msg_barcode_error">Virhe viivakoodin käsittelyssä.</string>
+      <string name="action_settings">asetukset</string>
+      <string name="action_demo">demoja</string>
+      <string name="action_camera">Skannata</string>
+      <string name="saveBtn">Tallentaa</string>
+      <string name="submitBtn">Lähetä</string>
+    <string name="warning">Varoitus</string>
+      <string name="unsupported_version">Tätä Android-versiota ei tueta.</string>
+      <string name="update_webview">Päivitä verkkomoottori uusimpaan versioon, jotta voit käyttää sovellusta.</string>
+      <string name="network_unavailable">Verkkoa ei ole saatavana! Ole hyvä ja avaa verkkoyhteys!</string>
+      <string name="downloads_permission">Latauksia ei ole saatavana. Ota sovellusluvat käyttöön.</string>
+      <string name="info">Tiedot</string>
+      <string name="close_session_question">Haluatko varmasti sulkea tämän istunnon?</string>
+      <string name="invalid_url">Virheellinen URL!</string>
+      <string name="error">Virhe</string>
+      <string name="service_unavailable">Etäpalvelua ei voi käyttää</string>
+      <string name="no_data">Ei tallennettuja määritystietoja</string>
+      <string name="service_not_set">Palvelun URL-osoitetta ei ole määritetty</string>
+      <string name="description">Kuvaus</string>
+      <string name="no_data_from_scanner">Ei tietoja skannerista</string>
+      <string name="no_plugins_installed">Laajennuksia ei ole asennettu</string>
+      <string name="internal_detector">AI-viivakoodilukija</string>
+      <string name="wtma_invalid_service_url">Virheellinen viivakoodipalvelun URL-osoite, vaihdettu oletukseen!</string>
+      <string name="offline_mode">Offline-tilassa</string>
+      <string name="system_request">Järjestelmäpyyntö</string>
+      <string name="enter_number">Syötä numero!</string>
+      <string name="printer">kirjoitin</string>
+      <string name="printer_not_active">Tulostin ei ole aktiivinen.</string>
+      <string name="report_template">Raporttimalli</string>
+      <string name="enter_template_name">Anna mallin nimi!</string>
+      <string name="disconnect">Katkaista</string>
+      <string name="already_activated">Jo aktivoitu:</string>
+      <string name="ssl_certificate_error">SSL-varmennevirhe.</string>
+      <string name="cert_authority_not_trusted">Varmenteen myöntäjälle ei luoteta.</string>
+      <string name="cert_expired">Varmenne on vanhentunut.</string>
+      <string name="cert_mismatch">Varmenteen isäntänimen virhe.</string>
+      <string name="cert_not_yet_valid">Varmenne ei ole vielä voimassa.</string>
+      <string name="do_you_want_to_continue">Haluatko jatkaa joka tapauksessa?</string>
+      <string name="continue_btn">Jatkaa</string>
+      <string name="labelMacro">Makrotietue</string>
+      <string name="delete">Poistaa</string>
+      <string name="title_activity_macro">makrot</string>
+
+      <string name="fileNotFound">Tiedostoa ei ole.</string>
+
+      <string name="pin_not_matched">PIN ei vastaa</string>
+      <string name="pin_not_set">PIN-koodia ei ole asetettu</string>
+      <string name="labelKbar">Vaihda Keybar</string>
+      <string name="otp_invalid_token">\ ?? VOIMASSA TOKEN?</string>
+      <string name="otp_token_unsupported">OTP-tunnusta ei tueta</string>
+      <string name="otp_token_title">OTP-merkinnät</string>
+      <string name="otp_token_title_reg">OTP-tunnuksen rekisteröinti</string>
+      <string name="otp_token_message">OTP-tunnus vaaditaan - Anna käyttöoikeustiedot</string>
+      <string name="otp_token_unsync">VAROITUS!!! Tarkista onko järjestelmän aika synkronoitu.</string>
+      <string name="webauth_required_message">Kaikki kentät ovat pakollisia</string>
+      <string name="webauth_title">biometrinen</string>
+      <string name="wtma_sent">WTMA vahvisti</string>
+      <string name="file_too_big">Tiedosto on liian iso avataksesi!</string>
+      <string name="biometricBtn">Jatkaa</string>
+      <string name="not_in_demo">Ei käytettävissä esittelytilassa!</string>
+      <string name="tab_a_label">GENERAL</string>
+      <string name="tab_b_label">LAITE</string>
+      <string name="tab_c_label">MUUT</string>
+ </resources>

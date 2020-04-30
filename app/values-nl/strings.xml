@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Green Screens 5250 Terminal met barcodescanner. Lees meer op www.greenscreens.io</string>
+
+      <string name="title_configs">Selecteer configuratie</string>
+      <string name="title_plugins">Selecteer plug-in</string>
+      <string name="title_help">Groene schermen - Help</string>
+      <string name="selectAction">Selecteer actie</string>
+      <string name="cancel">annuleren</string>
+      <string name="ok">OK</string>
+      <string name="data_removed">Gegevens verwijderd!</string>
+      <string name="config_data_required">UUID en Host zijn verplichte waarden!</string>
+      <string name="otp_data_required">Gebruiker en token zijn verplichte waarden!</string>
+
+      <string name="loading">Bezig met laden…</string>
+      <string name="action_tutors">Tutorials</string>
+
+      <string name="action_help">Helpen</string>
+      <string name="action_about">Over</string>
+
+      <string name="labelBarcode">Barcode</string>
+      <string name="labelPrinter">Printer</string>
+      <string name="labelLockRotate">Lock roteren</string>
+      <string name="labelSplitScreen">Gesplitst scherm</string>
+      <string name="labelTheme">Van thema wisselen</string>
+      <string name="labelTemplate">Spool sjabloon</string>
+      <string name="labelDownload">Bestand download</string>
+      <string name="labelUpload">Bestand upload</string>
+      <string name="pasteModeInfo">Kopieer- / plakmodus gewijzigd</string>
+      <string name="crash_toast_text">Ooooops! Ik ben gecrasht, maar er is een rapport naar mijn ontwikkelaar gestuurd om het probleem op te lossen!</string>
+      <string name="crash_dialog_title">Terminal is vastgelopen</string>
+      <string name="crash_dialog_text">Er is een onverwachte fout opgetreden waardoor de toepassing is gestopt. Help ons dit op te lossen door ons foutgegevens te sturen, u hoeft alleen maar op OK te klikken.</string>
+      <string name="crash_dialog_comment_prompt">U kunt uw opmerkingen over het onderstaande probleem toevoegen:</string>
+      <string name="msg_macro">Macronaam</string>
+      <string name="msg_macro_undefined">Macro niet gedefinieerd</string>
+      <string name="msg_barcode_invalid">Ongeldige gegevens, controleer of de verkeerde barcode is gescand!</string>
+      <string name="msg_barcode_error">Fout bij het verwerken van barcode.</string>
+      <string name="action_settings">Instellingen</string>
+      <string name="action_demo">Demo\'s</string>
+      <string name="action_camera">Scannen</string>
+      <string name="saveBtn">Opslaan</string>
+      <string name="submitBtn">Verzenden</string>
+    <string name="warning">Waarschuwing</string>
+      <string name="unsupported_version">Deze versie van Android wordt niet ondersteund.</string>
+      <string name="update_webview">Update de web-engine naar de nieuwste versie om de applicatie te gebruiken.</string>
+      <string name="network_unavailable">Netwerk niet beschikbaar! Open netwerkverbinding!</string>
+      <string name="downloads_permission">Downloads niet beschikbaar. Schakel a.u.b. toepassingsrechten in.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Weet je zeker dat je deze sessie wilt afsluiten?</string>
+      <string name="invalid_url">Ongeldige URL!</string>
+      <string name="error">Fout</string>
+      <string name="service_unavailable">Geen toegang tot externe service</string>
+      <string name="no_data">Geen opgeslagen configuratiegegevens</string>
+      <string name="service_not_set">Service-URL niet ingesteld</string>
+      <string name="description">Omschrijving</string>
+      <string name="no_data_from_scanner">Geen gegevens van scanner</string>
+      <string name="no_plugins_installed">Geen plug-ins geïnstalleerd</string>
+      <string name="internal_detector">AI-streepjescodescanner</string>
+      <string name="wtma_invalid_service_url">Ongeldige URL voor streepjescodeservice, standaard ingesteld!</string>
+      <string name="offline_mode">Offline modus</string>
+      <string name="system_request">Systeemverzoek</string>
+      <string name="enter_number">Voer nummer in!</string>
+      <string name="printer">Printer</string>
+      <string name="printer_not_active">Printer niet actief.</string>
+      <string name="report_template">Rapportsjabloon</string>
+      <string name="enter_template_name">Sjabloonnaam invoeren!</string>
+      <string name="disconnect">verbinding verbreken</string>
+      <string name="already_activated">Al geactiveerd :</string>
+      <string name="ssl_certificate_error">Fout met SSL-certificaat.</string>
+      <string name="cert_authority_not_trusted">De certificeringsinstantie wordt niet vertrouwd.</string>
+      <string name="cert_expired">Het certificaat is verlopen.</string>
+      <string name="cert_mismatch">Het certificaat Hostnaam komt niet overeen.</string>
+      <string name="cert_not_yet_valid">Het certificaat is nog niet geldig.</string>
+      <string name="do_you_want_to_continue">Wil je toch doorgaan?</string>
+      <string name="continue_btn">Doorgaan met</string>
+      <string name="labelMacro">Macro-opname</string>
+      <string name="delete">Verwijderen</string>
+      <string name="title_activity_macro">Macro\'s</string>
+
+      <string name="fileNotFound">Bestand bestaat niet.</string>
+
+      <string name="pin_not_matched">PIN komt niet overeen</string>
+      <string name="pin_not_set">Pincode niet ingesteld</string>
+      <string name="labelKbar">Schakelen Keybar</string>
+      <string name="otp_invalid_token">\ ?? ONGELDIGE TOKEN ??</string>
+      <string name="otp_token_unsupported">OTP-token wordt niet ondersteund</string>
+      <string name="otp_token_title">OTP-tokeninvoer</string>
+      <string name="otp_token_title_reg">OTP-tokenregistratie</string>
+      <string name="otp_token_message">OTP-token vereist - voer referenties in</string>
+      <string name="otp_token_unsync">WAARSCHUWING!!! Controleer of de systeemtijd is gesynchroniseerd.</string>
+      <string name="webauth_required_message">Alle velden zijn verplicht</string>
+      <string name="webauth_title">Biometrisch</string>
+      <string name="wtma_sent">WTMA bevestigd</string>
+      <string name="file_too_big">Bestand te groot om te openen!</string>
+      <string name="biometricBtn">Doorgaan met</string>
+      <string name="not_in_demo">Niet beschikbaar in demo-modus!</string>
+      <string name="tab_a_label">ALGEMEEN</string>
+      <string name="tab_b_label">APPARAAT</string>
+      <string name="tab_c_label">ANDERE</string>
+ </resources>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">лого</string>
+      <string name="ok">Добре</string>
+      <string name="cancel">Отказ</string>
+      <string name="change">промяна</string>
+      <string name="stop">Спри се</string>
+      <string name="disconnect">Прекъсване на връзката</string>
+      <string name="enter_printer_name">Въведете името на принтерното устройство</string>
+      <string name="printer">печатар</string>
+      <string name="enter_pin">Въведете ПИН код</string>
+      <string name="enter_otp">Въведете OTP User и Token</string>
+      <string name="already_activated">Вече е активирано:</string>
+      <string name="file_download">Свали файл</string>
+      <string name="file_upload">Качи файл</string>
+      <string name="rate_dialog_title">Оцени %s.</string>
+      <string name="rate_dialog_message">Ако обичате да използвате %s, моля, помогнете ни, като го оцените. Това отнема само няколко секунди!</string>
+      <string name="rate_dialog_action_rate">скорост</string>
+      <string name="rate_dialog_action_never">Не благодаря</string>
+      <string name="rate_dialog_action_later">По късно</string>
+      <string name="rate_dialog_thank_you">Благодаря ти!</string>
+ </resources>

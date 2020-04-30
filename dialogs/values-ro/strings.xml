@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">siglă</string>
+      <string name="ok">O.K</string>
+      <string name="cancel">Anulare</string>
+      <string name="change">Schimbare</string>
+      <string name="stop">Stop</string>
+      <string name="disconnect">Deconectat</string>
+      <string name="enter_printer_name">Introduceți numele dispozitivului imprimantei</string>
+      <string name="printer">Imprimanta</string>
+      <string name="enter_pin">Introdu PIN</string>
+      <string name="enter_otp">Introdu OTP User and Token</string>
+      <string name="already_activated">Deja activat:</string>
+      <string name="file_download">Descărcare fișier</string>
+      <string name="file_upload">Incarca fisier</string>
+      <string name="rate_dialog_title">Rata %s.</string>
+      <string name="rate_dialog_message">Dacă vă place să utilizați %s, vă rugăm să ne ajutați evaluând. Durează doar câteva secunde!</string>
+      <string name="rate_dialog_action_rate">Rată</string>
+      <string name="rate_dialog_action_never">Nu multumesc</string>
+      <string name="rate_dialog_action_later">Mai tarziu</string>
+      <string name="rate_dialog_thank_you">Mulțumesc!</string>
+ </resources>

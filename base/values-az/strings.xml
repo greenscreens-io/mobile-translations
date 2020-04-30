@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Yerli yaddaşa yazmağa icazə verilmədi.</string>
+      <string name="show_keyboard">Klaviaturanı göstərin</string>
+      <string name="select_keyboard">Klaviatura seçin</string>
+      <string name="keyboard_notification">Klaviatura bildirişi aktivdir.</string>
+      <string name="tap_to_open_keyboard">Yaşıl ekranların klaviaturasını açmaq üçün vurun.</string>
+      <string name="tap_to_select_keyboard">Klaviaturanı seçmək üçün vurun.</string>
+      <string name="no_intent_document">Sənəddən istifadə üçün heç bir tətbiq yoxdur</string>
+      <string name="print_mode_unsupported">Hesabat rejimi seçilmiş sürücü üçün dəstəklənmir</string>
+
+      <string name="help_download">Təlimat serverdən yüklənir ...</string>
+      <string name="no_pdf_viewer">PDF Viewer tapılmadı! Lütfən Google Play-dən birini quraşdırın.</string>
+      <string name="no_file">Fayl tapılmadı.</string>
+      <string name="no_print_data">Çap etmək üçün məlumat yoxdur.</string>
+      <string name="network_unavailable">Şəbəkə əlçatmazdır. Zəhmət olmasa WIFI və ya mobil şəbəkə açın.</string>
+      <string name="internal_initialization">İşə başlama, bir neçə saniyə sonra yenidən cəhd edin.</string>
+      <string name="print_error">Məlumat çap olunmur</string>
+      <string name="printer_not_found">Zebra Yazıcı tapılmadı</string>
+      <string name="multipart_upload">Çoxpartlı Yükləmə</string>
+      <string name="cancel_upload">Ləğv et</string>
+      <string name="upload_cancelled">Yükləmə ləğv edildi</string>
+      <string name="upload_success">Yükləmə uğurla tamamlandı [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Yükləmə zamanı xəta</string>
+      <string name="upload_title">Yüklənir ...</string>
+      <string name="uploading">[[UPLOAD_FILES]] - dən [[TOTAL_FILES]] yüklə [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra Sürücü quraşdırılmadı!</string>
+      <string name="youAreNotUpdatedTitle">Yeniləmə mövcuddur</string>
+      <string name="youAreNotUpdatedMessage">Yaşıl Ekranlar Terminalının yeni bir versiyası mövcuddur. \ NXahiş edirəm versiyaya yeniləyin!</string>
+      <string name="update">Yeniləyin</string>
+      <string name="report_downloaded">Cihaza yükləndiyini bildirin</string>
+      <string name="report_downloading">Serverdən yüklənməsini bildirin</string>
+      <string name="report_print">Çap göndərmək bildirin</string>
+      <string name="biometric_authenticate_ok">Biometrik təsdiq</string>
+      <string name="biometric_validate_ok">Biometrik təsdiq edilmişdir</string>
+      <string name="biometric_register_ok">Biometrik qeydiyyatdan keçib</string>
+      <string name="biometric_unregister_ok">Biometrik qeydiyyatsız</string>
+      <string name="biometric_update_ok">Biometrik yeniləndi</string>
+      <string name="biometric_error">Biometrik qeydiyyatdan keçməyib</string>
+ </resources>

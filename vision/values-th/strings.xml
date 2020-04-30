@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">จำเป็นต้องเข้าถึงกล้องเพื่อตรวจจับ</string>
+      <string name="permission_warning">คำเตือนการอนุญาต</string>
+      <string name="no_camera_permission">การรับรู้บาร์โค้ดไม่สามารถทำงานได้เนื่องจากไม่ได้รับอนุญาตจากกล้อง</string>
+      <string name="low_storage_error">ไม่สามารถดาวน์โหลดเครื่องตรวจจับบาร์โค้ดได้เนื่องจากพื้นที่จัดเก็บอุปกรณ์เหลือน้อย</string>
+ </resources>

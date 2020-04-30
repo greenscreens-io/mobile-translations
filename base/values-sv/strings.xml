@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Tillstånd nekas att skriva till lokal lagring.</string>
+      <string name="show_keyboard">Visa tangentbord</string>
+      <string name="select_keyboard">Välj tangentbord</string>
+      <string name="keyboard_notification">Tangentbordsmeddelande aktiverat.</string>
+      <string name="tap_to_open_keyboard">Klicka för att öppna tangentbordet med gröna skärmar.</string>
+      <string name="tap_to_select_keyboard">Klicka för att välja tangentbord.</string>
+      <string name="no_intent_document">Ingen applikation för att använda dokumentet</string>
+      <string name="print_mode_unsupported">Rapportläget stöds inte för vald drivrutin</string>
+
+      <string name="help_download">Hämtar manual från servern ...</string>
+      <string name="no_pdf_viewer">PDF Viewer hittades inte! Installera en från Google Play.</string>
+      <string name="no_file">Filen hittades inte.</string>
+      <string name="no_print_data">Inga data att skriva ut.</string>
+      <string name="network_unavailable">Nätverk ej tillgängligt. Öppna WIFI- eller mobilnätverket.</string>
+      <string name="internal_initialization">Initieringsprocessen, försök igen om några sekunder.</string>
+      <string name="print_error">Uppgifterna skrivs inte ut</string>
+      <string name="printer_not_found">Zebra-skrivare hittades inte</string>
+      <string name="multipart_upload">Uppladdning av flera delar</string>
+      <string name="cancel_upload">Avbryt</string>
+      <string name="upload_cancelled">Uppladdningen har avbrutits</string>
+      <string name="upload_success">Uppladdningen har slutförts under [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Fel vid uppladdning</string>
+      <string name="upload_title">Uppladdning ...</string>
+      <string name="uploading">Laddat upp [[UPLOADED_FILES]] av [[TOTAL_FILES]] vid [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra Driver inte installerad!</string>
+      <string name="youAreNotUpdatedTitle">Uppdatering tillgänglig</string>
+      <string name="youAreNotUpdatedMessage">En ny version av Green Screens Terminal är tillgänglig. \ N Uppdatera till versionen!</string>
+      <string name="update">Uppdatering</string>
+      <string name="report_downloaded">Rapportera nedladdat till enheten</string>
+      <string name="report_downloading">Rapportera nedladdning från servern</string>
+      <string name="report_print">Rapportera skicka till utskrift</string>
+      <string name="biometric_authenticate_ok">Biometrisk autentiserad</string>
+      <string name="biometric_validate_ok">Biometrisk validerad</string>
+      <string name="biometric_register_ok">Biometrisk registrerad</string>
+      <string name="biometric_unregister_ok">Biometrisk oregistrerad</string>
+      <string name="biometric_update_ok">Biometrisk uppdaterad</string>
+      <string name="biometric_error">Biometrisk ej registrerad</string>
+ </resources>

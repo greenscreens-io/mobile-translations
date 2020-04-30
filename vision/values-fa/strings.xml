@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">برای شناسایی به دوربین دسترسی دارید</string>
+      <string name="permission_warning">هشدار مجوز</string>
+      <string name="no_camera_permission">تشخیص بارکد نمی تواند اجرا شود زیرا مجوز دوربین ندارد.</string>
+      <string name="low_storage_error">وابستگی های ردیاب بارکد به دلیل ذخیره پایین دستگاه قابل بارگیری نیست</string>
+ </resources>

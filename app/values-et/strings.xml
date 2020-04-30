@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Roheliste ekraanide 5250 terminal koos vöötkoodiskanneriga. Lisateavet leiate veebisaidilt www.greenscreens.io</string>
+
+      <string name="title_configs">Valige konfiguratsioon</string>
+      <string name="title_plugins">Valige pistikprogramm</string>
+      <string name="title_help">Rohelised ekraanid - abi</string>
+      <string name="selectAction">Valige toiming</string>
+      <string name="cancel">Tühista</string>
+      <string name="ok">Okei</string>
+      <string name="data_removed">Andmed eemaldatud!</string>
+      <string name="config_data_required">UUID ja host on vajalikud väärtused!</string>
+      <string name="otp_data_required">Kasutaja ja märk on kohustuslikud väärtused!</string>
+
+      <string name="loading">Laadimine ...</string>
+      <string name="action_tutors">Õpetused</string>
+
+      <string name="action_help">Abi</string>
+      <string name="action_about">Umbes</string>
+
+      <string name="labelBarcode">Vöötkood</string>
+      <string name="labelPrinter">Printer</string>
+      <string name="labelLockRotate">Lukk pöörleb</string>
+      <string name="labelSplitScreen">Jaotatud ekraan</string>
+      <string name="labelTheme">Teema vahetamine</string>
+      <string name="labelTemplate">Poolide mall</string>
+      <string name="labelDownload">Failide allalaadimine</string>
+      <string name="labelUpload">Faili üleslaadimine</string>
+      <string name="pasteModeInfo">Kopeerimise / kleepimise režiim on muutunud</string>
+      <string name="crash_toast_text">Ooooops! Ma kukkusin läbi, kuid minu arendajale on saadetud aruanne, mis aitab probleemi lahendada!</string>
+      <string name="crash_dialog_title">Terminal on kukkunud</string>
+      <string name="crash_dialog_text">Tekkis ootamatu tõrge, mis sundis rakendust peatama. Aidake meil seda lahendada, saates meile tõrkeandmeid, peate vaid klõpsama nuppu OK.</string>
+      <string name="crash_dialog_comment_prompt">Võite lisada oma kommentaarid probleemi kohta allpool:</string>
+      <string name="msg_macro">Makro nimi</string>
+      <string name="msg_macro_undefined">Makro pole määratletud</string>
+      <string name="msg_barcode_invalid">Valed andmed, kontrollige, kas skannitud on vale vöötkood!</string>
+      <string name="msg_barcode_error">Viga vöötkoodi töötlemisel.</string>
+      <string name="action_settings">Seadistused</string>
+      <string name="action_demo">Demod</string>
+      <string name="action_camera">Skaneerimine</string>
+      <string name="saveBtn">Salvesta</string>
+      <string name="submitBtn">Esita</string>
+    <string name="warning">Hoiatus</string>
+      <string name="unsupported_version">Seda Androidi versiooni ei toetata.</string>
+      <string name="update_webview">Rakenduse kasutamiseks värskendage veebimootorit uusimale versioonile.</string>
+      <string name="network_unavailable">Võrk pole saadaval! Palun avage võrguühendus!</string>
+      <string name="downloads_permission">Allalaadimised pole saadaval. Lubage rakenduse õigused.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Kas soovite kindlasti selle seansi sulgeda?</string>
+      <string name="invalid_url">Vigane URL!</string>
+      <string name="error">Viga</string>
+      <string name="service_unavailable">Kaugteenusele ei pääse juurde</string>
+      <string name="no_data">Salvestatud konfiguratsiooniandmeid pole</string>
+      <string name="service_not_set">Teenuse URL pole määratud</string>
+      <string name="description">Kirjeldus</string>
+      <string name="no_data_from_scanner">Skännerilt andmed puuduvad</string>
+      <string name="no_plugins_installed">Pole installitud pistikprogramme</string>
+      <string name="internal_detector">AI vöötkoodiskanner</string>
+      <string name="wtma_invalid_service_url">Kehtetu vöötkooditeenuse URL, lülitatakse vaikimisi!</string>
+      <string name="offline_mode">Võrguühenduseta režiim</string>
+      <string name="system_request">Süsteemitaotlus</string>
+      <string name="enter_number">Sisestage number!</string>
+      <string name="printer">Printer</string>
+      <string name="printer_not_active">Printer pole aktiivne.</string>
+      <string name="report_template">Aruande mall</string>
+      <string name="enter_template_name">Sisestage malli nimi!</string>
+      <string name="disconnect">Katkesta ühendus</string>
+      <string name="already_activated">Juba aktiveeritud:</string>
+      <string name="ssl_certificate_error">SSL-sertifikaadi viga.</string>
+      <string name="cert_authority_not_trusted">Sertifikaadi autoriteeti ei usaldata.</string>
+      <string name="cert_expired">Sertifikaat on aegunud</string>
+      <string name="cert_mismatch">Sertifikaadi hostinimi ei sobi kokku.</string>
+      <string name="cert_not_yet_valid">Sertifikaat pole veel kehtiv.</string>
+      <string name="do_you_want_to_continue">Kas soovite ikkagi jätkata?</string>
+      <string name="continue_btn">Jätkake</string>
+      <string name="labelMacro">Makrorekord</string>
+      <string name="delete">Kustuta</string>
+      <string name="title_activity_macro">Makrod</string>
+      <string name="fileNotFound">Faili pole olemas.</string>
+
+      <string name="pin_not_matched">PIN-kood ei vasta</string>
+      <string name="pin_not_set">PIN-koodi pole määratud</string>
+      <string name="labelKbar">Lülitage Keybar</string>
+      <string name="otp_invalid_token">\ ?? Kehtetu TOKEN ??</string>
+      <string name="otp_token_unsupported">OTP luba ei toetata</string>
+      <string name="otp_token_title">OTP märgise sisestus</string>
+      <string name="otp_token_title_reg">OTP märgise registreerimine</string>
+      <string name="otp_token_message">Vajalik OTP luba - sisestage mandaadid</string>
+      <string name="otp_token_unsync">HOIATUS !!! Kontrollige, kas süsteemi aeg on sünkroonitud.</string>
+      <string name="webauth_required_message">Kõik väljad on kohustuslikud</string>
+      <string name="webauth_title">Biomeetriline</string>
+      <string name="wtma_sent">WTMA kinnitas</string>
+      <string name="file_too_big">Fail on avamiseks liiga suur!</string>
+      <string name="biometricBtn">Jätkake</string>
+      <string name="not_in_demo">Demorežiimis pole saadaval!</string>
+      <string name="tab_a_label">ÜLDINE</string>
+      <string name="tab_b_label">SEADM</string>
+      <string name="tab_c_label">MUU</string>
+ </resources>

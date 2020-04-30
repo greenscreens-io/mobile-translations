@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">अनुमति स्थानीय भंडारण को लिखने से इनकार कर दिया।</string>
+      <string name="show_keyboard">कीबोर्ड दिखाएं</string>
+      <string name="select_keyboard">कीबोर्ड का चयन करें</string>
+      <string name="keyboard_notification">कीबोर्ड सूचना सक्षम की गई।</string>
+      <string name="tap_to_open_keyboard">ग्रीन स्क्रीन कीबोर्ड खोलने के लिए टैप करें।</string>
+      <string name="tap_to_select_keyboard">कीबोर्ड चुनने के लिए टैप करें।</string>
+      <string name="no_intent_document">दस्तावेज़ का उपयोग करने के लिए कोई आवेदन नहीं</string>
+      <string name="print_mode_unsupported">चयनित ड्राइवर के लिए रिपोर्ट मोड समर्थित नहीं है</string>
+
+      <string name="help_download">सर्वर से मैनुअल डाउनलोड हो रहा है ...</string>
+      <string name="no_pdf_viewer">पीडीएफ दर्शक नहीं मिला! कृपया Google Play से एक इंस्टॉल करें।</string>
+      <string name="no_file">फाइल नहीं मिली।</string>
+      <string name="no_print_data">प्रिंट करने के लिए कोई डेटा नहीं।</string>
+      <string name="network_unavailable">प्रसार अनुपलब्ध है। कृपया वाईफ़ाई या मोबाइल नेटवर्क खोलें।</string>
+      <string name="internal_initialization">प्रक्रिया में प्रारंभिक, कृपया कुछ सेकंड में फिर से प्रयास करें।</string>
+      <string name="print_error">डेटा प्रिंट नहीं किया गया</string>
+      <string name="printer_not_found">ज़ेबरा प्रिंटर नहीं मिला</string>
+      <string name="multipart_upload">मल्टीपार्ट अपलोड</string>
+      <string name="cancel_upload">रद्द करना</string>
+      <string name="upload_cancelled">अपलोड रद्द कर दिया गया है</string>
+      <string name="upload_success">[[ELAPSED_TIME]] में सफलतापूर्वक अपलोड किया गया</string>
+      <string name="upload_error">अपलोड करते समय त्रुटि</string>
+      <string name="upload_title">अपलोड हो रहा है ...</string>
+      <string name="uploading">अपलोड [[UPLOADED_FILES]] [[TOTAL_FILES]] के [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">ज़ेबरा ड्राइवर स्थापित नहीं!</string>
+      <string name="youAreNotUpdatedTitle">अपडेट उपलब्ध</string>
+      <string name="youAreNotUpdatedMessage">ग्रीन स्क्रीन टर्मिनल का एक नया संस्करण उपलब्ध है। \ n कृपया संस्करण में अपडेट करें!</string>
+      <string name="update">अपडेट करें</string>
+      <string name="report_downloaded">डिवाइस पर रिपोर्ट डाउनलोड की गई</string>
+      <string name="report_downloading">सर्वर से डाउनलोड करने की रिपोर्ट</string>
+      <string name="report_print">प्रिंट करने के लिए रिपोर्ट भेजें</string>
+      <string name="biometric_authenticate_ok">बॉयोमीट्रिक प्रमाणित</string>
+      <string name="biometric_validate_ok">बॉयोमीट्रिक मान्य</string>
+      <string name="biometric_register_ok">बॉयोमीट्रिक पंजीकृत</string>
+      <string name="biometric_unregister_ok">बॉयोमीट्रिक अपंजीकृत</string>
+      <string name="biometric_update_ok">बायोमेट्रिक अपडेट किया गया</string>
+      <string name="biometric_error">बॉयोमीट्रिक पंजीकृत नहीं है</string>
+ </resources>

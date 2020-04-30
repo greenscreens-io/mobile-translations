@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Ruhusa iliyokataliwa kuandika kwa uhifadhi wa eneo.</string>
+      <string name="show_keyboard">Onyesha Kibodi</string>
+      <string name="select_keyboard">Chagua Kibodi</string>
+      <string name="keyboard_notification">Arifa ya kibodi imewashwa.</string>
+      <string name="tap_to_open_keyboard">Gonga ili kufungua kibodi cha skrini cha Green.</string>
+      <string name="tap_to_select_keyboard">Gonga ili uchague kibodi.</string>
+      <string name="no_intent_document">Hakuna programu ya kutumia hati</string>
+      <string name="print_mode_unsupported">Hali ya ripoti haitumiki kwa dereva aliyechaguliwa</string>
+
+      <string name="help_download">Inapakua mwongozo kutoka kwa seva ...</string>
+      <string name="no_pdf_viewer">Mtazamaji wa PDF hajapatikana! Tafadhali ingiza moja kutoka Google Play.</string>
+      <string name="no_file">Faili halijapatikana.</string>
+      <string name="no_print_data">Hakuna data ya kuchapisha.</string>
+      <string name="network_unavailable">Mtandao haupatikani. Tafadhali fungua WIFI au mtandao wa rununu.</string>
+      <string name="internal_initialization">Uanzishaji unaendelea, tafadhali jaribu tena katika sekunde chache.</string>
+      <string name="print_error">Data haijachapishwa</string>
+      <string name="printer_not_found">Printa ya Zebra haipatikani</string>
+      <string name="multipart_upload">Upakiaji Multipart</string>
+      <string name="cancel_upload">Ghairi</string>
+      <string name="upload_cancelled">Upakiaji umefutwa</string>
+      <string name="upload_success">Upakiaji umekamilika kwa mafanikio katika [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Kosa wakati wa kupakia</string>
+      <string name="upload_title">Inapakia ...</string>
+      <string name="uploading">Imepakia [[UPLOADED_FILES]] kati ya [[TOTAL_FILES]] [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Dereva wa Zebra haijasakinishwa!</string>
+      <string name="youAreNotUpdatedTitle">Sasisha Inapatikana</string>
+      <string name="youAreNotUpdatedMessage">Toleo jipya la Kituo cha skrini cha Green inapatikana. \ NTafadhali sasisha kwa toleo!</string>
+      <string name="update">Sasisha</string>
+      <string name="report_downloaded">Ripoti kupakuliwa kwa kifaa</string>
+      <string name="report_downloading">Ripoti kupakua kutoka kwa seva</string>
+      <string name="report_print">Ripoti tuma kwa kuchapishwa</string>
+      <string name="biometric_authenticate_ok">Biometri imethibitishwa</string>
+      <string name="biometric_validate_ok">Biometriska iliyothibitishwa</string>
+      <string name="biometric_register_ok">Biometristi imesajiliwa</string>
+      <string name="biometric_unregister_ok">Biometriska haijasajiliwa</string>
+      <string name="biometric_update_ok">Baiometri iliyosasishwa</string>
+      <string name="biometric_error">Biometrisia haijasajiliwa</string>
+ </resources>

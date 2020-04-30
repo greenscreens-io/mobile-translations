@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Ufikiaji wa kamera inahitajika kwa ugunduzi</string>
+      <string name="permission_warning">Onyo la idhini</string>
+      <string name="no_camera_permission">Utambuzi wa barcode hauwezi kukimbia kwa sababu haina ruhusa ya kamera.</string>
+      <string name="low_storage_error">Utegemezi wa kizuizi cha barcode hauwezi kupakuliwa kwa sababu ya uhifadhi wa kifaa cha chini</string>
+ </resources>

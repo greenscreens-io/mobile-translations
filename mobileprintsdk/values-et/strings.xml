@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Trükiteenuse teave</string>
+      <string name="print_service_help_title_1">Hankige prinditeenuse pistikprogramm</string>
+      <string name="print_service_help_msg_1">Printimiseks peab teil olema installitud prinditeenuse pistikprogramm. Igal printerimärgil on oma pistikprogramm, mis võimaldab teil oma mobiilseadmest printida. Saadaval on ka üldised prinditeenuse pistikprogrammid. Valige pistikprogramm, mis teile kõige paremini sobib. Täiendavaid prindipistikprogramme saate lisada igal ajal.</string>
+      <string name="print_service_help_title_2">Luba pistikprogramm</string>
+      <string name="print_service_help_msg_2">Pärast printimisteenuse pistikprogrammi allalaadimist palutakse teil pistikprogramm lubada. Valige see lihtsalt ja koputage lüliti asendisse “ON”.</string>
+      <string name="plugin_manager_title">Trükiteenuste juht</string>
+      <string name="plugin_manager_sub_title">Peate installima ja printimiseks lubama prinditeenuse pistikprogrammi.</string>
+      <string name="before_enable_tips">Teid suunatakse Androidi printimisseadetesse.</string>
+      <string name="before_enable_tips_title">Luba oma pistikprogramm</string>
+      <string name="ok">JÄTKE SEADISTUSTELE</string>
+      <string name="cancel">Tühista</string>
+      <string name="enabled">Lubatud</string>
+      <string name="disabled">Keelatud</string>
+ </resources>

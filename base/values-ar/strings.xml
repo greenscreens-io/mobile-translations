@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">تم رفض الإذن بالكتابة إلى التخزين المحلي.</string>
+      <string name="show_keyboard">إظهار لوحة المفاتيح</string>
+      <string name="select_keyboard">حدد لوحة المفاتيح</string>
+      <string name="keyboard_notification">تم تمكين إعلام لوحة المفاتيح.</string>
+      <string name="tap_to_open_keyboard">انقر لفتح لوحة مفاتيح الشاشات الخضراء.</string>
+      <string name="tap_to_select_keyboard">انقر لتحديد لوحة المفاتيح.</string>
+      <string name="no_intent_document">لا يوجد تطبيق لاستخدام المستند</string>
+      <string name="print_mode_unsupported">وضع التقرير غير معتمد لبرنامج التشغيل المحدد</string>
+
+      <string name="help_download">جاري تحميل الدليل من الخادم ...</string>
+      <string name="no_pdf_viewer">لم يتم العثور على عارض PDF! يرجى تثبيت واحد من Google Play.</string>
+      <string name="no_file">لم يتم العثور على الملف.</string>
+      <string name="no_print_data">لا توجد بيانات للطباعة.</string>
+      <string name="network_unavailable">الشبكة غير متوفرة. يرجى فتح WIFI أو شبكة الهاتف المحمول.</string>
+      <string name="internal_initialization">جاري التهيئة ، يرجى المحاولة مرة أخرى في بضع ثوان.</string>
+      <string name="print_error">البيانات غير مطبوعة</string>
+      <string name="printer_not_found">طابعة زيبرا غير موجودة</string>
+      <string name="multipart_upload">تحميل متعدد الأجزاء</string>
+      <string name="cancel_upload">إلغاء</string>
+      <string name="upload_cancelled">تم إلغاء التحميل</string>
+      <string name="upload_success">اكتمل التحميل بنجاح في [[ELAPSED_TIME]]</string>
+      <string name="upload_error">حدث خطأ أثناء التحميل</string>
+      <string name="upload_title">جارٍ التحميل ...</string>
+      <string name="uploading">تم تحميل [[UPLOADED_FILES]] من [[TOTAL_FILES]] في [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">لم يتم تثبيت Zebra Driver!</string>
+      <string name="youAreNotUpdatedTitle">التحديث متاح</string>
+      <string name="youAreNotUpdatedMessage">يتوفر إصدار جديد من Green Screens Terminal. \ n الرجاء التحديث إلى الإصدار!</string>
+      <string name="update">تحديث</string>
+      <string name="report_downloaded">تم تنزيل التقرير على الجهاز</string>
+      <string name="report_downloading">تقرير التنزيل من الخادم</string>
+      <string name="report_print">تقرير الإرسال للطباعة</string>
+      <string name="biometric_authenticate_ok">مصادقة البيومترية</string>
+      <string name="biometric_validate_ok">التحقق من صحة البيومترية</string>
+      <string name="biometric_register_ok">مسجل البيومترية</string>
+      <string name="biometric_unregister_ok">البيومترية غير مسجلة</string>
+      <string name="biometric_update_ok">تحديث البيومترية</string>
+      <string name="biometric_error">البيومترية غير مسجلة</string>
+ </resources>

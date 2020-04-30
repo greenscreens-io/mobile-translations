@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">需要访问相机进行检测</string>
+      <string name="permission_warning">权限警告</string>
+      <string name="no_camera_permission">条形码识别无法运行，因为它没有摄像头许可。</string>
+      <string name="low_storage_error">由于设备存储空间不足，无法下载条形码检测器相关性</string>
+ </resources>

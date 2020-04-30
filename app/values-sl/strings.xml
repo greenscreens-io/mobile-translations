@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Terminal Green Screens 5250 s čitalcem črtne kode. Izvedite več na www.greenscreens.io</string>
+
+      <string name="title_configs">Izberite konfiguracijo</string>
+      <string name="title_plugins">Izberite vtičnik</string>
+      <string name="title_help">Zeleni zasloni - Pomoč</string>
+      <string name="selectAction">Izberite dejanje</string>
+      <string name="cancel">Prekliči</string>
+      <string name="ok">v redu</string>
+      <string name="data_removed">Podatki so odstranjeni!</string>
+      <string name="config_data_required">UUID in Host sta obvezni vrednosti!</string>
+      <string name="otp_data_required">Uporabnik in žeton sta obvezni vrednosti!</string>
+
+      <string name="loading">Nalaganje…</string>
+      <string name="action_tutors">Vadnice</string>
+
+      <string name="action_help">Pomoč</string>
+      <string name="action_about">O tem</string>
+
+      <string name="labelBarcode">Črtna koda</string>
+      <string name="labelPrinter">Tiskalnik</string>
+      <string name="labelLockRotate">Ključavnica se zasuka</string>
+      <string name="labelSplitScreen">Razdeljeni zaslon</string>
+      <string name="labelTheme">Preklopite temo</string>
+      <string name="labelTemplate">Predloga za tuljavo</string>
+      <string name="labelDownload">Prenos datoteke</string>
+      <string name="labelUpload">Nalaganje datoteke</string>
+      <string name="pasteModeInfo">Način kopiranja / lepljenja je bil spremenjen</string>
+      <string name="crash_toast_text">Ooooops! Strnil sem se, vendar je bilo mojemu razvijalcu poslano poročilo, ki bo pomagalo odpraviti težavo!</string>
+      <string name="crash_dialog_title">Terminal se je zrušil</string>
+      <string name="crash_dialog_text">Prišlo je do nepričakovane napake, zaradi katere se je aplikacija ustavila. Prosimo, pomagajte nam, da to odpravimo tako, da nam pošljete podatke o napakah. Vse, kar morate storiti, je, da kliknete V redu.</string>
+      <string name="crash_dialog_comment_prompt">Pripombe o težavi lahko dodate spodaj:</string>
+      <string name="msg_macro">Ime makra</string>
+      <string name="msg_macro_undefined">Makro ni definiran</string>
+      <string name="msg_barcode_invalid">Neveljavni podatki, preverite, ali je skenirana napačna črtna koda!</string>
+      <string name="msg_barcode_error">Napaka pri obdelavi črtne kode.</string>
+      <string name="action_settings">Nastavitve</string>
+      <string name="action_demo">Demos</string>
+      <string name="action_camera">Optično branje</string>
+      <string name="saveBtn">Shrani</string>
+      <string name="submitBtn">Pošlji</string>
+    <string name="warning">Opozorilo</string>
+      <string name="unsupported_version">Ta različica Androida ni podprta.</string>
+      <string name="update_webview">Če želite uporabljati aplikacijo, posodobite spletni motor na najnovejšo različico.</string>
+      <string name="network_unavailable">Omrežje ni na voljo! Odprite omrežno povezavo!</string>
+      <string name="downloads_permission">Prenosi niso na voljo. Prosimo, omogočite dovoljenja za aplikacije.</string>
+      <string name="info">Informacije</string>
+      <string name="close_session_question">Ali ste prepričani, da želite zaključiti to sejo?</string>
+      <string name="invalid_url">Neveljaven URL!</string>
+      <string name="error">Napaka</string>
+      <string name="service_unavailable">Ni mogoče dostopati do oddaljene storitve</string>
+      <string name="no_data">Ni shranjenih konfiguracijskih podatkov</string>
+      <string name="service_not_set">URL storitve ni nastavljen</string>
+      <string name="description">Opis</string>
+      <string name="no_data_from_scanner">Ni podatkov iz optičnega bralnika</string>
+      <string name="no_plugins_installed">Vtičniki niso nameščeni</string>
+      <string name="internal_detector">AI čitalnik črtne kode</string>
+      <string name="wtma_invalid_service_url">Neveljaven URL storitve črtne kode, preklopljen na privzeto!</string>
+      <string name="offline_mode">Način brez povezave</string>
+      <string name="system_request">Sistemska zahteva</string>
+      <string name="enter_number">Vnesite številko!</string>
+      <string name="printer">Tiskalnik</string>
+      <string name="printer_not_active">Tiskalnik ni aktiven</string>
+      <string name="report_template">Predloga poročila</string>
+      <string name="enter_template_name">Vnesite ime predloge!</string>
+      <string name="disconnect">Prekini povezavo</string>
+      <string name="already_activated">Že aktivirano:</string>
+      <string name="ssl_certificate_error">Napaka SSL potrdila.</string>
+      <string name="cert_authority_not_trusted">Potrjevalnemu organu ni zaupati.</string>
+      <string name="cert_expired">Potrdilo je poteklo.</string>
+      <string name="cert_mismatch">Neskladje imena gostitelja s potrdilom.</string>
+      <string name="cert_not_yet_valid">Potrdilo še ni veljavno.</string>
+      <string name="do_you_want_to_continue">Ali vseeno želite nadaljevati?</string>
+      <string name="continue_btn">Nadaljujte</string>
+      <string name="labelMacro">Makro zapis</string>
+      <string name="delete">Izbriši</string>
+      <string name="title_activity_macro">Makroni</string>
+
+      <string name="fileNotFound">Datoteka ne obstaja.</string>
+
+      <string name="pin_not_matched">PIN se ne ujema</string>
+      <string name="pin_not_set">Koda PIN ni nastavljena</string>
+      <string name="labelKbar">Preklopite tipkovnico</string>
+      <string name="otp_invalid_token">\ ?? NEVELJAVEN ŽETON ??</string>
+      <string name="otp_token_unsupported">OTP žeton ni podprt</string>
+      <string name="otp_token_title">OTP Token Vpis</string>
+      <string name="otp_token_title_reg">Registracija OTP žetona</string>
+      <string name="otp_token_message">OTP Token Required - Vnesite poverilnice</string>
+      <string name="otp_token_unsync">OPOZORILO!!! Preverite, ali je sistemski čas sinhroniziran.</string>
+      <string name="webauth_required_message">Vsa polja so obvezna</string>
+      <string name="webauth_title">Biometrična</string>
+      <string name="wtma_sent">Potrjena WTMA</string>
+      <string name="file_too_big">Datoteka je prevelika za odpiranje!</string>
+      <string name="biometricBtn">Nadaljujte</string>
+      <string name="not_in_demo">Ni na voljo v demo načinu!</string>
+      <string name="tab_a_label">SPLOŠNO</string>
+      <string name="tab_b_label">NAPRAVA</string>
+      <string name="tab_c_label">DRUGO</string>
+ </resources>

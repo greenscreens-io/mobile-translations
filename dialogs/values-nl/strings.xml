@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">OK</string>
+      <string name="cancel">annuleren</string>
+      <string name="change">Verandering</string>
+      <string name="stop">Hou op</string>
+      <string name="disconnect">verbinding verbreken</string>
+      <string name="enter_printer_name">Voer de naam van het printerapparaat in</string>
+      <string name="printer">Printer</string>
+      <string name="enter_pin">Voer Pin-code in</string>
+      <string name="enter_otp">Voer OTP-gebruiker en token in</string>
+      <string name="already_activated">Al geactiveerd :</string>
+      <string name="file_download">Download bestand</string>
+      <string name="file_upload">Upload bestand</string>
+      <string name="rate_dialog_title">Beoordeel %s.</string>
+      <string name="rate_dialog_message">Als je %s graag gebruikt, help ons dan door het te beoordelen. Het duurt maar een paar seconden!</string>
+      <string name="rate_dialog_action_rate">Tarief</string>
+      <string name="rate_dialog_action_never">Nee, dank u wel</string>
+      <string name="rate_dialog_action_later">Later</string>
+      <string name="rate_dialog_thank_you">Dank u!</string>
+ </resources>

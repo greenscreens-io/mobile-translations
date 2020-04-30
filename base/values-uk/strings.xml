@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">У дозволі відмовлено в записі до місцевого сховища.</string>
+      <string name="show_keyboard">Показати клавіатуру</string>
+      <string name="select_keyboard">Виберіть Клавіатура</string>
+      <string name="keyboard_notification">Увімкнено сповіщення на клавіатурі.</string>
+      <string name="tap_to_open_keyboard">Торкніться, щоб відкрити клавіатуру зелених екранів.</string>
+      <string name="tap_to_select_keyboard">Торкніться, щоб вибрати клавіатуру.</string>
+      <string name="no_intent_document">Немає програми для використання документа</string>
+      <string name="print_mode_unsupported">Режим звітів для вибраного драйвера не підтримується</string>
+
+      <string name="help_download">Завантаження керівництва з сервера ...</string>
+      <string name="no_pdf_viewer">Переглядач PDF не знайдено! Установіть його з Google Play.</string>
+      <string name="no_file">Файл не знайдено.</string>
+      <string name="no_print_data">Немає даних для друку.</string>
+      <string name="network_unavailable">Мережа недоступна Відкрийте WIFI або мобільну мережу.</string>
+      <string name="internal_initialization">Процес ініціалізації. Повторіть спробу через кілька секунд.</string>
+      <string name="print_error">Дані не друкуються</string>
+      <string name="printer_not_found">Принтер Zebra не знайдено</string>
+ </resources>

@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="title" translatable="false">AI Barcode Scanner</string>
+
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="permission_warning">Permission warning</string>
+    <string name="no_camera_permission">Barcode recognition cannot run because it does not have the camera permission.</string>
+    <string name="low_storage_error">Barcode detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="ok" translatable="false">\?</string>
+</resources>

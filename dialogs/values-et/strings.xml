@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">Okei</string>
+      <string name="cancel">Tühista</string>
+      <string name="change">Muuta</string>
+      <string name="stop">Peatu</string>
+      <string name="disconnect">Katkesta ühendus</string>
+      <string name="enter_printer_name">Sisestage printeri seadme nimi</string>
+      <string name="printer">Printer</string>
+      <string name="enter_pin">Sisestage PIN-kood</string>
+      <string name="enter_otp">Sisestage OTP kasutaja ja luba</string>
+      <string name="already_activated">Juba aktiveeritud:</string>
+      <string name="file_download">Laadige fail alla</string>
+      <string name="file_upload">Faili üles laadima</string>
+      <string name="rate_dialog_title">Hinnake %s.</string>
+      <string name="rate_dialog_message">Kui teile meeldib %s kasutamine, aidake meil seda hinnata. See võtab vaid mõne sekundi!</string>
+      <string name="rate_dialog_action_rate">Hinda</string>
+      <string name="rate_dialog_action_never">Ei aitäh</string>
+      <string name="rate_dialog_action_later">Hiljem</string>
+      <string name="rate_dialog_thank_you">Aitäh!</string>
+ </resources>

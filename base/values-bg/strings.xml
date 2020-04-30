@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">На разрешение е отказано писане в локално хранилище.</string>
+      <string name="show_keyboard">Покажи клавиатурата</string>
+      <string name="select_keyboard">Изберете Клавиатура</string>
+      <string name="keyboard_notification">Известието за клавиатура е активирано.</string>
+      <string name="tap_to_open_keyboard">Докоснете, за да отворите клавиатурата Зелени екрани.</string>
+      <string name="tap_to_select_keyboard">Докоснете, за да изберете клавиатура.</string>
+      <string name="no_intent_document">Няма приложение за използване на документ</string>
+      <string name="print_mode_unsupported">Режимът за докладване не се поддържа за избрания драйвер</string>
+
+      <string name="help_download">Изтеглянето на ръководство от сървъра ...</string>
+      <string name="no_pdf_viewer">PDF Viewer не е намерен! Моля, инсталирайте такъв от Google Play.</string>
+      <string name="no_file">Файлът не е намерен.</string>
+      <string name="no_print_data">Няма данни за печат</string>
+      <string name="network_unavailable">Мрежата не е налична. Моля, отворете WIFI или мобилна мрежа.</string>
+      <string name="internal_initialization">Инициализацията е в процес, моля опитайте отново след няколко секунди.</string>
+      <string name="print_error">Данните не са отпечатани</string>
+      <string name="printer_not_found">Zebra Printer не е намерен</string>
+      <string name="multipart_upload">Качване в няколко части</string>
+      <string name="cancel_upload">Отказ</string>
+      <string name="upload_cancelled">Качването е анулирано</string>
+      <string name="upload_success">Качването завърши успешно през [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Грешка при качването</string>
+      <string name="upload_title">Качва се ...</string>
+      <string name="uploading">Качено [[UPLOADED_FILES]] от [[TOTAL_FILES]] в [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Драйверът на Zebra не е инсталиран!</string>
+      <string name="youAreNotUpdatedTitle">Актуализация е налична</string>
+      <string name="youAreNotUpdatedMessage">Налична е нова версия на терминала за зелени екрани. \ NМоля, актуализирайте до версията!</string>
+      <string name="update">Актуализация</string>
+      <string name="report_downloaded">Отчет се изтегли на устройството</string>
+      <string name="report_downloading">Подаване на сигнал за изтегляне от сървъра</string>
+      <string name="report_print">Изпращане на доклад за печат</string>
+      <string name="biometric_authenticate_ok">Биометрични удостоверени</string>
+      <string name="biometric_validate_ok">Биометрична валидирана</string>
+      <string name="biometric_register_ok">Биометрична регистрирана</string>
+      <string name="biometric_unregister_ok">Биометрична нерегистрирана</string>
+      <string name="biometric_update_ok">Биометрична актуализирана</string>
+      <string name="biometric_error">Биометрична не е регистрирана</string>
+ </resources>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Dopušteno je pisanje u lokalnu pohranu.</string>
+      <string name="show_keyboard">Prikaži tipkovnicu</string>
+      <string name="select_keyboard">Odaberite Tipkovnicu</string>
+      <string name="keyboard_notification">Omogućena je obavijest na tipkovnici.</string>
+      <string name="tap_to_open_keyboard">Dodirnite da biste otvorili tipkovnicu Green Screens.</string>
+      <string name="tap_to_select_keyboard">Dodirnite za odabir tipkovnice.</string>
+      <string name="no_intent_document">Nema zahtjeva za upotrebu dokumenta</string>
+      <string name="print_mode_unsupported">Način izvještavanja nije podržan za odabrani upravljački program</string>
+
+      <string name="help_download">Preuzimanje priručnika sa poslužitelja ...</string>
+      <string name="no_pdf_viewer">PDF preglednik nije pronađen! Instalirajte ga sa Google Playa.</string>
+      <string name="no_file">Datoteka nije pronađena.</string>
+      <string name="no_print_data">Nema podataka za ispis.</string>
+      <string name="network_unavailable">Mreža nije dostupna. Otvorite WIFI ili mobilnu mrežu.</string>
+      <string name="internal_initialization">Inicijalizacija u tijeku, pokušajte ponovo za nekoliko sekundi.</string>
+      <string name="print_error">Podaci nisu ispisani</string>
+      <string name="printer_not_found">Zebra pisač nije pronađen</string>
+      <string name="multipart_upload">Prijenos sa više dijelova</string>
+      <string name="cancel_upload">Otkaži</string>
+      <string name="upload_cancelled">Prijenos je otkazan</string>
+      <string name="upload_success">Prijenos je uspješno dovršen u [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Pogreška prilikom prijenosa</string>
+      <string name="upload_title">Prijenos ...</string>
+      <string name="uploading">Preneseno [[UPLOADED_FILES]] od [[TOTAL_FILES]] u [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Upravljački program Zebra nije instaliran!</string>
+      <string name="youAreNotUpdatedTitle">Dostupno ažuriranje</string>
+      <string name="youAreNotUpdatedMessage">Dostupna je nova verzija terminala Green Screens. \ Napravite ažuriranje na novu verziju!</string>
+      <string name="update">Ažuriraj</string>
+      <string name="report_downloaded">Izvješće preuzeto na uređaj</string>
+      <string name="report_downloading">Preuzimanje izvješća sa servera</string>
+      <string name="report_print">Izvještaj pošaljite za ispis</string>
+      <string name="biometric_authenticate_ok">Ovjereno biometrijom</string>
+      <string name="biometric_validate_ok">Biometrija potvrđena</string>
+      <string name="biometric_register_ok">Biometrija registrirana</string>
+      <string name="biometric_unregister_ok">Biometrija neregistrirana</string>
+      <string name="biometric_update_ok">Biometrija ažurirana</string>
+      <string name="biometric_error">Biometrija nije registrirana</string>
+ </resources>

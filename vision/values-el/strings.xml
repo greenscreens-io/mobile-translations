@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Απαιτείται πρόσβαση στην κάμερα για ανίχνευση</string>
+      <string name="permission_warning">Προειδοποίηση άδειας</string>
+      <string name="no_camera_permission">Η αναγνώριση γραμμωτού κώδικα δεν μπορεί να εκτελεστεί επειδή δεν έχει άδεια κάμερας.</string>
+      <string name="low_storage_error">Δεν είναι δυνατή η λήψη εξαρτήσεων ανιχνευτή γραμμικού κώδικα λόγω χαμηλού χώρου αποθήκευσης συσκευών</string>
+ </resources>

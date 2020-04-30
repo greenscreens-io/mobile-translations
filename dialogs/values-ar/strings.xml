@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">شعار</string>
+      <string name="ok">حسنا</string>
+      <string name="cancel">إلغاء</string>
+      <string name="change">يتغيرون</string>
+      <string name="stop">قف</string>
+      <string name="disconnect">قطع الاتصال</string>
+      <string name="enter_printer_name">أدخل اسم جهاز الطابعة</string>
+      <string name="printer">طابعة</string>
+      <string name="enter_pin">أدخل رمز PIN</string>
+      <string name="enter_otp">أدخل OTP User and Token</string>
+      <string name="already_activated">بالفعل تنشيط :</string>
+      <string name="file_download">تحميل الملف</string>
+      <string name="file_upload">رفع ملف</string>
+      <string name="rate_dialog_title">معدلات.</string>
+      <string name="rate_dialog_message">إذا كنت تستمتع باستخدام٪ s ، فالرجاء مساعدتنا بتصنيفه. يستغرق سوى بضع ثوان!</string>
+      <string name="rate_dialog_action_rate">معدل</string>
+      <string name="rate_dialog_action_never">لا شكرا</string>
+      <string name="rate_dialog_action_later">في وقت لاحق</string>
+      <string name="rate_dialog_thank_you">شكرا لك!</string>
+ </resources>

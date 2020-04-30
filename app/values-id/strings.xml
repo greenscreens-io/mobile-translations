@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Terminal Layar Hijau 5250 dengan pemindai barcode. Cari tahu lebih lanjut di www.greenscreens.io</string>
+
+      <string name="title_configs">Pilih konfigurasi</string>
+      <string name="title_plugins">Pilih plugin</string>
+      <string name="title_help">Layar Hijau - Bantuan</string>
+      <string name="selectAction">Pilih tindakan</string>
+      <string name="cancel">Membatalkan</string>
+      <string name="ok">baik</string>
+      <string name="data_removed">Data dihapus!</string>
+      <string name="config_data_required">UUID dan Host adalah nilai yang diperlukan!</string>
+      <string name="otp_data_required">Pengguna dan token adalah nilai yang diperlukan!</string>
+
+      <string name="loading">Memuat…</string>
+      <string name="action_tutors">Tutorial</string>
+
+      <string name="action_help">Tolong</string>
+      <string name="action_about">Tentang</string>
+
+      <string name="labelBarcode">Kode batang</string>
+      <string name="labelPrinter">Printer</string>
+      <string name="labelLockRotate">Putar kunci</string>
+      <string name="labelSplitScreen">Layar Terpisah</string>
+      <string name="labelTheme">Ganti Tema</string>
+      <string name="labelTemplate">Templat Spool</string>
+      <string name="labelDownload">Unduh File</string>
+      <string name="labelUpload">Unggah File</string>
+      <string name="pasteModeInfo">Mode Salin / Tempel berubah</string>
+      <string name="crash_toast_text">Ooooops! Saya macet, tetapi laporan telah dikirim ke pengembang saya untuk membantu memperbaiki masalah ini!</string>
+      <string name="crash_dialog_title">Terminal macet</string>
+      <string name="crash_dialog_text">Terjadi kesalahan tak terduga yang memaksa aplikasi berhenti. Tolong bantu kami memperbaiki ini dengan mengirimkan data kesalahan kepada kami, yang harus Anda lakukan adalah klik OK.</string>
+      <string name="crash_dialog_comment_prompt">Anda dapat menambahkan komentar Anda tentang masalah di bawah ini:</string>
+      <string name="msg_macro">Nama makro</string>
+      <string name="msg_macro_undefined">Makro tidak didefinisikan</string>
+      <string name="msg_barcode_invalid">Data tidak valid, periksa apakah kode batang salah dipindai!</string>
+      <string name="msg_barcode_error">Kesalahan saat memproses kode batang.</string>
+      <string name="action_settings">Pengaturan</string>
+      <string name="action_demo">Demo</string>
+      <string name="action_camera">Pindai</string>
+      <string name="saveBtn">Menyimpan</string>
+      <string name="submitBtn">Kirimkan</string>
+    <string name="warning">Peringatan</string>
+      <string name="unsupported_version">Versi Android ini tidak didukung.</string>
+      <string name="update_webview">Untuk menggunakan aplikasi, perbarui mesin web ke versi terbaru.</string>
+      <string name="network_unavailable">Jaringan tidak tersedia! Silakan buka koneksi jaringan!</string>
+      <string name="downloads_permission">Unduhan tidak tersedia. Tolong, aktifkan izin aplikasi.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Anda yakin ingin menutup sesi ini?</string>
+      <string name="invalid_url">Url tidak valid!</string>
+      <string name="error">Kesalahan</string>
+      <string name="service_unavailable">Tidak dapat mengakses layanan jarak jauh</string>
+      <string name="no_data">Tidak ada data konfigurasi yang disimpan</string>
+      <string name="service_not_set">URL layanan tidak disetel</string>
+      <string name="description">Deskripsi</string>
+      <string name="no_data_from_scanner">Tidak ada data dari pemindai</string>
+      <string name="no_plugins_installed">Tidak ada plugin yang terpasang</string>
+      <string name="internal_detector">Pemindai Kode Batang AI</string>
+      <string name="wtma_invalid_service_url">URL layanan barcode tidak valid, beralih ke default!</string>
+      <string name="offline_mode">Mode offline</string>
+      <string name="system_request">Permintaan Sistem</string>
+      <string name="enter_number">Masukkan nomor!</string>
+      <string name="printer">Printer</string>
+      <string name="printer_not_active">Printer tidak aktif.</string>
+      <string name="report_template">Laporkan template</string>
+      <string name="enter_template_name">Masukkan nama templat!</string>
+      <string name="disconnect">Memutuskan</string>
+      <string name="already_activated">Telah diaktifkan :</string>
+      <string name="ssl_certificate_error">Kesalahan Sertifikat SSL.</string>
+      <string name="cert_authority_not_trusted">Otoritas sertifikat tidak dipercaya.</string>
+      <string name="cert_expired">Sertifikat telah kedaluwarsa.</string>
+      <string name="cert_mismatch">Ketidakcocokan Hostname sertifikat.</string>
+      <string name="cert_not_yet_valid">Sertifikat belum valid.</string>
+      <string name="do_you_want_to_continue">Apakah Anda ingin melanjutkan?</string>
+      <string name="continue_btn">Terus</string>
+      <string name="labelMacro">Rekam Makro</string>
+      <string name="delete">Menghapus</string>
+      <string name="title_activity_macro">Makro</string>
+
+      <string name="fileNotFound">File tidak ada.</string>
+
+      <string name="pin_not_matched">PIN tidak cocok</string>
+      <string name="pin_not_set">PIN tidak disetel</string>
+      <string name="labelKbar">Ganti Keybar</string>
+      <string name="otp_invalid_token">\ ?? TOKEN INVALID ??</string>
+      <string name="otp_token_unsupported">Token OTP tidak didukung</string>
+      <string name="otp_token_title">Entri Token OTP</string>
+      <string name="otp_token_title_reg">Registrasi Token OTP</string>
+      <string name="otp_token_message">Diperlukan Token OTP - Masukkan Kredensial</string>
+      <string name="otp_token_unsync">PERINGATAN!!! Periksa apakah waktu sistem disinkronkan.</string>
+      <string name="webauth_required_message">Semua bidang wajib diisi</string>
+      <string name="webauth_title">Biometrik</string>
+      <string name="wtma_sent">WTMA dikonfirmasi</string>
+      <string name="file_too_big">File terlalu besar untuk dibuka!</string>
+      <string name="biometricBtn">Terus</string>
+      <string name="not_in_demo">Tidak tersedia dalam mode demo!</string>
+      <string name="tab_a_label">UMUM</string>
+      <string name="tab_b_label">ALAT</string>
+      <string name="tab_c_label">LAIN</string>
+ </resources>

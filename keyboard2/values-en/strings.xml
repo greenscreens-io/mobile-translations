@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    <string name="keyb2_name" translatable="false">5250 Terminal Keyboard Modern</string>
+
+    <string name="vib">Vibrate on key press</string>
+    <string name="borders">Key borders</string>
+    <string name="pref_keyboard_custom">Custom Theme Colors</string>
+    <string name="pref_keyboard_preview">Preview</string>
+
+    <string name="keyb2_custom_action_color_title">Action color</string>
+    <string name="keyb2_custom_action_color_summary">Color for flat buttons</string>
+    <string name="keyb2_custom_background_color_title">Background</string>
+    <string name="keyb2_custom_background_color_summary">Keyboard background color</string>
+    <string name="keyb2_custom_button_color_title">Key Color</string>
+    <string name="keyb2_custom_button_color_summary">Key color if borders enabled</string>
+    <string name="keyb2_custom_button_border_color_title">Key Border Color</string>
+    <string name="keyb2_custom_button_border_color_summary">Key norder color if borders enabled</string>
+    <string name="keyb2_custom_shadow_color_title">Background Shadow</string>
+    <string name="keyb2_custom_shadow_color_summary">Keyboard top border color</string>
+    <string name="keyb2_custom_text_color_title">Key label</string>
+    <string name="keyb2_custom_text_color_summary">Key main label color</string>
+    <string name="keyb2_custom_text_alt_color_title">Key label small</string>
+    <string name="keyb2_custom_text_alt_color_summary">Key small label color</string>
+
+</resources>

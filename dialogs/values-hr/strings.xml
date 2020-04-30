@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">U redu</string>
+      <string name="cancel">Otkaži</string>
+      <string name="change">Promijeni</string>
+      <string name="stop">Stop</string>
+      <string name="disconnect">Isključi</string>
+      <string name="enter_printer_name">Unesite naziv uređaja pisača</string>
+      <string name="printer">Printer</string>
+      <string name="enter_pin">Unesite PIN</string>
+      <string name="enter_otp">Unesite korisnika OTP-a i tokena</string>
+      <string name="already_activated">Već je aktivirano:</string>
+      <string name="file_download">Preuzmi datoteku</string>
+      <string name="file_upload">Prijenos datoteke</string>
+      <string name="rate_dialog_title">Ocijenite %s.</string>
+      <string name="rate_dialog_message">Ako volite koristiti %s, pomozite nam sa ocijenom. Potrebno je samo nekoliko sekundi!</string>
+      <string name="rate_dialog_action_rate">Stopa</string>
+      <string name="rate_dialog_action_never">Ne hvala</string>
+      <string name="rate_dialog_action_later">Kasnije</string>
+      <string name="rate_dialog_thank_you">Hvala vam!</string>
+ </resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Kameraya giriş aşkarlanması üçün lazımdır</string>
+      <string name="permission_warning">İcazə xəbərdarlığı</string>
+      <string name="no_camera_permission">Barkod tanıma işləmir, çünki kamerada icazə yoxdur.</string>
+      <string name="low_storage_error">Barkod detektoru asılılığı cihaz az saxladığına görə yüklənə bilməz</string>
+ </resources>

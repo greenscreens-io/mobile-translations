@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Za otkrivanje je potreban pristup kameri</string>
+      <string name="permission_warning">Upozorenje o dozvoli</string>
+      <string name="no_camera_permission">Prepoznavanje barkoda ne može se pokrenuti jer nema dozvolu fotoaparata.</string>
+      <string name="low_storage_error">Ovisnosti o otkrivanju barkoda ne mogu se preuzimati zbog slabe pohrane uređaja</string>
+ </resources>

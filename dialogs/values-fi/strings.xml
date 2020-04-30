@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">kunnossa</string>
+      <string name="cancel">Peruuttaa</string>
+      <string name="change">Muuttaa</string>
+      <string name="stop">Lopettaa</string>
+      <string name="disconnect">Katkaista</string>
+      <string name="enter_printer_name">Kirjoita tulostimen nimi</string>
+      <string name="printer">kirjoitin</string>
+      <string name="enter_pin">Anna PIN-koodi</string>
+      <string name="enter_otp">Syötä OTP-käyttäjä ja tunnus</string>
+      <string name="already_activated">Jo aktivoitu:</string>
+      <string name="file_download">Lataa tiedosto</string>
+      <string name="file_upload">Lataa tiedosto</string>
+      <string name="rate_dialog_title">Arvostele %s.</string>
+      <string name="rate_dialog_message">Jos nautit %s: n käytöstä, auta meitä arvioimalla se. Se vie vain muutaman sekunnin!</string>
+      <string name="rate_dialog_action_rate">nopeus</string>
+      <string name="rate_dialog_action_never">Ei kiitos</string>
+      <string name="rate_dialog_action_later">Myöhemmin</string>
+      <string name="rate_dialog_thank_you">Kiitos!</string>
+ </resources>

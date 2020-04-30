@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Zelené obrazovky 5250 Terminál so snímačom čiarového kódu. Viac informácií nájdete na www.greenscreens.io</string>
+
+      <string name="title_configs">Vyberte konfiguráciu</string>
+      <string name="title_plugins">Vyberte doplnok</string>
+      <string name="title_help">Zelené obrazovky - Pomocník</string>
+      <string name="selectAction">Vyberte akciu</string>
+      <string name="cancel">Zrušiť</string>
+      <string name="ok">OK</string>
+      <string name="data_removed">Údaje boli odstránené!</string>
+      <string name="config_data_required">UUID a Host sú povinné hodnoty!</string>
+      <string name="otp_data_required">Užívateľ a token sú povinné hodnoty!</string>
+
+      <string name="loading">Načítava…</string>
+      <string name="action_tutors">návody</string>
+
+      <string name="action_help">Pomoc</string>
+      <string name="action_about">o</string>
+
+      <string name="labelBarcode">čiarový kód</string>
+      <string name="labelPrinter">tlačiareň</string>
+      <string name="labelLockRotate">Zámok otočiť</string>
+      <string name="labelSplitScreen">Rozdelená obrazovka</string>
+      <string name="labelTheme">Prepnúť tému</string>
+      <string name="labelTemplate">Šablóna cievky</string>
+      <string name="labelDownload">Stiahnutie súboru</string>
+      <string name="labelUpload">Nahranie súboru</string>
+      <string name="pasteModeInfo">Režim kopírovania / vkladania sa zmenil</string>
+      <string name="crash_toast_text">Ooooops! Zlyhal som, ale vývojárovi bola zaslaná správa, ktorá nám pomôže problém vyriešiť!</string>
+      <string name="crash_dialog_title">Terminál havaroval</string>
+      <string name="crash_dialog_text">Nastala neočakávaná chyba, ktorá prinútila aplikáciu zastaviť. Pomôžte nám to vyriešiť odoslaním chybových údajov, stačí kliknúť na tlačidlo OK.</string>
+      <string name="crash_dialog_comment_prompt">Nižšie môžete pridať svoje pripomienky k problému:</string>
+      <string name="msg_macro">Názov makra</string>
+      <string name="msg_macro_undefined">Makro nie je definované</string>
+      <string name="msg_barcode_invalid">Neplatné údaje, skontrolujte, či nie je naskenovaný nesprávny čiarový kód!</string>
+      <string name="msg_barcode_error">Chyba pri spracovaní čiarových kódov.</string>
+      <string name="action_settings">nastavenie</string>
+      <string name="action_demo">ukážky</string>
+      <string name="action_camera">skenovať</string>
+      <string name="saveBtn">Uložiť</string>
+      <string name="submitBtn">Predložiť</string>
+    <string name="warning">Výstraha</string>
+      <string name="unsupported_version">Táto verzia systému Android nie je podporovaná.</string>
+      <string name="update_webview">Ak chcete používať aplikáciu, aktualizujte webový modul na najnovšiu verziu.</string>
+      <string name="network_unavailable">Sieť nie je k dispozícii! Prosím otvorte sieťové pripojenie!</string>
+      <string name="downloads_permission">Súbory na stiahnutie nie sú k dispozícii. Povoľte povolenia aplikácie.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Naozaj chcete ukončiť túto reláciu?</string>
+      <string name="invalid_url">Neplatná URL adresa!</string>
+      <string name="error">Chyba</string>
+      <string name="service_unavailable">Nepodarilo sa získať prístup k vzdialenej službe</string>
+      <string name="no_data">Žiadne uložené konfiguračné údaje</string>
+      <string name="service_not_set">Webová adresa služby nie je nastavená</string>
+      <string name="description">popis</string>
+      <string name="no_data_from_scanner">Žiadne údaje zo skenera</string>
+      <string name="no_plugins_installed">Nie sú nainštalované žiadne doplnky</string>
+      <string name="internal_detector">Skener čiarových kódov AI</string>
+      <string name="wtma_invalid_service_url">Neplatná webová adresa služby čiarového kódu, prepnutá na predvolené!</string>
+      <string name="offline_mode">Režim offline</string>
+      <string name="system_request">Systémová požiadavka</string>
+      <string name="enter_number">Zadajte číslo!</string>
+      <string name="printer">tlačiareň</string>
+      <string name="printer_not_active">Tlačiareň nie je aktívna.</string>
+      <string name="report_template">Šablóna správy</string>
+      <string name="enter_template_name">Zadajte názov šablóny!</string>
+      <string name="disconnect">odpojiť</string>
+      <string name="already_activated">Už aktivované:</string>
+      <string name="ssl_certificate_error">Chyba certifikátu SSL.</string>
+      <string name="cert_authority_not_trusted">Certifikačná autorita nie je dôveryhodná.</string>
+      <string name="cert_expired">Platnosť certifikátu vypršala.</string>
+      <string name="cert_mismatch">Nesúlad certifikátu Názov hostiteľa.</string>
+      <string name="cert_not_yet_valid">Certifikát ešte nie je platný.</string>
+      <string name="do_you_want_to_continue">Chcete napriek tomu pokračovať?</string>
+      <string name="continue_btn">ďalej</string>
+      <string name="labelMacro">Záznam makra</string>
+      <string name="delete">delete</string>
+      <string name="title_activity_macro">makra</string>
+
+      <string name="fileNotFound">Súbor neexistuje.</string>
+
+      <string name="pin_not_matched">PIN sa nezhoduje</string>
+      <string name="pin_not_set">PIN nie je nastavený</string>
+      <string name="labelKbar">Prepnite Keybar</string>
+      <string name="otp_invalid_token">\ ?? NEPLATNÝ TOKEN ??</string>
+      <string name="otp_token_unsupported">OTP token nie je podporovaný</string>
+      <string name="otp_token_title">OTP Token Entry</string>
+      <string name="otp_token_title_reg">Registrácia tokenov OTP</string>
+      <string name="otp_token_message">Vyžaduje sa token OTP - zadajte poverenia</string>
+      <string name="otp_token_unsync">VÝSTRAHA!!! Skontrolujte, či je systémový čas synchronizovaný.</string>
+      <string name="webauth_required_message">Všetky polia sú povinné</string>
+      <string name="webauth_title">biometrické</string>
+      <string name="wtma_sent">WTMA potvrdené</string>
+      <string name="file_too_big">Súbor je príliš veľký na otvorenie!</string>
+      <string name="biometricBtn">ďalej</string>
+      <string name="not_in_demo">Nie je k dispozícii v demo režime!</string>
+      <string name="tab_a_label">GENERAL</string>
+      <string name="tab_b_label">ZARIADENIE</string>
+      <string name="tab_c_label">OSTATNÉ</string>
+ </resources>

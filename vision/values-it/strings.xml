@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">L\'accesso alla telecamera è necessario per il rilevamento</string>
+      <string name="permission_warning">Avviso di autorizzazione</string>
+      <string name="no_camera_permission">Il riconoscimento del codice a barre non può essere eseguito perché non dispone dell\'autorizzazione della fotocamera.</string>
+      <string name="low_storage_error">Le dipendenze del rilevatore di codici a barre non possono essere scaricate a causa della memoria insufficiente del dispositivo</string>
+ </resources>

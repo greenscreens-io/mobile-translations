@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="cancel">Annuler</string>
+      <string name="change">Changement</string>
+      <string name="stop">Arrêtez</string>
+      <string name="disconnect">Déconnecter</string>
+      <string name="enter_printer_name">Entrez le nom du périphérique d\'impression</string>
+      <string name="printer">Imprimante</string>
+      <string name="enter_pin">Entrez le code PIN</string>
+      <string name="enter_otp">Entrez un utilisateur et un jeton OTP</string>
+      <string name="already_activated">Déjà activé :</string>
+      <string name="file_download">Télécharger un fichier</string>
+      <string name="file_upload">Téléverser un fichier</string>
+      <string name="rate_dialog_title">Les taux %s.</string>
+      <string name="rate_dialog_message">Si vous aimez utiliser %s, aidez-nous en le notant. Cela ne prend que quelques secondes!</string>
+      <string name="rate_dialog_action_rate">Taux</string>
+      <string name="rate_dialog_action_never">Non merci</string>
+      <string name="rate_dialog_action_later">Plus tard</string>
+      <string name="rate_dialog_thank_you">Je vous remercie!</string>
+      <string name="ok">D\'accord</string>
+</resources>

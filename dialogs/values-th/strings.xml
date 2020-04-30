@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">เครื่องหมาย</string>
+      <string name="ok">ตกลง</string>
+      <string name="cancel">ยกเลิก</string>
+      <string name="change">เปลี่ยนแปลง</string>
+      <string name="stop">หยุด</string>
+      <string name="disconnect">ปลด</string>
+      <string name="enter_printer_name">ป้อนชื่ออุปกรณ์เครื่องพิมพ์</string>
+      <string name="printer">เครื่องพิมพ์</string>
+      <string name="enter_pin">ป้อน PIN</string>
+      <string name="enter_otp">ป้อนผู้ใช้ OTP และโทเค็น</string>
+      <string name="already_activated">เปิดใช้งานแล้ว:</string>
+      <string name="file_download">ดาวน์โหลดไฟล์</string>
+      <string name="file_upload">อัพโหลดไฟล์</string>
+      <string name="rate_dialog_title">อัตรา %s</string>
+      <string name="rate_dialog_message">หากคุณสนุกกับการใช้ %s โปรดช่วยเราจัดอันดับโดย ใช้เวลาเพียงไม่กี่วินาที!</string>
+      <string name="rate_dialog_action_rate">ประเมินค่า</string>
+      <string name="rate_dialog_action_never">ไม่เป็นไรขอบคุณ</string>
+      <string name="rate_dialog_action_later">ต่อมา</string>
+      <string name="rate_dialog_thank_you">ขอบคุณ!</string>
+ </resources>

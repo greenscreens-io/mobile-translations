@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Green Screens 5250 Terminal mit Barcode-Scanner. Weitere Informationen finden Sie unter www.greenscreens.io</string>
+
+      <string name="title_configs">Wählen Sie die Konfiguration</string>
+      <string name="title_plugins">Plugin auswählen</string>
+      <string name="title_help">Grüne Bildschirme - Hilfe</string>
+      <string name="selectAction">Aktion auswählen</string>
+      <string name="cancel">Stornieren</string>
+      <string name="ok">OK</string>
+      <string name="data_removed">Daten entfernt!</string>
+      <string name="config_data_required">UUID und Host sind erforderliche Werte!</string>
+      <string name="otp_data_required">Benutzer und Token sind erforderliche Werte!</string>
+
+      <string name="loading">Wird geladen…</string>
+      <string name="action_tutors">Tutorials</string>
+
+      <string name="action_help">Hilfe</string>
+      <string name="action_about">Über</string>
+
+      <string name="labelBarcode">Barcode</string>
+      <string name="labelPrinter">Drucker</string>
+      <string name="labelLockRotate">Verriegelung drehen</string>
+      <string name="labelSplitScreen">Geteilter Bildschirm</string>
+      <string name="labelTheme">Thema wechseln</string>
+      <string name="labelTemplate">Spulenvorlage</string>
+      <string name="labelDownload">Datei download</string>
+      <string name="labelUpload">Datei-Upload</string>
+      <string name="pasteModeInfo">Kopier- / Einfügemodus geändert</string>
+      <string name="crash_toast_text">Ooooops! Ich bin abgestürzt, aber ein Bericht wurde an meinen Entwickler gesendet, um das Problem zu beheben!</string>
+      <string name="crash_dialog_title">Terminal ist abgestürzt</string>
+      <string name="crash_dialog_text">Ein unerwarteter Fehler trat auf und zwang die Anwendung zum Stoppen. Bitte helfen Sie uns, dieses Problem zu beheben, indem Sie uns Fehlerdaten senden. Sie müssen lediglich auf OK klicken.</string>
+      <string name="crash_dialog_comment_prompt">Sie können Ihre Kommentare zu dem Problem unten hinzufügen:</string>
+      <string name="msg_macro">Makroname</string>
+      <string name="msg_macro_undefined">Makro nicht definiert</string>
+      <string name="msg_barcode_invalid">Ungültige Daten, prüfen Sie, ob falscher Barcode gescannt wurde!</string>
+      <string name="msg_barcode_error">Fehler beim Verarbeiten des Barcodes.</string>
+      <string name="action_settings">die Einstellungen</string>
+      <string name="action_demo">Demos</string>
+      <string name="action_camera">Scan</string>
+      <string name="saveBtn">speichern</string>
+      <string name="submitBtn">einreichen</string>
+    <string name="warning">Warnung</string>
+      <string name="unsupported_version">Diese Version von Android wird nicht unterstützt.</string>
+      <string name="update_webview">Um die Anwendung zu verwenden, aktualisieren Sie bitte die Web-Engine auf die neueste Version.</string>
+      <string name="network_unavailable">Netzwerk nicht verfügbar! Bitte Netzwerkverbindung öffnen!</string>
+      <string name="downloads_permission">Downloads nicht verfügbar. Bitte aktivieren Sie die Anwendungsberechtigungen.</string>
+      <string name="info">Die Info</string>
+      <string name="close_session_question">Möchten Sie diese Sitzung wirklich schließen?</string>
+      <string name="invalid_url">Ungültige URL!</string>
+      <string name="error">Error</string>
+      <string name="service_unavailable">Zugriff auf Remote-Service nicht möglich</string>
+      <string name="no_data">Keine gespeicherten Konfigurationsdaten</string>
+      <string name="service_not_set">Service-URL nicht festgelegt</string>
+      <string name="description">Beschreibung</string>
+      <string name="no_data_from_scanner">Keine Daten vom Scanner</string>
+      <string name="no_plugins_installed">Keine Plugins installiert</string>
+      <string name="internal_detector">AI Barcode Scanner</string>
+      <string name="wtma_invalid_service_url">Ungültige Barcode-Service-URL, auf Standard umgestellt!</string>
+      <string name="offline_mode">Offline-Modus</string>
+      <string name="system_request">Systemanforderung</string>
+      <string name="enter_number">Nummer eingeben!</string>
+      <string name="printer">Drucker</string>
+      <string name="printer_not_active">Drucker nicht aktiv.</string>
+      <string name="report_template">Berichtsvorlage</string>
+      <string name="enter_template_name">Vorlagennamen eingeben!</string>
+      <string name="disconnect">Trennen</string>
+      <string name="already_activated">Bereits aktiviert :</string>
+      <string name="ssl_certificate_error">SSL-Zertifikatfehler.</string>
+      <string name="cert_authority_not_trusted">Die Zertifizierungsstelle ist nicht vertrauenswürdig.</string>
+      <string name="cert_expired">Das Zertifikat ist abgelaufen.</string>
+      <string name="cert_mismatch">Das Zertifikat Hostname stimmt nicht überein.</string>
+      <string name="cert_not_yet_valid">Das Zertifikat ist noch nicht gültig.</string>
+      <string name="do_you_want_to_continue">Möchtest du trotzdem weitermachen?</string>
+      <string name="continue_btn">Fortsetzen</string>
+      <string name="labelMacro">Makroaufzeichnung</string>
+      <string name="delete">Löschen</string>
+      <string name="title_activity_macro">Makros</string>
+
+      <string name="fileNotFound">Datei existiert nicht.</string>
+
+      <string name="pin_not_matched">PIN stimmt nicht überein</string>
+      <string name="pin_not_set">PIN nicht gesetzt</string>
+      <string name="labelKbar">Tastatur wechseln</string>
+      <string name="otp_invalid_token">\ ?? UNGÜLTIGE MARKE ??</string>
+      <string name="otp_token_unsupported">OTP-Token wird nicht unterstützt</string>
+      <string name="otp_token_title">OTP-Token-Eintrag</string>
+      <string name="otp_token_title_reg">OTP-Token-Registrierung</string>
+      <string name="otp_token_message">OTP-Token erforderlich - Geben Sie die Anmeldeinformationen ein</string>
+      <string name="otp_token_unsync">WARNUNG!!! Bitte überprüfen Sie, ob die Systemzeit synchronisiert ist.</string>
+      <string name="webauth_required_message">Alle Felder sind erforderlich</string>
+      <string name="webauth_title">Biometrisch</string>
+      <string name="wtma_sent">WTMA bestätigt</string>
+      <string name="file_too_big">Datei zu groß zum Öffnen!</string>
+      <string name="biometricBtn">Fortsetzen</string>
+      <string name="not_in_demo">Im Demo-Modus nicht verfügbar!</string>
+      <string name="tab_a_label">ALLGEMEINES</string>
+      <string name="tab_b_label">GERÄT</string>
+      <string name="tab_c_label">ANDERE</string>
+ </resources>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Izin ditolak untuk menulis ke penyimpanan lokal.</string>
+      <string name="show_keyboard">Tampilkan Keyboard</string>
+      <string name="select_keyboard">Pilih Keyboard</string>
+      <string name="keyboard_notification">Notifikasi keyboard diaktifkan.</string>
+      <string name="tap_to_open_keyboard">Ketuk untuk membuka keyboard Layar Hijau.</string>
+      <string name="tap_to_select_keyboard">Ketuk untuk memilih keyboard.</string>
+      <string name="no_intent_document">Tidak ada aplikasi untuk menggunakan dokumen</string>
+      <string name="print_mode_unsupported">Mode laporan tidak didukung untuk driver yang dipilih</string>
+
+      <string name="help_download">Mengunduh manual dari server ...</string>
+      <string name="no_pdf_viewer">Penampil PDF tidak ditemukan! Silakan instal dari Google Play.</string>
+      <string name="no_file">Berkas tidak ditemukan.</string>
+      <string name="no_print_data">Tidak ada data untuk dicetak.</string>
+      <string name="network_unavailable">Jaringan tidak tersedia. Silakan buka WIFI atau jaringan Seluler.</string>
+      <string name="internal_initialization">Inisialisasi sedang dalam proses, silakan coba lagi dalam beberapa detik.</string>
+      <string name="print_error">Data tidak dicetak</string>
+      <string name="printer_not_found">Printer Zebra tidak ditemukan</string>
+      <string name="multipart_upload">Unggah Multipart</string>
+      <string name="cancel_upload">Membatalkan</string>
+      <string name="upload_cancelled">Pengunggahan telah dibatalkan</string>
+      <string name="upload_success">Pengunggahan selesai dengan sukses di [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Kesalahan saat mengunggah</string>
+      <string name="upload_title">Mengunggah ...</string>
+      <string name="uploading">Diunggah [[UPLOADED_FILES]] dari [[TOTAL_FILES]] di [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Driver Zebra tidak diinstal!</string>
+      <string name="youAreNotUpdatedTitle">Pembaruan tersedia</string>
+      <string name="youAreNotUpdatedMessage">Versi baru dari Terminal Layar Hijau tersedia. \ NSilakan perbarui ke versi!</string>
+      <string name="update">Memperbarui</string>
+      <string name="report_downloaded">Laporan diunduh ke perangkat</string>
+      <string name="report_downloading">Laporkan pengunduhan dari server</string>
+      <string name="report_print">Laporkan kirim untuk dicetak</string>
+      <string name="biometric_authenticate_ok">Diautentikasi secara biometrik</string>
+      <string name="biometric_validate_ok">Biometrik divalidasi</string>
+      <string name="biometric_register_ok">Biometrik terdaftar</string>
+      <string name="biometric_unregister_ok">Biometrik tidak terdaftar</string>
+      <string name="biometric_update_ok">Biometrik diperbarui</string>
+      <string name="biometric_error">Biometrik tidak terdaftar</string>
+ </resources>

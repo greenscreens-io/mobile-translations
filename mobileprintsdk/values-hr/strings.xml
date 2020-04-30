@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Print Service Plugin Information -->
+    <string name="title_activity_print_service_plugin_info">Informacije servisa ispisa</string>
+    <string name="print_service_help_title_1">Dohvat idodatak za servis ispisa </string>
+    <string name="print_service_help_msg_1">Morate imat iinstaliran Dodatak Servisa Ispisa za ispis. Svaka marka pisača ima svoj dodatak koji omogućuje ispis sa vašeg mobilnog uređaja. Generalni dodaci su također dostupni. Odaberite podatak koji van najviše odgovara. Možete uključiti dodatke naknadno po potrebi.</string>
+    <string name="print_service_help_title_2">Omogući dodatak</string>
+    <string name="print_service_help_msg_2">Nakon preuzimanja Dodatak Servisa Ispisa, biti ćete upitai za omogućavanje dodatka. Odaberite i pritisnite prekidač za uključivanje.</string>
+
+    <!-- Print Plugin Manager -->
+    <string name="plugin_manager_title">Upravitelj servisa ispisa</string>
+    <string name="plugin_manager_sub_title">Potrebno je instalirati i omogućiti Dodatak Servisa Ispisa za ispis dokumenata.</string>
+
+    <string name="before_enable_tips">Biti ćete preusmjereni na Android Opciej Ispisa.</string>
+    <string name="before_enable_tips_title">Omogući dodatak</string>
+    <string name="ok">IDI NA OPCIJE</string>
+    <string name="cancel">ODUSTANI</string>
+    <string name="enabled">Omogućeno</string>
+    <string name="disabled">Onemogućeno</string>
+
+</resources>

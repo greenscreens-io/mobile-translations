@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Yeşil Ekranlar 5250 Barkod tarayıcılı terminal. Daha fazla bilgi için: www.greenscreens.io</string>
+
+      <string name="title_configs">Yapılandırmayı seçin</string>
+      <string name="title_plugins">Eklenti seçin</string>
+      <string name="title_help">Yeşil Ekranlar - Yardım</string>
+      <string name="selectAction">Eylemi seç</string>
+      <string name="cancel">İptal etmek</string>
+      <string name="ok">tamam</string>
+      <string name="data_removed">Veriler kaldırıldı!</string>
+      <string name="config_data_required">UUID ve Host gerekli değerlerdir!</string>
+      <string name="otp_data_required">Kullanıcı ve jeton gerekli değerlerdir!</string>
+
+      <string name="loading">Yükleniyor…</string>
+      <string name="action_tutors">Öğreticiler</string>
+
+      <string name="action_help">Yardım</string>
+      <string name="action_about">hakkında</string>
+
+      <string name="labelBarcode">Barkod</string>
+      <string name="labelPrinter">Yazıcı</string>
+      <string name="labelLockRotate">Kilit döndürme</string>
+      <string name="labelSplitScreen">Bölünmüş ekran</string>
+      <string name="labelTheme">Temayı Değiştir</string>
+      <string name="labelTemplate">Makara Şablonu</string>
+      <string name="labelDownload">Dosya indirme</string>
+      <string name="labelUpload">Dosya yükleme</string>
+      <string name="pasteModeInfo">Kopyala / Yapıştır modu değişti</string>
+      <string name="crash_toast_text">Ooooops! Çöktüm, ancak geliştiricime sorunu gidermeye yardımcı olacak bir rapor gönderildi!</string>
+      <string name="crash_dialog_title">Terminal çöktü</string>
+      <string name="crash_dialog_text">Uygulamayı durdurmaya zorlayan beklenmeyen bir hata oluştu. Lütfen bize hata verileri göndererek bunu düzeltmemize yardımcı olun, tek yapmanız gereken Tamam\'ı tıklamaktır.</string>
+      <string name="crash_dialog_comment_prompt">Sorunla ilgili yorumlarınızı aşağıya ekleyebilirsiniz:</string>
+      <string name="msg_macro">Makro adı</string>
+      <string name="msg_macro_undefined">Makro tanımlanmadı</string>
+      <string name="msg_barcode_invalid">Geçersiz veri, yanlış barkodun taranıp taranmadığını kontrol edin!</string>
+      <string name="msg_barcode_error">Barkod işlenirken hata oluştu.</string>
+      <string name="action_settings">Ayarlar</string>
+      <string name="action_demo">Demos</string>
+      <string name="action_camera">taramak</string>
+      <string name="saveBtn">Kayıt etmek</string>
+      <string name="submitBtn">Sunmak</string>
+    <string name="warning">Uyarı</string>
+      <string name="unsupported_version">Android\'in bu sürümü desteklenmiyor.</string>
+      <string name="update_webview">Uygulamayı kullanmak için lütfen web motorunu en son sürüme güncelleyin.</string>
+      <string name="network_unavailable">Ağ kullanılamıyor! Lütfen ağ bağlantısını açın!</string>
+      <string name="downloads_permission">İndirme mevcut değil. Lütfen uygulama izinlerini etkinleştirin.</string>
+      <string name="info">Bilgi</string>
+      <string name="close_session_question">Bu oturumu kapatmak istediğinizden emin misiniz?</string>
+      <string name="invalid_url">Geçersiz URL!</string>
+      <string name="error">Hata</string>
+      <string name="service_unavailable">Uzaktan hizmete erişilemiyor</string>
+      <string name="no_data">Kaydedilmiş yapılandırma verisi yok</string>
+      <string name="service_not_set">Hizmet URL\'si ayarlanmadı</string>
+      <string name="description">Açıklama</string>
+      <string name="no_data_from_scanner">Tarayıcıdan veri yok</string>
+      <string name="no_plugins_installed">Yüklü eklenti yok</string>
+      <string name="internal_detector">AI Barkod Tarayıcı</string>
+      <string name="wtma_invalid_service_url">Geçersiz barkod hizmeti url\'si, varsayılan olarak değiştirildi!</string>
+      <string name="offline_mode">Çevrimdışı mod</string>
+      <string name="system_request">Sistem Talebi</string>
+      <string name="enter_number">Numara girin!</string>
+      <string name="printer">Yazıcı</string>
+      <string name="printer_not_active">Yazıcı etkin değil.</string>
+      <string name="report_template">Rapor şablonu</string>
+      <string name="enter_template_name">Şablon adını girin!</string>
+      <string name="disconnect">kesmek</string>
+      <string name="already_activated">Zaten etkinleştirildi:</string>
+      <string name="ssl_certificate_error">SSL Sertifikası hatası.</string>
+      <string name="cert_authority_not_trusted">Sertifika yetkilisine güvenilmiyor.</string>
+      <string name="cert_expired">Sertifikanın süresi doldu.</string>
+      <string name="cert_mismatch">Sertifika Ana Makine Adı Uyuşmazlığı.</string>
+      <string name="cert_not_yet_valid">Sertifika henüz geçerli değil.</string>
+      <string name="do_you_want_to_continue">Yine de devam etmek istiyor musun?</string>
+      <string name="continue_btn">Devam et</string>
+      <string name="labelMacro">Makro Kaydı</string>
+      <string name="delete">Sil</string>
+      <string name="title_activity_macro">Makrolar</string>
+
+      <string name="fileNotFound">Dosya mevcut değil.</string>
+
+      <string name="pin_not_matched">PIN eşleşmiyor</string>
+      <string name="pin_not_set">PIN ayarlanmadı</string>
+      <string name="labelKbar">Anahtar Tuşunu Değiştir</string>
+      <string name="otp_invalid_token">\ ?? GEÇERSİZ TOKEN ??</string>
+      <string name="otp_token_unsupported">OTP Jetonu desteklenmiyor</string>
+      <string name="otp_token_title">OTP Jetonu Girişi</string>
+      <string name="otp_token_title_reg">OTP Jeton Kaydı</string>
+      <string name="otp_token_message">OTP Jetonu Gerekli - Kimlik Bilgilerini Girin</string>
+      <string name="otp_token_unsync">UYARI!!! Lütfen sistem saatinin senkronize olup olmadığını kontrol edin.</string>
+      <string name="webauth_required_message">Tüm alanların doldurulması zorunludur</string>
+      <string name="webauth_title">biyometrik</string>
+      <string name="wtma_sent">WTMA onaylandı</string>
+      <string name="file_too_big">Dosya açılamayacak kadar büyük!</string>
+      <string name="biometricBtn">Devam et</string>
+      <string name="not_in_demo">Demo modunda mevcut değil!</string>
+      <string name="tab_a_label">GENEL</string>
+      <string name="tab_b_label">CİHAZ</string>
+      <string name="tab_c_label">DİĞER</string>
+ </resources>

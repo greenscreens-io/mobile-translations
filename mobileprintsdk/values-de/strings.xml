@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Serviceinformationen drucken</string>
+      <string name="print_service_help_title_1">Holen Sie sich ein Print Service Plugin</string>
+      <string name="print_service_help_msg_1">Zum Drucken muss ein Druckdienst-Plugin installiert sein. Jede Druckermarke verfügt über ein eigenes Plugin, mit dem Sie von Ihrem mobilen Gerät aus drucken können. Generische Druckservice-Plugins sind ebenfalls verfügbar. Wählen Sie das Plugin aus, das Ihnen am besten dient. Sie können jederzeit zusätzliche Druck-Plugins hinzufügen.</string>
+      <string name="print_service_help_title_2">Plugin aktivieren</string>
+      <string name="print_service_help_msg_2">Nach dem Herunterladen eines Druckdienst-Plugins werden Sie aufgefordert, Ihr Plugin zu aktivieren. Wählen Sie es einfach aus und tippen Sie auf den Schalter „ON“.</string>
+      <string name="plugin_manager_title">Druckservice-Manager</string>
+      <string name="plugin_manager_sub_title">Sie müssen ein Druckdienst-Plugin installiert und zum Drucken aktiviert haben.</string>
+      <string name="before_enable_tips">Sie werden zu den Android-Druckeinstellungen weitergeleitet.</string>
+      <string name="before_enable_tips_title">Aktivieren Sie Ihr Plugin</string>
+      <string name="ok">GEHE ZU DEN EINSTELLUNGEN</string>
+      <string name="cancel">STORNIEREN</string>
+      <string name="enabled">aktiviert</string>
+      <string name="disabled">Behindert</string>
+ </resources>

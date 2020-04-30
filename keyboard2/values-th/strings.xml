@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">สั่นเมื่อกดปุ่ม</string>
+      <string name="borders">เส้นขอบที่สำคัญ</string>
+      <string name="pref_keyboard_custom">ธีมสีที่กำหนดเอง</string>
+      <string name="pref_keyboard_preview">ดูตัวอย่าง</string>
+      <string name="keyb2_custom_action_color_title">สีการกระทำ</string>
+      <string name="keyb2_custom_action_color_summary">สีสำหรับปุ่มแบน</string>
+      <string name="keyb2_custom_background_color_title">พื้นหลัง</string>
+      <string name="keyb2_custom_background_color_summary">สีพื้นหลังของแป้นพิมพ์</string>
+      <string name="keyb2_custom_button_color_title">สีหลัก</string>
+      <string name="keyb2_custom_button_color_summary">สีหลักถ้าเปิดใช้งานเส้นขอบ</string>
+      <string name="keyb2_custom_button_border_color_title">สีเส้นขอบคีย์</string>
+      <string name="keyb2_custom_button_border_color_summary">สีของคีย์ลำดับถ้าเปิดใช้งานเส้นขอบ</string>
+      <string name="keyb2_custom_shadow_color_title">เงาพื้นหลัง</string>
+      <string name="keyb2_custom_shadow_color_summary">สีเส้นขอบแป้นพิมพ์ด้านบน</string>
+      <string name="keyb2_custom_text_color_title">ป้ายกำกับคีย์</string>
+      <string name="keyb2_custom_text_color_summary">สีป้ายหลักที่สำคัญ</string>
+      <string name="keyb2_custom_text_alt_color_title">ป้ายกุญแจขนาดเล็ก</string>
+      <string name="keyb2_custom_text_alt_color_summary">สีป้ายกุญแจขนาดเล็ก</string>
+ </resources>

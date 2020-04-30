@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">ローカルストレージへの書き込み権限が拒否されました。</string>
+      <string name="show_keyboard">キーボードを表示</string>
+      <string name="select_keyboard">キーボードを選択</string>
+      <string name="keyboard_notification">キーボード通知が有効になっています。</string>
+      <string name="tap_to_open_keyboard">タップしてグリーンスクリーンキーボードを開きます。</string>
+      <string name="tap_to_select_keyboard">タップしてキーボードを選択します。</string>
+      <string name="no_intent_document">ドキュメントを使用するためのアプリケーションはありません</string>
+      <string name="print_mode_unsupported">選択したドライバーではレポートモードはサポートされていません</string>
+
+      <string name="help_download">サーバーからマニュアルをダウンロードしています...</string>
+      <string name="no_pdf_viewer">PDFビューアが見つかりません！ Google Playからインストールしてください。</string>
+      <string name="no_file">ファイルが見つかりません。</string>
+      <string name="no_print_data">印刷するデータがありません。</string>
+      <string name="network_unavailable">ネットワークを利用できません。 WIFIまたはモバイルネットワークを開いてください。</string>
+      <string name="internal_initialization">初期化中です。数秒後にもう一度お試しください。</string>
+      <string name="print_error">印刷されないデータ</string>
+      <string name="printer_not_found">Zebraプリンターが見つかりません</string>
+      <string name="multipart_upload">マルチパートアップロード</string>
+      <string name="cancel_upload">キャンセル</string>
+      <string name="upload_cancelled">アップロードがキャンセルされました</string>
+      <string name="upload_success">アップロードは[[ELAPSED_TIME]]に正常に完了しました</string>
+      <string name="upload_error">アップロード中のエラー</string>
+      <string name="upload_title">アップロードしています...</string>
+      <string name="uploading">[[UPLOAD_RATE]]に[[TOTAL_FILES]]の[[UPLOADED_FILES]]をアップロードしました-[[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebraドライバーがインストールされていません！</string>
+      <string name="youAreNotUpdatedTitle">利用可能なアップデート</string>
+      <string name="youAreNotUpdatedMessage">Green Screens Terminalの新しいバージョンが利用可能です。\ nバージョンに更新してください！</string>
+      <string name="update">更新</string>
+      <string name="report_downloaded">デバイスにダウンロードされたレポート</string>
+      <string name="report_downloading">サーバーからのレポートのダウンロード</string>
+      <string name="report_print">レポートを印刷して送信</string>
+      <string name="biometric_authenticate_ok">生体認証</string>
+      <string name="biometric_validate_ok">生体認証検証済み</string>
+      <string name="biometric_register_ok">生体認証登録済み</string>
+      <string name="biometric_unregister_ok">生体認証未登録</string>
+      <string name="biometric_update_ok">生体認証を更新しました</string>
+      <string name="biometric_error">生体認証が登録されていません</string>
+ </resources>

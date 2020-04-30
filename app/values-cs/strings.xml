@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Zelené obrazovky 5250 Terminál s čárovým kódem. Více se dozvíte na www.greenscreens.io</string>
+
+      <string name="title_configs">Vyberte konfiguraci</string>
+      <string name="title_plugins">Vyberte plugin</string>
+      <string name="title_help">Zelené obrazovky - Nápověda</string>
+      <string name="selectAction">Vyberte akci</string>
+      <string name="cancel">zrušení</string>
+      <string name="ok">OK</string>
+      <string name="data_removed">Data byla odstraněna!</string>
+      <string name="config_data_required">UUID a Host jsou povinné hodnoty!</string>
+      <string name="otp_data_required">Uživatel a token jsou povinné hodnoty!</string>
+
+      <string name="loading">Načítání…</string>
+      <string name="action_tutors">Výukové programy</string>
+
+      <string name="action_help">Pomoc</string>
+      <string name="action_about">O</string>
+
+      <string name="labelBarcode">čárový kód</string>
+      <string name="labelPrinter">Tiskárna</string>
+      <string name="labelLockRotate">Zámek se otáčí</string>
+      <string name="labelSplitScreen">Rozdělená obrazovka</string>
+      <string name="labelTheme">Přepnout téma</string>
+      <string name="labelTemplate">Cívka šablona</string>
+      <string name="labelDownload">Stažení souboru</string>
+      <string name="labelUpload">Nahrání souboru</string>
+      <string name="pasteModeInfo">Režim kopírování / vkládání byl změněn</string>
+      <string name="crash_toast_text">Ooooops! Havaroval jsem, ale vývojáři jsme zaslali zprávu, která nám pomůže problém vyřešit!</string>
+      <string name="crash_dialog_title">Terminál havaroval</string>
+      <string name="crash_dialog_text">Nastala neočekávaná chyba nutící aplikaci k zastavení. Pomozte nám to vyřešit zasláním chybových údajů, stačí kliknout na OK.</string>
+      <string name="crash_dialog_comment_prompt">Níže můžete přidat své komentáře k problému:</string>
+      <string name="msg_macro">Název makra</string>
+      <string name="msg_macro_undefined">Makro není definováno</string>
+      <string name="msg_barcode_invalid">Neplatná data, zkontrolujte, zda není naskenován nesprávný čárový kód!</string>
+      <string name="msg_barcode_error">Při zpracování čárového kódu došlo k chybě.</string>
+      <string name="action_settings">Nastavení</string>
+      <string name="action_demo">Ukázky</string>
+      <string name="action_camera">Skenovat</string>
+      <string name="saveBtn">Uložit</string>
+      <string name="submitBtn">Předložit</string>
+    <string name="warning">Varování</string>
+      <string name="unsupported_version">Tato verze systému Android není podporována.</string>
+      <string name="update_webview">Chcete-li používat aplikaci, aktualizujte prosím webový engine na nejnovější verzi.</string>
+      <string name="network_unavailable">Síť není k dispozici! Otevřete prosím síťové připojení!</string>
+      <string name="downloads_permission">Stahování není k dispozici. Povolte prosím oprávnění aplikace.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Opravdu chcete tuto relaci zavřít?</string>
+      <string name="invalid_url">Neplatná URL adresa!</string>
+      <string name="error">Chyba</string>
+      <string name="service_unavailable">Nelze získat přístup ke vzdálené službě</string>
+      <string name="no_data">Žádná uložená konfigurační data</string>
+      <string name="service_not_set">Adresa URL služby není nastavena</string>
+      <string name="description">Popis</string>
+      <string name="no_data_from_scanner">Žádná data ze skeneru</string>
+      <string name="no_plugins_installed">Nejsou nainstalovány žádné doplňky</string>
+      <string name="internal_detector">Skener čárových kódů AI</string>
+      <string name="wtma_invalid_service_url">Neplatná adresa URL služby čárového kódu, přepnuta na výchozí!</string>
+      <string name="offline_mode">Offline mód</string>
+      <string name="system_request">Systémový požadavek</string>
+      <string name="enter_number">Vložte číslo!</string>
+      <string name="printer">Tiskárna</string>
+      <string name="printer_not_active">Tiskárna není aktivní.</string>
+      <string name="report_template">Šablona sestavy</string>
+      <string name="enter_template_name">Zadejte název šablony!</string>
+      <string name="disconnect">Odpojit</string>
+      <string name="already_activated">Již aktivováno:</string>
+      <string name="ssl_certificate_error">Chyba certifikátu SSL.</string>
+      <string name="cert_authority_not_trusted">Certifikační autorita není důvěryhodná.</string>
+      <string name="cert_expired">Platnost certifikátu vypršela.</string>
+      <string name="cert_mismatch">Neshoda certifikátu Hostname.</string>
+      <string name="cert_not_yet_valid">Certifikát ještě není platný.</string>
+      <string name="do_you_want_to_continue">Chcete přesto pokračovat?</string>
+      <string name="continue_btn">Pokračovat</string>
+      <string name="labelMacro">Makro záznam</string>
+      <string name="delete">Odstranit</string>
+      <string name="title_activity_macro">Makra</string>
+
+      <string name="fileNotFound">Soubor neexistuje.</string>
+
+      <string name="pin_not_matched">PIN se neshoduje</string>
+      <string name="pin_not_set">PIN není nastaven</string>
+      <string name="labelKbar">Přepněte Keybar</string>
+      <string name="otp_invalid_token">\ ?? INVALID TOKEN ??</string>
+      <string name="otp_token_unsupported">OTP Token není podporován</string>
+      <string name="otp_token_title">OTP Token Entry</string>
+      <string name="otp_token_title_reg">OTP Token Registration</string>
+      <string name="otp_token_message">Vyžaduje se token OTP - zadejte přihlašovací údaje</string>
+      <string name="otp_token_unsync">VAROVÁNÍ!!! Zkontrolujte, zda je synchronizován systémový čas.</string>
+      <string name="webauth_required_message">Všechna pole jsou povinná</string>
+      <string name="webauth_title">Biometrické</string>
+      <string name="wtma_sent">WTMA potvrzeno</string>
+      <string name="file_too_big">Soubor je příliš velký na otevření!</string>
+      <string name="biometricBtn">Pokračovat</string>
+      <string name="not_in_demo">Není k dispozici v demo režimu!</string>
+      <string name="tab_a_label">VŠEOBECNÉ</string>
+      <string name="tab_b_label">PŘÍSTROJ</string>
+      <string name="tab_c_label">JINÝ</string>
+ </resources>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Informații despre servicii de tipărire</string>
+      <string name="print_service_help_title_1">Obțineți un plugin de servicii de imprimare</string>
+      <string name="print_service_help_msg_1">Trebuie să aveți instalat un plugin de servicii de tipărire pentru a tipări. Fiecare marcă de imprimantă are propriul plugin care vă permite să imprimați de pe dispozitivul dvs. mobil. Plugin-uri de servicii de imprimare generice sunt de asemenea disponibile. Selectați pluginul care vă servește cel mai bine. Puteți adăuga pluginuri suplimentare de imprimare oricând.</string>
+      <string name="print_service_help_title_2">Activați pluginul</string>
+      <string name="print_service_help_msg_2">După descărcarea unui plugin de servicii de imprimare, vi se va solicita activarea pluginului. Doar selectați-l și atingeți comutatorul la „ON”.</string>
+      <string name="plugin_manager_title">Manager de servicii de imprimare</string>
+      <string name="plugin_manager_sub_title">Aveți nevoie de un plugin de servicii de imprimare instalat și activat pentru a tipări.</string>
+      <string name="before_enable_tips">Vei fi direcționat către Setările de imprimare Android.</string>
+      <string name="before_enable_tips_title">Activați pluginul</string>
+      <string name="ok">MERGI LA SETARI</string>
+      <string name="cancel">ANULARE</string>
+      <string name="enabled">Activat</string>
+      <string name="disabled">Dezactivat</string>
+ </resources>

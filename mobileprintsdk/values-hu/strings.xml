@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Nyomtatási szolgáltatás információ</string>
+      <string name="print_service_help_title_1">Szerezzen be egy nyomtatási szolgáltatás beépülő modult</string>
+      <string name="print_service_help_msg_1">A nyomtatáshoz telepítenie kell egy nyomtatási szolgáltatás beépülő modult. Minden nyomtató márkájának saját pluginja van, amely lehetővé teszi a nyomtatást a mobil eszközről. Általános nyomtatási szolgáltatás-bővítmények szintén rendelkezésre állnak. Válassza ki a legjobban kiszolgáló bővítményt. Bármikor hozzáadhat további nyomtató-bővítményeket.</string>
+      <string name="print_service_help_title_2">Beépülő modul engedélyezése</string>
+      <string name="print_service_help_msg_2">Miután letöltötte a Print Service plugin-t, a rendszer felkéri a plugin engedélyezésére. Csak válassza ki és érintse meg a kapcsolót „BE” állásba.</string>
+      <string name="plugin_manager_title">Nyomtatási szolgáltatás menedzser</string>
+      <string name="plugin_manager_sub_title">A nyomtatáshoz telepítve kell lennie és engedélyeznie kell a nyomtatási szolgáltatás beépülő modult.</string>
+      <string name="before_enable_tips">A rendszer az Android nyomtatási beállításainak irányítja.</string>
+      <string name="before_enable_tips_title">Engedélyezze a bővítményt</string>
+      <string name="ok">MENJ A BEÁLLÍTÁSOKHOZ</string>
+      <string name="cancel">MEGSZÜNTETI</string>
+      <string name="enabled">Bekapcsolt</string>
+      <string name="disabled">Tiltva</string>
+ </resources>

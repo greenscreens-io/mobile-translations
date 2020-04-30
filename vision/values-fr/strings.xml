@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">L\'accès à la caméra est nécessaire pour la détection</string>
+      <string name="permission_warning">Avertissement de permission</string>
+      <string name="no_camera_permission">La reconnaissance de code-barres ne peut pas s\'exécuter car elle ne dispose pas de l\'autorisation de caméra.</string>
+      <string name="low_storage_error">Les dépendances du détecteur de codes-barres ne peuvent pas être téléchargées en raison du faible stockage de l\'appareil</string>
+ </resources>

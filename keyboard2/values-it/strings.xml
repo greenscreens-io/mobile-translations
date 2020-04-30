@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibrazione alla pressione del tasto</string>
+      <string name="borders">Bordi chiave</string>
+      <string name="pref_keyboard_custom">Colori a tema personalizzati</string>
+      <string name="pref_keyboard_preview">Anteprima</string>
+      <string name="keyb2_custom_action_color_title">Colore di azione</string>
+      <string name="keyb2_custom_action_color_summary">Colore per bottoni piatti</string>
+      <string name="keyb2_custom_background_color_title">sfondo</string>
+      <string name="keyb2_custom_background_color_summary">Colore di sfondo della tastiera</string>
+      <string name="keyb2_custom_button_color_title">Colore chiave</string>
+      <string name="keyb2_custom_button_color_summary">Colore chiave se i bordi sono abilitati</string>
+      <string name="keyb2_custom_button_border_color_title">Colore bordo chiave</string>
+      <string name="keyb2_custom_button_border_color_summary">Colore nord chiave se i bordi sono abilitati</string>
+      <string name="keyb2_custom_shadow_color_title">Ombra Di Sfondo</string>
+      <string name="keyb2_custom_shadow_color_summary">Colore bordo superiore tastiera</string>
+      <string name="keyb2_custom_text_color_title">Etichetta chiave</string>
+      <string name="keyb2_custom_text_color_summary">Colore dell\'etichetta principale chiave</string>
+      <string name="keyb2_custom_text_alt_color_title">Etichetta chiave piccola</string>
+      <string name="keyb2_custom_text_alt_color_summary">Colore etichetta piccola chiave</string>
+ </resources>

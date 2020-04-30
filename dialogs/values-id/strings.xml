@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">baik</string>
+      <string name="cancel">Membatalkan</string>
+      <string name="change">Perubahan</string>
+      <string name="stop">Berhenti</string>
+      <string name="disconnect">Memutuskan</string>
+      <string name="enter_printer_name">Masukkan nama perangkat printer</string>
+      <string name="printer">Printer</string>
+      <string name="enter_pin">Masukkan PIN</string>
+      <string name="enter_otp">Masukkan Pengguna dan Token OTP</string>
+      <string name="already_activated">Telah diaktifkan :</string>
+      <string name="file_download">Unduh berkas</string>
+      <string name="file_upload">Unggah data</string>
+      <string name="rate_dialog_title">Tarif %s.</string>
+      <string name="rate_dialog_message">Jika Anda menikmati menggunakan %s, bantu kami dengan memberi peringkat. Hanya butuh beberapa detik!</string>
+      <string name="rate_dialog_action_rate">Menilai</string>
+      <string name="rate_dialog_action_never">Tidak, terima kasih</string>
+      <string name="rate_dialog_action_later">Kemudian</string>
+      <string name="rate_dialog_thank_you">Terima kasih!</string>
+ </resources>

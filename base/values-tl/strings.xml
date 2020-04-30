@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Tumanggi ang pahintulot na sumulat sa lokal na imbakan.</string>
+      <string name="show_keyboard">Ipakita ang Keyboard</string>
+      <string name="select_keyboard">Piliin ang Keyboard</string>
+      <string name="keyboard_notification">Pinagana ang notification ng keyboard.</string>
+      <string name="tap_to_open_keyboard">I-tap upang buksan ang keyboard ng Green Screens.</string>
+      <string name="tap_to_select_keyboard">I-tap upang piliin ang keyboard.</string>
+      <string name="no_intent_document">Walang application na gumamit ng dokumento</string>
+      <string name="print_mode_unsupported">Hindi sinusuportahan ang mode ng ulat para sa napiling driver</string>
+
+      <string name="help_download">Pag-download ng manu-manong mula sa server ...</string>
+      <string name="no_pdf_viewer">Hindi natagpuan ang Viewer ng PDF! Mangyaring mag-install ng isa mula sa Google Play.</string>
+      <string name="no_file">Hindi natagpuan ang file.</string>
+      <string name="no_print_data">Walang data upang mai-print.</string>
+      <string name="network_unavailable">Hindi magagamit ang network. Mangyaring buksan ang WIFI o Mobile network.</string>
+      <string name="internal_initialization">Pagsisimula sa proseso, mangyaring subukang muli sa ilang segundo.</string>
+      <string name="print_error">Hindi nakalimbag ang datos</string>
+      <string name="printer_not_found">Hindi natagpuan ang Zebra Printer</string>
+      <string name="multipart_upload">Pag-upload ng Multipart</string>
+      <string name="cancel_upload">Pagkansela</string>
+      <string name="upload_cancelled">Kinansela ang pag-upload</string>
+      <string name="upload_success">Matagumpay na nakumpleto ang pag-upload sa [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Error habang nag-upload</string>
+      <string name="upload_title">Pag-upload ...</string>
+      <string name="uploading">Na-upload ang [[UP UploadED_FILES] ng [[TOTAL_FILES]] sa [[UPIND_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Hindi naka-install ang driver ng Zebra!</string>
+      <string name="youAreNotUpdatedTitle">Magagamit na Mag-update</string>
+      <string name="youAreNotUpdatedMessage">Ang isang bagong bersyon ng Terminal ng Green Screensa ay magagamit. \ NPag-update sa bersyon!</string>
+      <string name="update">I-update</string>
+      <string name="report_downloaded">I-download ang ulat sa aparato</string>
+      <string name="report_downloading">Iulat ang pag-download mula sa server</string>
+      <string name="report_print">Ipadala ang ulat upang mai-print</string>
+      <string name="biometric_authenticate_ok">Pinatunayan ng Biometric</string>
+      <string name="biometric_validate_ok">Na-validate ang biometric</string>
+      <string name="biometric_register_ok">Nakarehistro ang Biometric</string>
+      <string name="biometric_unregister_ok">Hindi nakarehistro ang Biometric</string>
+      <string name="biometric_update_ok">Nai-update ang biometric</string>
+      <string name="biometric_error">Hindi nakarehistro ang Biometric</string>
+ </resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="youtubeChannel" translatable="false">https://www.youtube.com/channel/UCJu-vxSmLqDsCBiZHQ-ABNA</string>
+    <string name="youtubeTutorial" translatable="false">https://www.youtube.com/playlist?list=PLgCEXuhEpY6fLq1lVo1QHDIXpRc6aMVr_</string>
+    <string name="faqURL" translatable="false">https://www.greenscreens.io/faq_mobile.html</string>
+
+    <string name="local_storage_permission">Permission denied to write to local storage.</string>
+    <string name="show_keyboard">Show Keyboard</string>
+    <string name="select_keyboard">Select Keyboard</string>
+    <string name="keyboard_notification">Keyboard notification enabled.</string>
+    <string name="tap_to_open_keyboard">Tap to open Green Screens keyboard.</string>
+    <string name="tap_to_select_keyboard">Tap to select keyboard.</string>
+    <string name="no_intent_document">No application to use document</string>
+    <string name="print_mode_unsupported">Report mode not supported for selected driver</string>
+    <string name="file_provider_authority" translatable="false">io.greenscreens.terminal.fileprovider</string>
+    <string name="help_download">Downloading manual from server...</string>
+    <string name="no_pdf_viewer">PDF Viewer not found! Please install one from Google Play.</string>
+    <string name="no_file">File not found.</string>
+    <string name="no_print_data">No data to print.</string>
+    <string name="network_unavailable">Network unavailable. Please open WIFI or Mobile network.</string>
+    <string name="internal_initialization">Initialization in process, please try again in few seconds.</string>
+
+    <string name="print_error">Data not printed</string>
+    <string name="printer_not_found">Zebra Printer not found</string>
+
+    <!-- Upload notification -->
+    <string name="multipart_upload">Multipart Upload</string>
+    <string name="cancel_upload">Cancel</string>
+    <string name="upload_cancelled">Upload has been cancelled</string>
+    <string name="upload_success">Upload completed successfully in [[ELAPSED_TIME]]</string>
+    <string name="upload_error">Error while uploading</string>
+    <string name="upload_title">Uploading... </string>
+    <string name="uploading">Uploaded [[UPLOADED_FILES]] of [[TOTAL_FILES]] at [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+    <string name="ZEBRA_NOT_FOUND">Zebra Driver not installed!</string>
+
+    <!-- forced update -->
+    <string name="youAreNotUpdatedTitle">Update Available</string>
+    <string name="youAreNotUpdatedMessage">A new version of Green Screens Terminal is available.\nPlease update to version!</string>
+    <string name="update">Update</string>
+
+    <!-- printing infos -->
+    <string name="report_downloaded">Report downloaded to the device</string>
+    <string name="report_downloading">Report downloading from server</string>
+    <string name="report_print">Report send to print</string>
+    <string name="biometric_authenticate_ok">Biometric authenticated</string>
+    <string name="biometric_validate_ok">Biometric validated</string>
+    <string name="biometric_register_ok">Biometric registered</string>
+    <string name="biometric_unregister_ok">Biometric unregistered</string>
+    <string name="biometric_update_ok">Biometric updated</string>
+    <string name="biometric_error">Biometric not registered</string>
+</resources>

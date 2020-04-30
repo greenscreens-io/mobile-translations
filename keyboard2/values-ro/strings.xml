@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibrează la apăsarea tastei</string>
+      <string name="borders">Granițele cheie</string>
+      <string name="pref_keyboard_custom">Culori personalizate cu temă</string>
+      <string name="pref_keyboard_preview">previzualizare</string>
+      <string name="keyb2_custom_action_color_title">Culoarea acțiunii</string>
+      <string name="keyb2_custom_action_color_summary">Culoare pentru butoane plate</string>
+      <string name="keyb2_custom_background_color_title">fundal</string>
+      <string name="keyb2_custom_background_color_summary">Culoarea fundalului tastaturii</string>
+      <string name="keyb2_custom_button_color_title">Culoarea cheii</string>
+      <string name="keyb2_custom_button_color_summary">Culoarea cheii dacă sunt activate bordurile</string>
+      <string name="keyb2_custom_button_border_color_title">Culoarea chenarului cheie</string>
+      <string name="keyb2_custom_button_border_color_summary">Culoare nord-cheie dacă sunt activate bordurile</string>
+      <string name="keyb2_custom_shadow_color_title">Umbra de fundal</string>
+      <string name="keyb2_custom_shadow_color_summary">Culoarea marginii superioare a tastaturii</string>
+      <string name="keyb2_custom_text_color_title">Eticheta cheie</string>
+      <string name="keyb2_custom_text_color_summary">Culoarea principală a etichetei cheii</string>
+      <string name="keyb2_custom_text_alt_color_title">Eticheta cheie mică</string>
+      <string name="keyb2_custom_text_alt_color_summary">Culoarea etichetei cheie mică</string>
+ </resources>

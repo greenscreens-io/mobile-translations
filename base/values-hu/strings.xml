@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">A helyi tárolóba való írás megtagadva.</string>
+      <string name="show_keyboard">Billentyűzet megjelenítése</string>
+      <string name="select_keyboard">Válassza a Billentyűzet lehetőséget</string>
+      <string name="keyboard_notification">A billentyűzet értesítése engedélyezve.</string>
+      <string name="tap_to_open_keyboard">Koppintson a zöld képernyő billentyűzet megnyitásához.</string>
+      <string name="tap_to_select_keyboard">Koppintson a billentyűzet kiválasztására.</string>
+      <string name="no_intent_document">Nincs alkalmazás a dokumentum használatához</string>
+      <string name="print_mode_unsupported">A jelentési módot a kiválasztott illesztőprogram nem támogatja</string>
+
+      <string name="help_download">A kézikönyv letöltése a szerverről ...</string>
+      <string name="no_pdf_viewer">A PDF-megjelenítő nem található! Kérjük, telepítsen egyet a Google Playről.</string>
+      <string name="no_file">Fájl nem található.</string>
+      <string name="no_print_data">Nincs nyomtatandó adat.</string>
+      <string name="network_unavailable">A hálózat nem érhető el. Kérjük, nyissa meg a WIFI vagy a mobil hálózatot.</string>
+      <string name="internal_initialization">Az inicializálás folyamatban, próbálkozzon újra néhány másodperc alatt.</string>
+      <string name="print_error">Az adatok nem kerülnek kinyomtatásra</string>
+      <string name="printer_not_found">A Zebra nyomtató nem található</string>
+      <string name="multipart_upload">Többrészes feltöltés</string>
+      <string name="cancel_upload">Megszünteti</string>
+      <string name="upload_cancelled">A feltöltés megszakítva</string>
+      <string name="upload_success">A feltöltés sikeresen befejeződött: [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Hiba történt a feltöltés során</string>
+      <string name="upload_title">Feltöltés...</string>
+      <string name="uploading">Feltöltötte [[UPLOADED_FILES]], [[TOTAL_FILES]], a következő helyre: [UPLOAD_RATE] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">A Zebra illesztőprogram nincs telepítve!</string>
+      <string name="youAreNotUpdatedTitle">Frissítés elérhető</string>
+      <string name="youAreNotUpdatedMessage">Elérhető a Green Screens Terminal új verziója. \ NKérjük, frissítsen a verzióra!</string>
+      <string name="update">frissítés</string>
+      <string name="report_downloaded">Jelentés letöltött az eszközre</string>
+      <string name="report_downloading">Jelentés a letöltésről a szerverről</string>
+      <string name="report_print">Jelentés küldés nyomtatáshoz</string>
+      <string name="biometric_authenticate_ok">Biometrikusan hitelesítve</string>
+      <string name="biometric_validate_ok">Biometrikusan validált</string>
+      <string name="biometric_register_ok">Biometrikusan regisztrált</string>
+      <string name="biometric_unregister_ok">Biometrikusan nem regisztrált</string>
+      <string name="biometric_update_ok">Biometrikusan frissítve</string>
+      <string name="biometric_error">Biometrikus nem regisztrált</string>
+ </resources>

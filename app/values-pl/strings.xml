@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Terminal Green Screens 5250 ze skanerem kodów kreskowych. Dowiedz się więcej na www.greenscreens.io</string>
+
+      <string name="title_configs">Wybierz konfigurację</string>
+      <string name="title_plugins">Wybierz wtyczkę</string>
+      <string name="title_help">Zielone ekrany - Pomoc</string>
+      <string name="selectAction">Wybierz akcję</string>
+      <string name="cancel">Anuluj</string>
+      <string name="ok">ok</string>
+      <string name="data_removed">Dane zostały usunięte!</string>
+      <string name="config_data_required">UUID i host są wymaganymi wartościami!</string>
+      <string name="otp_data_required">Użytkownik i token są wymaganymi wartościami!</string>
+
+      <string name="loading">Ładowanie…</string>
+      <string name="action_tutors">Poradniki</string>
+
+      <string name="action_help">Wsparcie</string>
+      <string name="action_about">O</string>
+
+      <string name="labelBarcode">kod kreskowy</string>
+      <string name="labelPrinter">Drukarka</string>
+      <string name="labelLockRotate">Zablokuj obrót</string>
+      <string name="labelSplitScreen">Podzielony ekran</string>
+      <string name="labelTheme">Zmień motyw</string>
+      <string name="labelTemplate">Szablon szpuli</string>
+      <string name="labelDownload">Pobieranie pliku</string>
+      <string name="labelUpload">Udostępnianie pliku</string>
+      <string name="pasteModeInfo">Tryb kopiowania / wklejania został zmieniony</string>
+      <string name="crash_toast_text">Ups! Zepsułem się, ale do mojego programisty wysłano raport, aby pomóc rozwiązać problem!</string>
+      <string name="crash_dialog_title">Terminal się zawiesił</string>
+      <string name="crash_dialog_text">Wystąpił nieoczekiwany błąd, zmuszający aplikację do zatrzymania. Pomóż nam to naprawić, przesyłając nam dane błędów, wystarczy kliknąć OK.</string>
+      <string name="crash_dialog_comment_prompt">Możesz dodać swoje uwagi na temat problemu poniżej:</string>
+      <string name="msg_macro">Nazwa makra</string>
+      <string name="msg_macro_undefined">Makro nie zdefiniowane</string>
+      <string name="msg_barcode_invalid">Nieprawidłowe dane, sprawdź, czy skanowano niewłaściwy kod kreskowy!</string>
+      <string name="msg_barcode_error">Błąd podczas przetwarzania kodu kreskowego.</string>
+      <string name="action_settings">Ustawienia</string>
+      <string name="action_demo">Dema</string>
+      <string name="action_camera">Skanowanie</string>
+      <string name="saveBtn">Zapisać</string>
+      <string name="submitBtn">Zatwierdź</string>
+    <string name="warning">Ostrzeżenie</string>
+      <string name="unsupported_version">Ta wersja Androida nie jest obsługiwana.</string>
+      <string name="update_webview">Aby korzystać z aplikacji, zaktualizuj silnik internetowy do najnowszej wersji.</string>
+      <string name="network_unavailable">Sieć niedostępna! Otwórz połączenie sieciowe!</string>
+      <string name="downloads_permission">Pliki do pobrania niedostępne. Włącz uprawnienia aplikacji.</string>
+      <string name="info">Informacje</string>
+      <string name="close_session_question">Czy na pewno chcesz zamknąć tę sesję?</string>
+      <string name="invalid_url">Nieprawidłowy URL!</string>
+      <string name="error">Błąd</string>
+      <string name="service_unavailable">Nie można uzyskać dostępu do usługi zdalnej</string>
+      <string name="no_data">Brak zapisanych danych konfiguracyjnych</string>
+      <string name="service_not_set">Adres URL usługi nie jest ustawiony</string>
+      <string name="description">Opis</string>
+      <string name="no_data_from_scanner">Brak danych ze skanera</string>
+      <string name="no_plugins_installed">Brak zainstalowanych wtyczek</string>
+      <string name="internal_detector">Skaner kodów kreskowych AI</string>
+      <string name="wtma_invalid_service_url">Nieprawidłowy adres URL usługi kodów kreskowych, przełączony na domyślny!</string>
+      <string name="offline_mode">Tryb offline</string>
+      <string name="system_request">Żądanie systemowe</string>
+      <string name="enter_number">Wpisz numer!</string>
+      <string name="printer">Drukarka</string>
+      <string name="printer_not_active">Drukarka nie jest aktywna.</string>
+      <string name="report_template">Szablon raportu</string>
+      <string name="enter_template_name">Wpisz nazwę szablonu!</string>
+      <string name="disconnect">Rozłączyć się</string>
+      <string name="already_activated">Już aktywowane :</string>
+      <string name="ssl_certificate_error">Błąd certyfikatu SSL.</string>
+      <string name="cert_authority_not_trusted">Urząd certyfikacji nie jest zaufany.</string>
+      <string name="cert_expired">Certyfikat wygasł.</string>
+      <string name="cert_mismatch">Niezgodność nazwy hosta certyfikatu.</string>
+      <string name="cert_not_yet_valid">Certyfikat nie jest jeszcze ważny.</string>
+      <string name="do_you_want_to_continue">Czy mimo to chcesz kontynuować?</string>
+      <string name="continue_btn">Kontyntynuj</string>
+      <string name="labelMacro">Zapis makra</string>
+      <string name="delete">Usunąć</string>
+      <string name="title_activity_macro">Makra</string>
+
+      <string name="fileNotFound">Plik nie istnieje.</string>
+
+      <string name="pin_not_matched">PIN nie pasuje</string>
+      <string name="pin_not_set">PIN nie został ustawiony</string>
+      <string name="labelKbar">Przełącz pasek narzędzi</string>
+      <string name="otp_invalid_token">\ ?? NIEPRAWIDŁOWY TOKEN ??</string>
+      <string name="otp_token_unsupported">Token OTP nie jest obsługiwany</string>
+      <string name="otp_token_title">Wpis tokena OTP</string>
+      <string name="otp_token_title_reg">Rejestracja tokena OTP</string>
+      <string name="otp_token_message">Wymagany token OTP - wprowadź dane uwierzytelniające</string>
+      <string name="otp_token_unsync">OSTRZEŻENIE!!! Sprawdź, czy czas systemowy jest zsynchronizowany.</string>
+      <string name="webauth_required_message">Wszystkie pola są wymagane</string>
+      <string name="webauth_title">Biometryczny</string>
+      <string name="wtma_sent">Potwierdzono WTMA</string>
+      <string name="file_too_big">Plik jest zbyt duży, aby go otworzyć!</string>
+      <string name="biometricBtn">Kontyntynuj</string>
+      <string name="not_in_demo">Niedostępne w trybie demo!</string>
+      <string name="tab_a_label">GENERAŁ</string>
+      <string name="tab_b_label">URZĄDZENIE</string>
+      <string name="tab_c_label">INNY</string>
+ </resources>

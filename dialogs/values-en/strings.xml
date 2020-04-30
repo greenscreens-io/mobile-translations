@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name" translatable="false">5250 Terminal</string>
+
+    <string name="desc_logo">logo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="change">Change</string>
+    <string name="stop">Stop</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="enter_printer_name">Enter printer device name</string>
+    <string name="printer">Printer</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="enter_otp">Enter OTP User and Token</string>
+    <string name="already_activated">Already activated : </string>
+    <string name="file_download">Download file</string>
+    <string name="file_upload">Upload file</string>
+
+    <string name="rate_dialog_title">Rate %s.</string>
+    <string name="rate_dialog_message">If you enjoy using %s, please help us by rating it. It only takes a few seconds!</string>
+    <string name="rate_dialog_action_rate">Rate</string>
+    <string name="rate_dialog_action_never">No, thanks</string>
+    <string name="rate_dialog_action_later">Later</string>
+    <string name="rate_dialog_thank_you">Thank you!</string>
+
+</resources>

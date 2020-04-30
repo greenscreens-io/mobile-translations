@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">심벌 마크</string>
+      <string name="ok">확인</string>
+      <string name="cancel">취소</string>
+      <string name="change">변화</string>
+      <string name="stop">중지</string>
+      <string name="disconnect">분리</string>
+      <string name="enter_printer_name">프린터 장치 이름을 입력하십시오</string>
+      <string name="printer">인쇄기</string>
+      <string name="enter_pin">PIN을 입력하십시오</string>
+      <string name="enter_otp">OTP 사용자 및 토큰 입력</string>
+      <string name="already_activated">이미 활성화 :</string>
+      <string name="file_download">파일 다운로드</string>
+      <string name="file_upload">파일 업로드</string>
+      <string name="rate_dialog_title">%s을 평가하십시오.</string>
+      <string name="rate_dialog_message">%s 을 (를) 사용하는 것을 좋아한다면, 평가하여 도와주십시오. 몇 초 밖에 걸리지 않습니다!</string>
+      <string name="rate_dialog_action_rate">율</string>
+      <string name="rate_dialog_action_never">고맙지 만 사양 할게</string>
+      <string name="rate_dialog_action_later">나중</string>
+      <string name="rate_dialog_thank_you">감사합니다!</string>
+ </resources>

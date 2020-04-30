@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibriraj na pritisak tipke</string>
+      <string name="borders">Obrub tipki</string>
+      <string name="pref_keyboard_custom">Prilagodi boje teme</string>
+      <string name="pref_keyboard_preview">Pregled</string>
+      <string name="keyb2_custom_action_color_title">Boja akcije</string>
+      <string name="keyb2_custom_action_color_summary">Boja za ravne gumbe</string>
+      <string name="keyb2_custom_background_color_title">Pozadina</string>
+      <string name="keyb2_custom_background_color_summary">Boja pozadine tipkovnice</string>
+      <string name="keyb2_custom_button_color_title">Boja tipke</string>
+      <string name="keyb2_custom_button_color_summary">Boja tipke ako su omogućene obrube</string>
+      <string name="keyb2_custom_button_border_color_title">Boja obruba tipke</string>
+      <string name="keyb2_custom_button_border_color_summary">Boja tipke ako je omogućen obrub</string>
+      <string name="keyb2_custom_shadow_color_title">Sjena pozadine</string>
+      <string name="keyb2_custom_shadow_color_summary">Boja gornje obrube tipkovnice</string>
+      <string name="keyb2_custom_text_color_title">Etiketa tipke</string>
+      <string name="keyb2_custom_text_color_summary">Boja etikete tipke</string>
+      <string name="keyb2_custom_text_alt_color_title">Etiketa male tipke</string>
+      <string name="keyb2_custom_text_alt_color_summary">Boja etikete male tipke</string>
+ </resources>

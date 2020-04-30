@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Berechtigung zum Schreiben in den lokalen Speicher verweigert.</string>
+      <string name="show_keyboard">Tastatur anzeigen</string>
+      <string name="select_keyboard">Wählen Sie Tastatur</string>
+      <string name="keyboard_notification">Tastaturbenachrichtigung aktiviert.</string>
+      <string name="tap_to_open_keyboard">Tippen Sie hier, um die Green Screens-Tastatur zu öffnen.</string>
+      <string name="tap_to_select_keyboard">Tippen Sie hier, um die Tastatur auszuwählen.</string>
+      <string name="no_intent_document">Keine Anwendung zur Verwendung des Dokuments</string>
+      <string name="print_mode_unsupported">Der Berichtsmodus wird für den ausgewählten Treiber nicht unterstützt</string>
+
+      <string name="help_download">Handbuch vom Server herunterladen ...</string>
+      <string name="no_pdf_viewer">PDF Viewer nicht gefunden! Bitte installieren Sie eine von Google Play.</string>
+      <string name="no_file">Datei nicht gefunden.</string>
+      <string name="no_print_data">Keine zu druckenden Daten.</string>
+      <string name="network_unavailable">Netzwerk nicht verfügbar. Bitte öffnen Sie WIFI oder Mobilfunknetz.</string>
+      <string name="internal_initialization">Initialisierung läuft, bitte versuchen Sie es in wenigen Sekunden erneut.</string>
+      <string name="print_error">Daten nicht gedruckt</string>
+      <string name="printer_not_found">Zebradrucker nicht gefunden</string>
+      <string name="multipart_upload">Mehrteiliger Upload</string>
+      <string name="cancel_upload">Stornieren</string>
+      <string name="upload_cancelled">Der Upload wurde abgebrochen</string>
+      <string name="upload_success">Upload in [[ELAPSED_TIME]] erfolgreich abgeschlossen</string>
+      <string name="upload_error">Fehler beim Hochladen</string>
+      <string name="upload_title">Hochladen ...</string>
+      <string name="uploading">Hochgeladen von [[UPLOADED_FILES]] von [[TOTAL_FILES]] bei [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra-Treiber nicht installiert!</string>
+      <string name="youAreNotUpdatedTitle">Update verfügbar</string>
+      <string name="youAreNotUpdatedMessage">Eine neue Version von Green Screens Terminal ist verfügbar. \ NBitte aktualisieren Sie auf Version!</string>
+      <string name="update">Aktualisieren</string>
+      <string name="report_downloaded">Bericht auf das Gerät heruntergeladen</string>
+      <string name="report_downloading">Bericht vom Server herunterladen</string>
+      <string name="report_print">Bericht zum Drucken senden</string>
+      <string name="biometric_authenticate_ok">Biometrisch authentifiziert</string>
+      <string name="biometric_validate_ok">Biometrisch validiert</string>
+      <string name="biometric_register_ok">Biometrisch registriert</string>
+      <string name="biometric_unregister_ok">Biometrisch nicht registriert</string>
+      <string name="biometric_update_ok">Biometrisch aktualisiert</string>
+      <string name="biometric_error">Biometrisch nicht registriert</string>
+ </resources>

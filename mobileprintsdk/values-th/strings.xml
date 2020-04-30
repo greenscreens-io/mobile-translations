@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">ข้อมูลบริการพิมพ์</string>
+      <string name="print_service_help_title_1">รับปลั๊กอินบริการพิมพ์</string>
+      <string name="print_service_help_msg_1">คุณต้องมีปลั๊กอินบริการพิมพ์ติดตั้งเพื่อพิมพ์ เครื่องพิมพ์แต่ละยี่ห้อมีปลั๊กอินของตัวเองที่ช่วยให้คุณสามารถพิมพ์จากอุปกรณ์มือถือของคุณ นอกจากนี้ยังมีปลั๊กอินบริการการพิมพ์ทั่วไปอีกด้วย เลือกปลั๊กอินที่เหมาะกับคุณที่สุด คุณสามารถเพิ่มปลั๊กอินการพิมพ์เพิ่มเติมได้ทุกเวลา</string>
+      <string name="print_service_help_title_2">เปิดใช้งานปลั๊กอิน</string>
+      <string name="print_service_help_msg_2">หลังจากดาวน์โหลดปลั๊กอินบริการพิมพ์คุณจะได้รับแจ้งให้เปิดใช้งานปลั๊กอินของคุณ เพียงเลือกแล้วแตะสวิตช์เพื่อ“ เปิด”</string>
+      <string name="plugin_manager_title">ตัวจัดการบริการการพิมพ์</string>
+      <string name="plugin_manager_sub_title">คุณต้องติดตั้งปลั๊กอินบริการพิมพ์และเปิดใช้งานเพื่อพิมพ์</string>
+      <string name="before_enable_tips">คุณจะถูกนำไปที่การตั้งค่าการพิมพ์ Android</string>
+      <string name="before_enable_tips_title">เปิดใช้งานปลั๊กอินของคุณ</string>
+      <string name="ok">ไปที่การตั้งค่า</string>
+      <string name="cancel">ยกเลิก</string>
+      <string name="enabled">เปิดการใช้งาน</string>
+      <string name="disabled">พิการ</string>
+ </resources>

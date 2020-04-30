@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">لوگو</string>
+      <string name="ok">خوب</string>
+      <string name="cancel">لغو</string>
+      <string name="change">تغییر دادن</string>
+      <string name="stop">متوقف کردن</string>
+      <string name="disconnect">قطع شدن</string>
+      <string name="enter_printer_name">نام دستگاه چاپگر را وارد کنید</string>
+      <string name="printer">چاپگر</string>
+      <string name="enter_pin">پین را وارد کنید</string>
+      <string name="enter_otp">کاربر OTP و Token را وارد کنید</string>
+      <string name="already_activated">قبلاً فعال شده است:</string>
+      <string name="file_download">دریافت فایل</string>
+      <string name="file_upload">آپلود فایل</string>
+      <string name="rate_dialog_title">نرخ٪ s</string>
+      <string name="rate_dialog_message">اگر از استفاده از٪ s لذت می برید ، لطفاً با رتبه بندی آن به ما کمک کنید. فقط چند ثانیه طول می کشه.</string>
+      <string name="rate_dialog_action_rate">نرخ</string>
+      <string name="rate_dialog_action_never">نه ممنون</string>
+      <string name="rate_dialog_action_later">بعد</string>
+      <string name="rate_dialog_thank_you">متشکرم!</string>
+ </resources>

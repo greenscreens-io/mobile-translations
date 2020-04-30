@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Вибрира при натискане на клавиши</string>
+      <string name="borders">Ключови граници</string>
+      <string name="pref_keyboard_custom">Цветове на тема по избор</string>
+      <string name="pref_keyboard_preview">предварителен преглед</string>
+      <string name="keyb2_custom_action_color_title">Цвят на действието</string>
+      <string name="keyb2_custom_action_color_summary">Цвят за плоски бутони</string>
+      <string name="keyb2_custom_background_color_title">Заден план</string>
+      <string name="keyb2_custom_background_color_summary">Цвят на фона на клавиатурата</string>
+      <string name="keyb2_custom_button_color_title">Цвят на ключ</string>
+      <string name="keyb2_custom_button_color_summary">Основен цвят, ако границите са активирани</string>
+      <string name="keyb2_custom_button_border_color_title">Цвят на основната граница</string>
+      <string name="keyb2_custom_button_border_color_summary">Цвят на основния ред, ако са активирани границите</string>
+      <string name="keyb2_custom_shadow_color_title">Фон сянка</string>
+      <string name="keyb2_custom_shadow_color_summary">Цвят на горната граница на клавиатурата</string>
+      <string name="keyb2_custom_text_color_title">Ключов етикет</string>
+      <string name="keyb2_custom_text_color_summary">Основен цвят на основния етикет</string>
+      <string name="keyb2_custom_text_alt_color_title">Ключов етикет малък</string>
+      <string name="keyb2_custom_text_alt_color_summary">Основен малък цвят на етикета</string>
+ </resources>

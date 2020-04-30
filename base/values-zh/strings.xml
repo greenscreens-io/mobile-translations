@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">拒绝写入本地存储的权限。</string>
+      <string name="show_keyboard">显示键盘</string>
+      <string name="select_keyboard">选择键盘</string>
+      <string name="keyboard_notification">键盘通知已启用。</string>
+      <string name="tap_to_open_keyboard">点击以打开“绿屏”键盘。</string>
+      <string name="tap_to_select_keyboard">点击以选择键盘。</string>
+      <string name="no_intent_document">没有申请使用文件</string>
+      <string name="print_mode_unsupported">所选驱动程序不支持报告模式</string>
+
+      <string name="help_download">正在从服务器下载手册...</string>
+      <string name="no_pdf_viewer">找不到PDF查看器！请从Google Play安装一个。</string>
+      <string name="no_file">文件未找到。</string>
+      <string name="no_print_data">没有要打印的数据。</string>
+      <string name="network_unavailable">网络不可用。请打开WIFI或移动网络。</string>
+      <string name="internal_initialization">初始化过程中，请稍后再试。</string>
+      <string name="print_error">数据未打印</string>
+      <string name="printer_not_found">找不到Zebra打印机</string>
+      <string name="multipart_upload">分段上传</string>
+      <string name="cancel_upload">取消</string>
+      <string name="upload_cancelled">上载已被取消</string>
+      <string name="upload_success">上载成功在[[ELAPSED_TIME]]中完成</string>
+      <string name="upload_error">上传时出错</string>
+      <string name="upload_title">上载中...</string>
+      <string name="uploading">以[[UPLOAD_RATE]]上载[[TOTAL_FILES]]的[[UPLOADED_FILES]]-[[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">未安装Zebra驱动程序！</string>
+      <string name="youAreNotUpdatedTitle">有可用更新</string>
+      <string name="youAreNotUpdatedMessage">有新版本的Green Screens Terminal。\ n请更新至版本！</string>
+      <string name="update">更新资料</string>
+      <string name="report_downloaded">报告已下载到设备</string>
+      <string name="report_downloading">报告从服务器下载</string>
+      <string name="report_print">报告发送至打印</string>
+      <string name="biometric_authenticate_ok">生物特征认证</string>
+      <string name="biometric_validate_ok">生物特征验证</string>
+      <string name="biometric_register_ok">生物识别注册</string>
+      <string name="biometric_unregister_ok">未注册生物识别</string>
+      <string name="biometric_update_ok">生物识别更新</string>
+      <string name="biometric_error">未注册生物识别</string>
+ </resources>

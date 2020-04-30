@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Açar düymələrdə titrəyin</string>
+      <string name="borders">Əsas sərhədlər</string>
+      <string name="pref_keyboard_custom">Xüsusi tema rəngləri</string>
+      <string name="pref_keyboard_preview">Baxış</string>
+      <string name="keyb2_custom_action_color_title">Fəaliyyət rəngi</string>
+      <string name="keyb2_custom_action_color_summary">Düz düymələr üçün rəng</string>
+      <string name="keyb2_custom_background_color_title">Fon</string>
+      <string name="keyb2_custom_background_color_summary">Klaviatura fon rəngi</string>
+      <string name="keyb2_custom_button_color_title">Açar Rəng</string>
+      <string name="keyb2_custom_button_color_summary">Haşiyələr aktiv olduqda əsas rəng</string>
+      <string name="keyb2_custom_button_border_color_title">Açar sərhəd rəngi</string>
+      <string name="keyb2_custom_button_border_color_summary">Haşiyələr aktiv olduqda açar nord rəngidir</string>
+      <string name="keyb2_custom_shadow_color_title">Fon kölgəsi</string>
+      <string name="keyb2_custom_shadow_color_summary">Klaviatura üst haşiyə rəngi</string>
+      <string name="keyb2_custom_text_color_title">Açar etiket</string>
+      <string name="keyb2_custom_text_color_summary">Əsas əsas etiket rəngi</string>
+      <string name="keyb2_custom_text_alt_color_title">Açar etiket kiçikdir</string>
+      <string name="keyb2_custom_text_alt_color_summary">Açar kiçik etiket rəngi</string>
+ </resources>

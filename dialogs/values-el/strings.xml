@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">λογότυπο</string>
+      <string name="ok">Εντάξει</string>
+      <string name="cancel">Ματαίωση</string>
+      <string name="change">Αλλαγή</string>
+      <string name="stop">Να σταματήσει</string>
+      <string name="disconnect">Διαχωρίζω</string>
+      <string name="enter_printer_name">Εισαγάγετε το όνομα της συσκευής του εκτυπωτή</string>
+      <string name="printer">Εκτυπωτής</string>
+      <string name="enter_pin">Εισαγάγετε το PIN</string>
+      <string name="enter_otp">Εισαγάγετε OTP User και Token</string>
+      <string name="already_activated">Έχει ήδη ενεργοποιηθεί:</string>
+      <string name="file_download">Λήψη αρχείου</string>
+      <string name="file_upload">Ανέβασμα αρχείου</string>
+      <string name="rate_dialog_title">Βαθμολογήστε %s.</string>
+      <string name="rate_dialog_message">Εάν σας αρέσει να χρησιμοποιείτε το %s, βοηθήστε μας βαθμολογώντας το. Χρειάζονται μόνο λίγα δευτερόλεπτα!</string>
+      <string name="rate_dialog_action_rate">Τιμή</string>
+      <string name="rate_dialog_action_never">Οχι ευχαριστώ</string>
+      <string name="rate_dialog_action_later">Αργότερα</string>
+      <string name="rate_dialog_thank_you">Ευχαριστώ!</string>
+ </resources>

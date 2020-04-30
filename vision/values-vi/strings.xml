@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Cần có quyền truy cập vào camera để phát hiện</string>
+      <string name="permission_warning">Cảnh báo cho phép</string>
+      <string name="no_camera_permission">Nhận dạng mã vạch không thể chạy vì nó không có sự cho phép của máy ảnh.</string>
+      <string name="low_storage_error">Phụ thuộc máy dò mã vạch không thể được tải xuống do lưu trữ thiết bị thấp</string>
+ </resources>

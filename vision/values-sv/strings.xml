@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Tillgång till kameran behövs för att detektera</string>
+      <string name="permission_warning">Tillståndvarning</string>
+      <string name="no_camera_permission">Streckkodigenkänning kan inte köras eftersom den inte har kameratillstånd.</string>
+      <string name="low_storage_error">Streckkoddetektorberoende kan inte laddas ner på grund av låg enhetslagring</string>
+ </resources>

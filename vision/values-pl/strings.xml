@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Dostęp do kamery jest potrzebny do wykrycia</string>
+      <string name="permission_warning">Ostrzeżenie o zezwoleniu</string>
+      <string name="no_camera_permission">Rozpoznawanie kodu kreskowego nie może zostać uruchomione, ponieważ nie ma uprawnień kamery.</string>
+      <string name="low_storage_error">Zależności wykrywacza kodów kreskowych nie można pobrać z powodu małej ilości pamięci urządzenia</string>
+ </resources>

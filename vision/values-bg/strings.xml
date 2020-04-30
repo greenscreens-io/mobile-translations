@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Достъпът до камерата е необходим за откриване</string>
+      <string name="permission_warning">Предупреждение за разрешение</string>
+      <string name="no_camera_permission">Разпознаването на баркод не може да работи, тъй като няма разрешение за камера.</string>
+      <string name="low_storage_error">Зависимостите на детектора на баркод не могат да бъдат изтеглени поради ниско съхранение на устройства</string>
+ </resources>

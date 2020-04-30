@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Доступ к камере необходим для обнаружения</string>
+      <string name="permission_warning">Разрешение на предупреждение</string>
+      <string name="no_camera_permission">Распознавание штрих-кода не может быть запущено, потому что у него нет разрешения камеры.</string>
+      <string name="low_storage_error">Зависимости детектора штрих-кода не могут быть загружены из-за нехватки памяти устройства</string>
+ </resources>

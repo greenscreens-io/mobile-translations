@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">логотип</string>
+      <string name="ok">добре</string>
+      <string name="cancel">Скасувати</string>
+      <string name="change">Зміна</string>
+      <string name="stop">Стій</string>
+      <string name="disconnect">Відключити</string>
+      <string name="enter_printer_name">Введіть назву принтерного пристрою</string>
+      <string name="printer">Принтер</string>
+      <string name="enter_pin">Введіть PIN-код</string>
+      <string name="enter_otp">Введіть користувача OTP та маркер</string>
+      <string name="already_activated">Вже активовано:</string>
+      <string name="file_download">Завантажити файл</string>
+      <string name="file_upload">Завантажити файл</string>
+      <string name="rate_dialog_title">Ставка %s.</string>
+      <string name="rate_dialog_message">Якщо вам подобається використовувати %s, будь ласка, допоможіть нам, оцінивши це. Це займає лише кілька секунд!</string>
+      <string name="rate_dialog_action_rate">Ставка</string>
+      <string name="rate_dialog_action_never">Ні, дякую</string>
+      <string name="rate_dialog_action_later">Пізніше</string>
+      <string name="rate_dialog_thank_you">Дякую!</string>
+ </resources>

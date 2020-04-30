@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Avastamiseks on vaja juurdepääsu kaamerale</string>
+      <string name="permission_warning">Loa hoiatus</string>
+      <string name="no_camera_permission">Vöötkoodituvastust ei saa käivitada, kuna sellel pole kaamera luba.</string>
+      <string name="low_storage_error">Vöötkoodiandurite sõltuvust ei saa seadme vähese salvestusruumi tõttu alla laadida</string>
+ </resources>

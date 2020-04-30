@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Zöld képernyő 5250 terminál vonalkód-leolvasóval. Tudjon meg többet a www.greenscreens.io oldalon</string>
+
+      <string name="title_configs">Válassza ki a konfigurációt</string>
+      <string name="title_plugins">Válassza ki a beépülő modult</string>
+      <string name="title_help">Zöld képernyők - Súgó</string>
+      <string name="selectAction">Válassza ki a műveletet</string>
+      <string name="cancel">Megszünteti</string>
+      <string name="ok">rendben</string>
+      <string name="data_removed">Adatok eltávolítva!</string>
+      <string name="config_data_required">Az UUID és a Host kötelező értékek!</string>
+      <string name="otp_data_required">A felhasználó és a token kötelező értékek!</string>
+
+      <string name="loading">Betöltés…</string>
+      <string name="action_tutors">oktatóanyagok</string>
+
+      <string name="action_help">Segítség</string>
+      <string name="action_about">Ról ről</string>
+
+      <string name="labelBarcode">Vonalkód</string>
+      <string name="labelPrinter">Nyomtató</string>
+      <string name="labelLockRotate">Zár forog</string>
+      <string name="labelSplitScreen">Osztott képernyős</string>
+      <string name="labelTheme">Váltás a témára</string>
+      <string name="labelTemplate">Csévélő sablon</string>
+      <string name="labelDownload">Fájl letöltése</string>
+      <string name="labelUpload">Fájlfeltöltés</string>
+      <string name="pasteModeInfo">A másolás / beillesztés mód megváltozott</string>
+      <string name="crash_toast_text">Ooooops! Összeomlott, de jelentést küldtek a fejlesztőmnek, hogy segítsen a probléma megoldásában!</string>
+      <string name="crash_dialog_title">A terminál összeomlott</string>
+      <string name="crash_dialog_text">Váratlan hiba történt, amely arra kényszerítette az alkalmazást, hogy álljon le. Kérjük, segítsen nekünk javításában azáltal, hogy hibainformációkat küld nekünk. Csak annyit kell tennie, hogy kattintson az OK gombra.</string>
+      <string name="crash_dialog_comment_prompt">Az alábbiakban felveheti észrevételeit a problémáról:</string>
+      <string name="msg_macro">Makró név</string>
+      <string name="msg_macro_undefined">A makró nincs meghatározva</string>
+      <string name="msg_barcode_invalid">Érvénytelen adatok, ellenőrizze, hogy helytelen vonalkód van-e beolvasva!</string>
+      <string name="msg_barcode_error">Hiba a vonalkód feldolgozása közben.</string>
+      <string name="action_settings">Beállítások</string>
+      <string name="action_demo">Demos</string>
+      <string name="action_camera">Letapogatás</string>
+      <string name="saveBtn">Megment</string>
+      <string name="submitBtn">Beküldés</string>
+    <string name="warning">Figyelem</string>
+      <string name="unsupported_version">Az Android ezt a verziót nem támogatja.</string>
+      <string name="update_webview">Az alkalmazás használatához kérjük, frissítse a webmotort a legújabb verzióra.</string>
+      <string name="network_unavailable">A hálózat nem érhető el! Kérjük, nyissa meg a hálózati kapcsolatot!</string>
+      <string name="downloads_permission">A letöltések nem érhetők el. Kérjük, engedélyezze az alkalmazás engedélyét.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Biztosan bezárja ezt a munkamenetet?</string>
+      <string name="invalid_url">Érvénytelen URL!</string>
+      <string name="error">Hiba</string>
+      <string name="service_unavailable">Nem érhető el a távoli szolgáltatás</string>
+      <string name="no_data">Nincsenek mentett konfigurációs adatok</string>
+      <string name="service_not_set">A szolgáltatás URL-je nincs beállítva</string>
+      <string name="description">Leírás</string>
+      <string name="no_data_from_scanner">Nincs adat a szkennerről</string>
+      <string name="no_plugins_installed">Nincs telepítve plugin</string>
+      <string name="internal_detector">AI vonalkód-leolvasó</string>
+      <string name="wtma_invalid_service_url">Érvénytelen vonalkód-szolgáltatás URL, alapértelmezettre váltott!</string>
+      <string name="offline_mode">Offline mód</string>
+      <string name="system_request">Rendszerkérelem</string>
+      <string name="enter_number">Írja be a számot!</string>
+      <string name="printer">Nyomtató</string>
+      <string name="printer_not_active">A nyomtató nem aktív.</string>
+      <string name="report_template">Jelentéssablon</string>
+      <string name="enter_template_name">Írja be a sablon nevét!</string>
+      <string name="disconnect">szétkapcsol</string>
+      <string name="already_activated">Már aktivált:</string>
+      <string name="ssl_certificate_error">SSL tanúsítvány hiba.</string>
+      <string name="cert_authority_not_trusted">A tanúsító hatóság nem megbízható.</string>
+      <string name="cert_expired">A tanúsítvány lejárt.</string>
+      <string name="cert_mismatch">A tanúsítvány gazdagépnevének eltérése.</string>
+      <string name="cert_not_yet_valid">A tanúsítvány még nem érvényes.</string>
+      <string name="do_you_want_to_continue">Egyébként folytatni akarja?</string>
+      <string name="continue_btn">Folytatni</string>
+      <string name="labelMacro">Makrorekord</string>
+      <string name="delete">Töröl</string>
+      <string name="title_activity_macro">makrók</string>
+
+      <string name="fileNotFound">A fájl nem létezik.</string>
+
+      <string name="pin_not_matched">A PIN-kód nem egyezik</string>
+      <string name="pin_not_set">A PIN-kód nincs beállítva</string>
+      <string name="labelKbar">Kapcsolja be a Keybar-t</string>
+      <string name="otp_invalid_token">\ ?? ÉRVÉNYTELEN KÓD ??</string>
+      <string name="otp_token_unsupported">OTP token nem támogatott</string>
+      <string name="otp_token_title">OTP Token Entry</string>
+      <string name="otp_token_title_reg">OTP token regisztráció</string>
+      <string name="otp_token_message">OTP token szükséges - Adja meg a hitelesítő adatokat</string>
+      <string name="otp_token_unsync">FIGYELEM!!! Ellenőrizze, hogy a rendszeridő nincs-e szinkronizálva.</string>
+      <string name="webauth_required_message">Minden mező kitöltése kötelező</string>
+      <string name="webauth_title">biometrikus</string>
+      <string name="wtma_sent">A WTMA megerősítette</string>
+      <string name="file_too_big">A fájl túl nagy a megnyitáshoz!</string>
+      <string name="biometricBtn">Folytatni</string>
+      <string name="not_in_demo">Demó módban nem érhető el!</string>
+      <string name="tab_a_label">TÁBORNOK</string>
+      <string name="tab_b_label">ESZKÖZ</string>
+      <string name="tab_c_label">EGYÉB</string>
+ </resources>

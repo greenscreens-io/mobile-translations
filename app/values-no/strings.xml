@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Grønne skjermer 5250 terminal med strekkodeleser. Finn ut mer på www.greenscreens.io</string>
+
+      <string name="title_configs">Velg konfigurasjon</string>
+      <string name="title_plugins">Velg plugin</string>
+      <string name="title_help">Grønne skjermer - Hjelp</string>
+      <string name="selectAction">Velg handling</string>
+      <string name="cancel">Avbryt</string>
+      <string name="ok">OK</string>
+      <string name="data_removed">Data fjernet!</string>
+      <string name="config_data_required">UUID og Host er obligatoriske verdier!</string>
+      <string name="otp_data_required">Bruker og token er nødvendige verdier!</string>
+
+      <string name="loading">Laster ...</string>
+      <string name="action_tutors">Guider</string>
+
+      <string name="action_help">Hjelp</string>
+      <string name="action_about">Om</string>
+
+      <string name="labelBarcode">Barcode</string>
+      <string name="labelPrinter">Skriver</string>
+      <string name="labelLockRotate">Låsen roterer</string>
+      <string name="labelSplitScreen">Delt skjerm</string>
+      <string name="labelTheme">Bytt tema</string>
+      <string name="labelTemplate">Spoolmal</string>
+      <string name="labelDownload">Nedlasting av fil</string>
+      <string name="labelUpload">Filopplasting</string>
+      <string name="pasteModeInfo">Kopi / lim inn modus endret</string>
+      <string name="crash_toast_text">Ooooops! Jeg krasjet, men en rapport er sendt til utvikleren min for å hjelpe med å løse problemet!</string>
+      <string name="crash_dialog_title">Terminal har krasjet</string>
+      <string name="crash_dialog_text">Det oppstod en uventet feil som tvang applikasjonen til å stoppe. Hjelp oss med å fikse dette ved å sende oss feildata, alt du trenger å gjøre er å klikke OK.</string>
+      <string name="crash_dialog_comment_prompt">Du kan legge til kommentarene dine om problemet nedenfor:</string>
+      <string name="msg_macro">Makronavn</string>
+      <string name="msg_macro_undefined">Makro ikke definert</string>
+      <string name="msg_barcode_invalid">Ugyldige data, sjekk om feil strekkode ble skannet!</string>
+      <string name="msg_barcode_error">Feil under behandling av strekkode.</string>
+      <string name="action_settings">innstillinger</string>
+      <string name="action_demo">Demoer</string>
+      <string name="action_camera">Scan</string>
+      <string name="saveBtn">Lagre</string>
+      <string name="submitBtn">Sende inn</string>
+    <string name="warning">Advarsel</string>
+      <string name="unsupported_version">Denne versjonen av Android støttes ikke.</string>
+      <string name="update_webview">For å bruke applikasjonen, må du oppdatere nettmotoren til den nyeste versjonen.</string>
+      <string name="network_unavailable">Nettverk ikke tilgjengelig! Åpne nettverkstilkoblingen!</string>
+      <string name="downloads_permission">Nedlastinger er ikke tilgjengelige. Aktiver søknadstillatelser.</string>
+      <string name="info">info</string>
+      <string name="close_session_question">Er du sikker på at du vil avslutte denne økten?</string>
+      <string name="invalid_url">Ugyldig URL!</string>
+      <string name="error">Feil</string>
+      <string name="service_unavailable">Kan ikke få tilgang til ekstern tjeneste</string>
+      <string name="no_data">Ingen lagrede konfigurasjonsdata</string>
+      <string name="service_not_set">Tjeneste-URL ikke angitt</string>
+      <string name="description">Beskrivelse</string>
+      <string name="no_data_from_scanner">Ingen data fra skanneren</string>
+      <string name="no_plugins_installed">Ingen plugins installert</string>
+      <string name="internal_detector">AI strekkodeskanner</string>
+      <string name="wtma_invalid_service_url">Ugyldig URL-adresse for strekkode, byttet til standard!</string>
+      <string name="offline_mode">Frakoblet modus</string>
+      <string name="system_request">Systemforespørsel</string>
+      <string name="enter_number">Skriv inn nummeret!</string>
+      <string name="printer">Skriver</string>
+      <string name="printer_not_active">Skriveren er ikke aktiv.</string>
+      <string name="report_template">Rapportmal</string>
+      <string name="enter_template_name">Skriv inn malnavnet!</string>
+      <string name="disconnect">Koble fra</string>
+      <string name="already_activated">Allerede aktivert:</string>
+      <string name="ssl_certificate_error">SSL-sertifikatfeil.</string>
+      <string name="cert_authority_not_trusted">Sertifikatmyndigheten er ikke klarert.</string>
+      <string name="cert_expired">Sertifikatet er utløpt.</string>
+      <string name="cert_mismatch">Sertifikatet Hostname mismatch.</string>
+      <string name="cert_not_yet_valid">Sertifikatet er ikke gyldig ennå.</string>
+      <string name="do_you_want_to_continue">Vil du fortsette likevel?</string>
+      <string name="continue_btn">Fortsette</string>
+      <string name="labelMacro">Makroplate</string>
+      <string name="delete">Slett</string>
+      <string name="title_activity_macro">makroer</string>
+
+      <string name="fileNotFound">Filen eksisterer ikke.</string>
+
+      <string name="pin_not_matched">PIN-koden stemmer ikke overens</string>
+      <string name="pin_not_set">PIN-koden er ikke angitt</string>
+      <string name="labelKbar">Bytt tastatur</string>
+      <string name="otp_invalid_token">\ ?? Ugyldig token ??</string>
+      <string name="otp_token_unsupported">OTP-token støttes ikke</string>
+      <string name="otp_token_title">OTP Token Entry</string>
+      <string name="otp_token_title_reg">OTP-tokenregistrering</string>
+      <string name="otp_token_message">OTP-token kreves - legg inn legitimasjon</string>
+      <string name="otp_token_unsync">ADVARSEL!!! Sjekk om systemtid er synkronisert.</string>
+      <string name="webauth_required_message">Alt felt er påkrevd</string>
+      <string name="webauth_title">biometrisk</string>
+      <string name="wtma_sent">WTMA bekreftet</string>
+      <string name="file_too_big">Filen er for stor til å åpne!</string>
+      <string name="biometricBtn">Fortsette</string>
+      <string name="not_in_demo">Ikke tilgjengelig i demomodus!</string>
+      <string name="tab_a_label">GENERELL</string>
+      <string name="tab_b_label">ENHET</string>
+      <string name="tab_c_label">ANNEN</string>
+ </resources>

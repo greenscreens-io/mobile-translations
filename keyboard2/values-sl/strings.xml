@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibrirajte ob pritisku na tipko</string>
+      <string name="borders">Ključne meje</string>
+      <string name="pref_keyboard_custom">Barve teme po meri</string>
+      <string name="pref_keyboard_preview">Predogled</string>
+      <string name="keyb2_custom_action_color_title">Akcijska barva</string>
+      <string name="keyb2_custom_action_color_summary">Barva za ravne gumbe</string>
+      <string name="keyb2_custom_background_color_title">Ozadje</string>
+      <string name="keyb2_custom_background_color_summary">Barva ozadja tipkovnice</string>
+      <string name="keyb2_custom_button_color_title">Barva tipk</string>
+      <string name="keyb2_custom_button_color_summary">Barva ključa, če so meje omogočene</string>
+      <string name="keyb2_custom_button_border_color_title">Barva obrobe ključa</string>
+      <string name="keyb2_custom_button_border_color_summary">Barva ključne norderje, če so meje omogočene</string>
+      <string name="keyb2_custom_shadow_color_title">Senca ozadja</string>
+      <string name="keyb2_custom_shadow_color_summary">Barva zgornje meje tipkovnice</string>
+      <string name="keyb2_custom_text_color_title">Nalepka za ključe</string>
+      <string name="keyb2_custom_text_color_summary">Barva glavne oznake</string>
+      <string name="keyb2_custom_text_alt_color_title">Ključna nalepka majhna</string>
+      <string name="keyb2_custom_text_alt_color_summary">Ključ majhne barve nalepke</string>
+ </resources>

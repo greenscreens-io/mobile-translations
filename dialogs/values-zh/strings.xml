@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">商标</string>
+      <string name="ok">好</string>
+      <string name="cancel">取消</string>
+      <string name="change">更改</string>
+      <string name="stop">停止</string>
+      <string name="disconnect">断开</string>
+      <string name="enter_printer_name">输入打印机设备名称</string>
+      <string name="printer">打印机</string>
+      <string name="enter_pin">输入密码</string>
+      <string name="enter_otp">输入OTP用户和令牌</string>
+      <string name="already_activated">已经激活：</string>
+      <string name="file_download">下载文件</string>
+      <string name="file_upload">上传文件</string>
+      <string name="rate_dialog_title">评分％s。</string>
+      <string name="rate_dialog_message">如果您喜欢使用 %s，请给我们评分。只需要几秒钟！</string>
+      <string name="rate_dialog_action_rate">率</string>
+      <string name="rate_dialog_action_never">不用了，谢谢</string>
+      <string name="rate_dialog_action_later">后来</string>
+      <string name="rate_dialog_thank_you">谢谢！</string>
+ </resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Tespit için kameraya erişim gerekir</string>
+      <string name="permission_warning">İzin uyarısı</string>
+      <string name="no_camera_permission">Kamera izni olmadığı için barkod tanıma çalıştırılamıyor.</string>
+      <string name="low_storage_error">Düşük cihaz depolaması nedeniyle barkod dedektör bağımlılıkları indirilemiyor</string>
+ </resources>

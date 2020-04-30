@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Информация за услугата за печат</string>
+      <string name="print_service_help_title_1">Вземете приставка за услуга за печат</string>
+      <string name="print_service_help_msg_1">За да отпечатате, трябва да имате инсталиран приставка за услуга за печат. Всяка марка принтер има свой плъгин, който ви позволява да печатате от мобилното си устройство. Предлагат се и общи плъгини за услуга за печат. Изберете приставката, която ви служи най-добре. Можете да добавите допълнителни приставки за печат по всяко време.</string>
+      <string name="print_service_help_title_2">Активиране на приставката</string>
+      <string name="print_service_help_msg_2">След като изтеглите приставка за услуга за печат, ще бъдете подканени да активирате своя плъгин. Просто го изберете и чукнете превключвателя на “ON”.</string>
+      <string name="plugin_manager_title">Мениджър за печат на услуги</string>
+      <string name="plugin_manager_sub_title">Имате нужда от инсталиран Plugin за услуга за печат и активиран за печат.</string>
+      <string name="before_enable_tips">Ще бъдете насочени към настройките за печат на Android.</string>
+      <string name="before_enable_tips_title">Активирайте своя Plugin</string>
+      <string name="ok">Идете на НАСТРОЙКИ</string>
+      <string name="cancel">ОТКАЗ</string>
+      <string name="enabled">Enabled</string>
+      <string name="disabled">хора с увреждания</string>
+ </resources>

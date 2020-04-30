@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Povolení k zápisu do místního úložiště bylo zamítnuto.</string>
+      <string name="show_keyboard">Zobrazit klávesnici</string>
+      <string name="select_keyboard">Vyberte Klávesnice</string>
+      <string name="keyboard_notification">Oznámení klávesnice je povoleno.</string>
+      <string name="tap_to_open_keyboard">Klepnutím otevřete klávesnici Zelené obrazovky.</string>
+      <string name="tap_to_select_keyboard">Klepnutím vyberte klávesnici.</string>
+      <string name="no_intent_document">Žádná aplikace k použití dokumentu</string>
+      <string name="print_mode_unsupported">Režim hlášení není pro vybraný ovladač podporován</string>
+
+      <string name="help_download">Stahování manuálu ze serveru ...</string>
+      <string name="no_pdf_viewer">Prohlížeč PDF nebyl nalezen! Nainstalujte si prosím jednu z Google Play.</string>
+      <string name="no_file">Soubor nenalezen.</string>
+      <string name="no_print_data">Žádná data k tisku.</string>
+      <string name="network_unavailable">Síť není k dispozici. Otevřete prosím WIFI nebo mobilní síť.</string>
+      <string name="internal_initialization">Probíhá inicializace, zkuste to prosím znovu za několik sekund.</string>
+      <string name="print_error">Data nejsou vytištěna</string>
+      <string name="printer_not_found">Tiskárna Zebra nebyla nalezena</string>
+      <string name="multipart_upload">Vícenásobné nahrávání</string>
+      <string name="cancel_upload">zrušení</string>
+      <string name="upload_cancelled">Nahrávání bylo zrušeno</string>
+      <string name="upload_success">Nahrávání bylo úspěšně dokončeno o [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Při nahrávání došlo k chybě</string>
+      <string name="upload_title">Nahrávání ...</string>
+      <string name="uploading">Nahráno [[UPLOADED_FILES]] z [[TOTAL_FILES]] dne [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Ovladač Zebra není nainstalován!</string>
+      <string name="youAreNotUpdatedTitle">Aktualizace je k dispozici</string>
+      <string name="youAreNotUpdatedMessage">K dispozici je nová verze terminálu Zelené obrazovky. \ NProsím aktualizujte verzi!</string>
+      <string name="update">Aktualizace</string>
+      <string name="report_downloaded">Zpráva byla stažena do zařízení</string>
+      <string name="report_downloading">Stahování hlášení ze serveru</string>
+      <string name="report_print">Zpráva odeslat do tisku</string>
+      <string name="biometric_authenticate_ok">Biometricky ověřeno</string>
+      <string name="biometric_validate_ok">Biometrické ověření</string>
+      <string name="biometric_register_ok">Biometrický registr</string>
+      <string name="biometric_unregister_ok">Biometrické neregistrované</string>
+      <string name="biometric_update_ok">Biometrická aktualizace</string>
+      <string name="biometric_error">Biometrické není zaregistrováno</string>
+ </resources>

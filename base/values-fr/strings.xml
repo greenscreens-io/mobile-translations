@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+      <string name="local_storage_permission">Autorisation refusée d\'écrire sur le stockage local.</string>
+      <string name="show_keyboard">Afficher le clavier</string>
+      <string name="select_keyboard">Sélectionnez le clavier</string>
+      <string name="keyboard_notification">Notification du clavier activée.</string>
+      <string name="tap_to_open_keyboard">Appuyez pour ouvrir le clavier des écrans verts.</string>
+      <string name="tap_to_select_keyboard">Appuyez pour sélectionner le clavier.</string>
+      <string name="no_intent_document">Aucune demande d\'utilisation de document</string>
+      <string name="print_mode_unsupported">Le mode de rapport n\'est pas pris en charge pour le pilote sélectionné</string>
+
+      <string name="help_download">Téléchargement du manuel depuis le serveur ...</string>
+      <string name="no_pdf_viewer">Visionneuse PDF introuvable! Veuillez en installer un à partir de Google Play.</string>
+      <string name="no_file">Fichier non trouvé.</string>
+      <string name="no_print_data">Aucune donnée à imprimer.</string>
+      <string name="network_unavailable">Réseau indisponible. Veuillez ouvrir le réseau WIFI ou mobile.</string>
+      <string name="internal_initialization">Initialisation en cours, veuillez réessayer dans quelques secondes.</string>
+      <string name="print_error">Données non imprimées</string>
+      <string name="printer_not_found">Imprimante Zebra introuvable</string>
+      <string name="multipart_upload">Téléchargement en plusieurs parties</string>
+      <string name="cancel_upload">Annuler</string>
+      <string name="upload_cancelled">Le téléchargement a été annulé</string>
+      <string name="upload_success">Téléchargement terminé avec succès dans [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Erreur lors du téléchargement</string>
+      <string name="upload_title">Téléchargement...</string>
+      <string name="uploading">[[UPLOADED_FILES]] téléchargé sur [[TOTAL_FILES]] sur [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra Driver non installé!</string>
+      <string name="youAreNotUpdatedTitle">Mise à jour disponible</string>
+      <string name="youAreNotUpdatedMessage">Une nouvelle version de Green Screens Terminal est disponible. \ NVeuillez mettre à jour la version!</string>
+      <string name="update">Mise à jour</string>
+      <string name="report_downloaded">Rapport téléchargé sur l\'appareil</string>
+      <string name="report_downloading">Rapport de téléchargement depuis le serveur</string>
+      <string name="report_print">Rapport envoyé pour impression</string>
+      <string name="biometric_authenticate_ok">Biométrique authentifié</string>
+      <string name="biometric_validate_ok">Biométrique validé</string>
+      <string name="biometric_register_ok">Enregistré biométrique</string>
+      <string name="biometric_unregister_ok">Biométrique non enregistré</string>
+      <string name="biometric_update_ok">Biométrique mis à jour</string>
+      <string name="biometric_error">Biométrique non enregistré</string>
+ </resources>

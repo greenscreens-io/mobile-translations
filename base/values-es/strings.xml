@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Permiso denegado para escribir en el almacenamiento local.</string>
+      <string name="show_keyboard">Mostrar teclado</string>
+      <string name="select_keyboard">Seleccionar teclado</string>
+      <string name="keyboard_notification">Notificación de teclado habilitada.</string>
+      <string name="tap_to_open_keyboard">Toque para abrir el teclado de pantallas verdes.</string>
+      <string name="tap_to_select_keyboard">Toque para seleccionar el teclado.</string>
+      <string name="no_intent_document">Ninguna aplicación para usar el documento</string>
+      <string name="print_mode_unsupported">El modo de informe no es compatible con el controlador seleccionado</string>
+
+      <string name="help_download">Descargando el manual del servidor ...</string>
+      <string name="no_pdf_viewer">¡Visor de PDF no encontrado! Instala uno de Google Play.</string>
+      <string name="no_file">Archivo no encontrado.</string>
+      <string name="no_print_data">No hay datos para imprimir.</string>
+      <string name="network_unavailable">Red no disponible. Abra WIFI o red móvil.</string>
+      <string name="internal_initialization">Inicialización en proceso, intente nuevamente en unos segundos.</string>
+      <string name="print_error">Datos no impresos</string>
+      <string name="printer_not_found">Impresora Zebra no encontrada</string>
+      <string name="multipart_upload">Carga multiparte</string>
+      <string name="cancel_upload">Cancelar</string>
+      <string name="upload_cancelled">La carga ha sido cancelada</string>
+      <string name="upload_success">La carga se completó correctamente en [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Error al subir</string>
+      <string name="upload_title">Subiendo ...</string>
+      <string name="uploading">Subió [[UPLOADED_FILES]] de [[TOTAL_FILES]] en [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">¡El controlador Zebra no está instalado!</string>
+      <string name="youAreNotUpdatedTitle">Actualización disponible</string>
+      <string name="youAreNotUpdatedMessage">Una nueva versión de Green Screens Terminal está disponible. \ N¡Actualice a la versión!</string>
+      <string name="update">Actualizar</string>
+      <string name="report_downloaded">Informe descargado en el dispositivo</string>
+      <string name="report_downloading">Informe de descarga del servidor</string>
+      <string name="report_print">Informe enviar a imprimir</string>
+      <string name="biometric_authenticate_ok">Biométrico autenticado</string>
+      <string name="biometric_validate_ok">Biométrico validado</string>
+      <string name="biometric_register_ok">Biométrico registrado</string>
+      <string name="biometric_unregister_ok">Biométrica no registrada</string>
+      <string name="biometric_update_ok">Actualización biométrica</string>
+      <string name="biometric_error">Biométrico no registrado</string>
+ </resources>

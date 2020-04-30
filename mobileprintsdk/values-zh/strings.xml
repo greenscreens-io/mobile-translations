@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">打印服务信息</string>
+      <string name="print_service_help_title_1">获取打印服务插件</string>
+      <string name="print_service_help_msg_1">您必须安装打印服务插件才能进行打印。每个品牌的打印机都有其自己的插件，使您可以从移动设备进行打印。通用打印服务插件也可用。选择最适合您的插件。您可以随时添加其他打印插件。</string>
+      <string name="print_service_help_title_2">启用插件</string>
+      <string name="print_service_help_msg_2">下载打印服务插件后，系统将提示您启用插件。只需选择它，然后将开关点击到“ ON”。</string>
+      <string name="plugin_manager_title">印刷服务经理</string>
+      <string name="plugin_manager_sub_title">您需要安装并启用打印服务打印插件。</string>
+      <string name="before_enable_tips">您将被定向到Android打印设置。</string>
+      <string name="before_enable_tips_title">启用您的插件</string>
+      <string name="ok">前往设置</string>
+      <string name="cancel">取消</string>
+      <string name="enabled">已启用</string>
+      <string name="disabled">残障人士</string>
+ </resources>

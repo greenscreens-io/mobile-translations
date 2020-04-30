@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Za zaznavanje je potreben dostop do kamere</string>
+      <string name="permission_warning">Opozorilo o dovoljenju</string>
+      <string name="no_camera_permission">Prepoznavanje črtne kode se ne more izvajati, ker nima dovoljenja za fotoaparat.</string>
+      <string name="low_storage_error">Zaradi majhnega pomnilnika naprave ni mogoče prenesti odvisnosti od detektorja črtne kode</string>
+ </resources>

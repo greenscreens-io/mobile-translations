@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Informacje o usłudze drukowania</string>
+      <string name="print_service_help_title_1">Uzyskaj wtyczkę usługi drukowania</string>
+      <string name="print_service_help_msg_1">Aby drukować, musisz mieć zainstalowaną wtyczkę usługi drukowania. Każda marka drukarki ma własną wtyczkę, która umożliwia drukowanie z urządzenia mobilnego. Dostępne są również ogólne wtyczki usług drukowania. Wybierz wtyczkę, która Ci najlepiej służy. W dowolnym momencie możesz dodać dodatkowe wtyczki drukowania.</string>
+      <string name="print_service_help_title_2">Włącz wtyczkę</string>
+      <string name="print_service_help_msg_2">Po pobraniu wtyczki usługi drukowania pojawi się monit o włączenie wtyczki. Po prostu wybierz go i dotknij przełącznika na „ON”.</string>
+      <string name="plugin_manager_title">Menedżer usług drukowania</string>
+      <string name="plugin_manager_sub_title">Aby drukować, musisz zainstalować i włączyć wtyczkę usługi drukowania.</string>
+      <string name="before_enable_tips">Nastąpi przekierowanie do ustawień drukowania w systemie Android.</string>
+      <string name="before_enable_tips_title">Włącz wtyczkę</string>
+      <string name="ok">PRZEJDŹ DO USTAWIEŃ</string>
+      <string name="cancel">ANULUJ</string>
+      <string name="enabled">Włączone</string>
+      <string name="disabled">Niepełnosprawny</string>
+ </resources>

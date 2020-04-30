@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">K detekci je nutný přístup do kamery</string>
+      <string name="permission_warning">Varování o povolení</string>
+      <string name="no_camera_permission">Rozpoznávání čárových kódů nelze spustit, protože nemá povolení kamery.</string>
+      <string name="low_storage_error">Závislosti detektoru čárových kódů nelze stáhnout kvůli malému úložišti zařízení</string>
+ </resources>

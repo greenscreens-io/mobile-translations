@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">Okay</string>
+      <string name="cancel">Afbestille</string>
+      <string name="change">Lave om</string>
+      <string name="stop">Hold op</string>
+      <string name="disconnect">Koble fra</string>
+      <string name="enter_printer_name">Indtast printerenhedens navn</string>
+      <string name="printer">Printer</string>
+      <string name="enter_pin">Indtast PIN-kode</string>
+      <string name="enter_otp">Indtast OTP-bruger og token</string>
+      <string name="already_activated">Allerede aktiveret:</string>
+      <string name="file_download">Download fil</string>
+      <string name="file_upload">Upload fil</string>
+      <string name="rate_dialog_title">Bedøm %s.</string>
+      <string name="rate_dialog_message">Hvis du nyder at bruge %s, kan du hjælpe os med at bedømme det. Det tager kun få sekunder!</string>
+      <string name="rate_dialog_action_rate">Sats</string>
+      <string name="rate_dialog_action_never">Nej tak</string>
+      <string name="rate_dialog_action_later">Senere</string>
+      <string name="rate_dialog_thank_you">Tak skal du have!</string>
+ </resources>

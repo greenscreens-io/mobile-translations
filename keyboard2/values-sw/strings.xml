@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Tetemeka kwa waandishi wa habari kifungo</string>
+      <string name="borders">Vifunguo muhimu</string>
+      <string name="pref_keyboard_custom">Rangi ya Mada ya Kitamaduni</string>
+      <string name="pref_keyboard_preview">Hakiki</string>
+      <string name="keyb2_custom_action_color_title">Rangi ya kitendo</string>
+      <string name="keyb2_custom_action_color_summary">Rangi kwa vifungo vya gorofa</string>
+      <string name="keyb2_custom_background_color_title">Asili</string>
+      <string name="keyb2_custom_background_color_summary">Rangi ya mandharinyuma ya kibodi</string>
+      <string name="keyb2_custom_button_color_title">Rangi muhimu</string>
+      <string name="keyb2_custom_button_color_summary">Rangi muhimu ikiwa mipaka imewashwa</string>
+      <string name="keyb2_custom_button_border_color_title">Rangi ya Mpaka muhimu</string>
+      <string name="keyb2_custom_button_border_color_summary">Rangi ya nuru muhimu ikiwa mipaka imewezeshwa</string>
+      <string name="keyb2_custom_shadow_color_title">Kivuli cha asili</string>
+      <string name="keyb2_custom_shadow_color_summary">Rangi ya mpaka wa juu wa kibodi</string>
+      <string name="keyb2_custom_text_color_title">Lebo kuu</string>
+      <string name="keyb2_custom_text_color_summary">Rangi kuu ya lebo ya lebo</string>
+      <string name="keyb2_custom_text_alt_color_title">Lebo ndogo</string>
+      <string name="keyb2_custom_text_alt_color_summary">Rangi ndogo ndogo ya lebo</string>
+ </resources>

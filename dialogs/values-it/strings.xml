@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">ok</string>
+      <string name="cancel">Annulla</string>
+      <string name="change">Modificare</string>
+      <string name="stop">Fermare</string>
+      <string name="disconnect">Disconnect</string>
+      <string name="enter_printer_name">Immettere il nome del dispositivo della stampante</string>
+      <string name="printer">Stampante</string>
+      <string name="enter_pin">Inserisci il PIN</string>
+      <string name="enter_otp">Inserisci utente e token OTP</string>
+      <string name="already_activated">Già attivato:</string>
+      <string name="file_download">Download file</string>
+      <string name="file_upload">Caricare un file</string>
+      <string name="rate_dialog_title">Aliquote %s.</string>
+      <string name="rate_dialog_message">Se ti piace usare %s, ti preghiamo di aiutarci valutandolo. Ci vogliono solo pochi secondi!</string>
+      <string name="rate_dialog_action_rate">Vota</string>
+      <string name="rate_dialog_action_never">No grazie</string>
+      <string name="rate_dialog_action_later">Dopo</string>
+      <string name="rate_dialog_thank_you">Grazie!</string>
+ </resources>

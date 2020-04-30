@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- PERMISSION VALUES -->
+
+    <string name="app_desc">Green Screens 5250 Terminal sa barkod skenerom. Otkrijte više na  www.greenscreens.io</string>
+
+    <string name="title_configs">Odabir postavki</string>
+    <string name="title_plugins">Odabir dodatka</string>
+    <string name="title_help">Green Screens - Upute</string>
+
+    <string name="selectAction">Odaberite akciju</string>
+    <string name="cancel">Odustani</string>
+    <string name="ok">Uredu</string>
+
+    <string name="loading">Učitavanje...</string>
+
+    <string name="action_tutors">Tutoriali</string>
+    <string name="action_help">Upute</string>
+    <string name="action_about">O Aplikaciji</string>
+
+
+    <string name="labelPrinter">Printer</string>
+    <string name="labelLockRotate">Onemogući rotaciju</string>
+    <string name="labelSplitScreen">Podijeli ekran</string>
+    <string name="labelTheme">Promijeni temu</string>
+    <string name="labelTemplate">Obrazac</string>
+
+    <!-- ACRA VALUES -->
+    <string name="crash_toast_text">Ooooops ! Aplikacija se srušila, no automatski izvještaj o grešci je poslan kako bismo ispravili grešku!</string>
+
+    <string name="crash_dialog_title">Terminal se srušio</string>
+    <string name="crash_dialog_text">Desila se neočekivana grešak koja je srušilaapliakciju. Molimo, pomognite nam salanjem izvještaja o grešci, sve što trebate je kliknuti Uredu.</string>
+    <string name="crash_dialog_comment_prompt">Ako želite, dodajte komentar u polje ispod:</string>
+
+    <string name="warning">Upozorenje</string>
+    <string name="unsupported_version">Verzija vašeg Android uređaja nije podržana.</string>
+    <string name="network_unavailable">Mreža nije dostupna! Molimo, spojite se na Internet!</string>
+    <string name="downloads_permission">Prijenos nije moguć. Molimo, omogućite dozvole u sigurnosnim postavkama.</string>
+    <string name="info">Informacija</string>
+    <string name="close_session_question">Da li ste sigurni kako želite zatvoriti aktivni ekran?</string>
+    <string name="invalid_url">Neispravna URL adresa!</string>
+    <string name="error">Greška</string>
+    <string name="service_unavailable">Pristup udaljenom servisu nije moguć</string>
+    <string name="no_data">Nema spremljenih podataka</string>
+    <string name="service_not_set">URL servis nije postavljen</string>
+
+    <string name="description">Opis</string>
+    <string name="no_data_from_scanner">Nema podataka sa skenera</string>
+    <string name="no_plugins_installed">Dodatci nisu instalirani</string>
+    <string name="internal_detector">AI Barkod Skener</string>
+
+    <string name="wtma_invalid_service_url">Neispravan URL servisa, prebacivanje na postavke aplikacije!</string>
+
+    <string name="system_request">System Request</string>
+    <string name="enter_number">Unesite broj!</string>
+    <string name="printer">Printer</string>
+
+    <string name="printer_not_active">Printer nije aktivan.</string>
+    <string name="report_template">Obrazac izvještaja</string>
+    <string name="enter_template_name">Unesite naziv obrasca</string>
+    <string name="disconnect">Isključi</string>
+    <string name="already_activated">Već aktivirano :</string>
+    <string name="ssl_certificate_error">Sigurnosni certifikat - greška</string>
+    <string name="cert_authority_not_trusted">Sigurnosni certifikat nije pouzdan.</string>
+    <string name="cert_expired">Sigurnosni certifikat je istekao.</string>
+    <string name="cert_mismatch">Sigurnosni certifikat ne može se usporediti sa adresom servisa.</string>
+    <string name="cert_not_yet_valid">Sigurnosni certifikat još nije aktivan.</string>
+    <string name="do_you_want_to_continue">Želite li svejedno nastaviti?</string>
+    <string name="continue_btn">Nastavi</string>
+    <string name="delete">Obriši</string>
+    <string name="labelMacro">Snimanje Makroa</string>
+    <string name="title_activity_macro">Makroi</string>
+    <string name="msg_macro">Naziv makroa</string>
+    <string name="msg_macro_undefined">Makro nije definiran</string>
+
+    <string name="msg_barcode_invalid">Neispravni podatci. Provjerite da li je barkod format podržan.</string>
+    <string name="msg_barcode_error">Greška tijekom procesiranja barkoda.</string>
+
+    <string name="fileNotFound">Datoteka nije pronađena.</string>
+
+    <string name="pin_not_matched">PIN nije ipravan</string>
+    <string name="pin_not_set">PIN nije postavljen</string>
+
+
+    <string name="data_removed">Podaci su obrisani!</string>
+    <string name="config_data_required">UUID i Host su obavezan podatak!</string>
+
+    <!-- OTP messages-->
+    <string name="otp_invalid_token">\?? NEISPRAVAN TOKEN ??</string>
+    <string name="otp_token_unsupported">OTP Token format nije podržan!</string>
+    <string name="otp_data_required">Korisnik i Token su obavezan podatak!</string>
+    <string name="otp_token_title">OTP Token Unos</string>
+    <string name="otp_token_message">OTP Token Obavezan - Unesite podatak</string>
+    <string name="otp_token_title_reg">OTP Token Registracija</string>
+    <string name="action_settings">Opcije</string>
+    <string name="action_demo">Demo</string>
+    <string name="action_camera">Skeniraj</string>
+    <string name="saveBtn">Spremi</string>
+    <string name="submitBtn">Pošalji</string>
+    <string name="biometricBtn">Nastavi</string>
+    <string name="not_in_demo">Nije dostupno u demo verziji!</string>
+    <string name="tab_c_label">OSTALO</string>
+    <string name="tab_b_label">UREĐAJ</string>
+    <string name="tab_a_label">OSNOVNO</string>
+    <string name="file_too_big">Datoteka prevelika!</string>
+    <string name="wtma_sent">WTMA potvrđen</string>
+    <string name="webauth_title">Biometric</string>
+    <string name="webauth_required_message">Sva polja su obavezna</string>
+    <string name="otp_token_unsync">UPOZORENJE!!! Molimo provjerite da li je sistemsko vrijeme ispravno.</string>
+    <string name="labelKbar">Promijeni panel tipki</string>
+    <string name="offline_mode">Izvanmrežni način rada</string>
+    <string name="update_webview">Za upotrebu aplikacije ažurirajte web-engine na najnoviju verziju.</string>
+    <string name="pasteModeInfo">Način kopiranja / lijepljenja je promijenjen</string>
+    <string name="labelUpload">Prijenos datoteke</string>
+    <string name="labelDownload">Preuzimanje datoteke</string>
+    <string name="labelBarcode">Barkod</string>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">प्रतीक चिन्ह</string>
+      <string name="ok">ठीक</string>
+      <string name="cancel">रद्द करना</string>
+      <string name="change">परिवर्तन</string>
+      <string name="stop">रुकें</string>
+      <string name="disconnect">डिस्कनेक्ट</string>
+      <string name="enter_printer_name">प्रिंटर डिवाइस नाम दर्ज करें</string>
+      <string name="printer">मुद्रक</string>
+      <string name="enter_pin">पिन दर्ज करें</string>
+      <string name="enter_otp">OTP उपयोगकर्ता और टोकन दर्ज करें</string>
+      <string name="already_activated">पहले से ही सक्रिय :</string>
+      <string name="file_download">फ़ाइल डाउनलोड करें</string>
+      <string name="file_upload">दस्तावेज अपलोड करें</string>
+      <string name="rate_dialog_title">दरें। %s</string>
+      <string name="rate_dialog_message">यदि आपको %s का उपयोग करने में मज़ा आता है, तो कृपया हमें इसे रेटिंग करके मदद करें। इसमे केवल कुछ सेकंड्स लगते हैं।</string>
+      <string name="rate_dialog_action_rate">मूल्यांकन करें</string>
+      <string name="rate_dialog_action_never">जी नहीं, धन्यवाद</string>
+      <string name="rate_dialog_action_later">बाद में</string>
+      <string name="rate_dialog_thank_you">धन्यवाद!</string>
+ </resources>

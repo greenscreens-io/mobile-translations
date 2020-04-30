@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Информация о сервисе печати</string>
+      <string name="print_service_help_title_1">Получить плагин службы печати</string>
+      <string name="print_service_help_msg_1">У вас должен быть установлен плагин службы печати для печати. Каждый бренд принтера имеет свой собственный плагин, который позволяет печатать с вашего мобильного устройства. Также доступны стандартные сервисные плагины для печати. Выберите плагин, который подходит вам лучше всего. Вы можете добавить дополнительные плагины для печати в любое время.</string>
+      <string name="print_service_help_title_2">Включить плагин</string>
+      <string name="print_service_help_msg_2">После загрузки плагина службы печати вам будет предложено включить его. Просто выберите его и нажмите переключатель в положение «ВКЛ».</string>
+      <string name="plugin_manager_title">Диспетчер службы печати</string>
+      <string name="plugin_manager_sub_title">Вам нужен плагин Print Service установлен и включен для печати.</string>
+      <string name="before_enable_tips">Вы будете перенаправлены в Настройки печати Android.</string>
+      <string name="before_enable_tips_title">Включить ваш плагин</string>
+      <string name="ok">ПЕРЕЙДИТЕ В НАСТРОЙКИ</string>
+      <string name="cancel">ОТМЕНА</string>
+      <string name="enabled">Включено</string>
+      <string name="disabled">Отключено</string>
+ </resources>

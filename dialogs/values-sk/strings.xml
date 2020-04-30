@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">OK</string>
+      <string name="cancel">Zrušiť</string>
+      <string name="change">zmena</string>
+      <string name="stop">Stop</string>
+      <string name="disconnect">odpojiť</string>
+      <string name="enter_printer_name">Zadajte názov tlačového zariadenia</string>
+      <string name="printer">tlačiareň</string>
+      <string name="enter_pin">Zadajte PIN</string>
+      <string name="enter_otp">Zadajte používateľ OTP a token</string>
+      <string name="already_activated">Už aktivované:</string>
+      <string name="file_download">Stiahnuť súbor</string>
+      <string name="file_upload">Nahrajte súbor</string>
+      <string name="rate_dialog_title">Ohodnoťte %s.</string>
+      <string name="rate_dialog_message">Ak máte radi používanie %s, pomôžte nám to ohodnotením. Trvá to len pár sekúnd!</string>
+      <string name="rate_dialog_action_rate">rýchlosť</string>
+      <string name="rate_dialog_action_never">Nie ďakujem</string>
+      <string name="rate_dialog_action_later">neskôr</string>
+      <string name="rate_dialog_thank_you">Ďakujem!</string>
+ </resources>

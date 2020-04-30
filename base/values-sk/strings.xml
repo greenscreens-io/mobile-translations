@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Povolenie na zápis do miestneho úložiska bolo zamietnuté.</string>
+      <string name="show_keyboard">Zobraziť klávesnicu</string>
+      <string name="select_keyboard">Vyberte klávesnicu</string>
+      <string name="keyboard_notification">Oznámenie klávesnice je povolené.</string>
+      <string name="tap_to_open_keyboard">Klepnutím otvoríte klávesnicu Zelená obrazovka.</string>
+      <string name="tap_to_select_keyboard">Klepnutím vyberiete klávesnicu.</string>
+      <string name="no_intent_document">Žiadna žiadosť o použitie dokumentu</string>
+      <string name="print_mode_unsupported">Režim hlásenia nie je pre vybraný ovládač podporovaný</string>
+
+      <string name="help_download">Prebieha sťahovanie manuálu zo servera ...</string>
+      <string name="no_pdf_viewer">Prehliadač PDF sa nenašiel! Nainštalujte si jeden zo služby Google Play.</string>
+      <string name="no_file">Súbor nenájdený.</string>
+      <string name="no_print_data">Žiadne údaje na tlač.</string>
+      <string name="network_unavailable">Sieť nie je k dispozícii. Otvorte sieť WIFI alebo mobilnú sieť.</string>
+      <string name="internal_initialization">Prebieha inicializácia, skúste to znova o niekoľko sekúnd.</string>
+      <string name="print_error">Údaje sa nevytlačili</string>
+      <string name="printer_not_found">Tlačiareň Zebra sa nenašla</string>
+      <string name="multipart_upload">Multipart Upload</string>
+      <string name="cancel_upload">Zrušiť</string>
+      <string name="upload_cancelled">Nahrávanie bolo zrušené</string>
+      <string name="upload_success">Nahrávanie bolo úspešne dokončené o [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Chyba pri nahrávaní</string>
+      <string name="upload_title">Nahrávanie ...</string>
+      <string name="uploading">Odovzdané [[UPLOADED_FILES]] z [[TOTAL_FILES]] o [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Ovládač Zebra nie je nainštalovaný!</string>
+      <string name="youAreNotUpdatedTitle">Aktualizácia je dostupná</string>
+      <string name="youAreNotUpdatedMessage">K dispozícii je nová verzia terminálu Green Screens. \ NProsím aktualizujte na verziu!</string>
+      <string name="update">aktualizovať</string>
+      <string name="report_downloaded">Správa bola stiahnutá do zariadenia</string>
+      <string name="report_downloading">Preberanie hlásení zo servera</string>
+      <string name="report_print">Správa odoslať na tlač</string>
+      <string name="biometric_authenticate_ok">Biometricky overené</string>
+      <string name="biometric_validate_ok">Biometrické overené</string>
+      <string name="biometric_register_ok">Biometricky registrované</string>
+      <string name="biometric_unregister_ok">Biometrické neregistrované</string>
+      <string name="biometric_update_ok">Biometrické aktualizované</string>
+      <string name="biometric_error">Biometrické údaje nie sú registrované</string>
+ </resources>

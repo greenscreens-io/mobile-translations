@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">キーを押すと振動する</string>
+      <string name="borders">キーボーダー</string>
+      <string name="pref_keyboard_custom">カスタムテーマの色</string>
+      <string name="pref_keyboard_preview">プレビュー</string>
+      <string name="keyb2_custom_action_color_title">アクションカラー</string>
+      <string name="keyb2_custom_action_color_summary">フラットボタンの色</string>
+      <string name="keyb2_custom_background_color_title">バックグラウンド</string>
+      <string name="keyb2_custom_background_color_summary">キーボードの背景色</string>
+      <string name="keyb2_custom_button_color_title">キーカラー</string>
+      <string name="keyb2_custom_button_color_summary">境界線が有効な場合のキーの色</string>
+      <string name="keyb2_custom_button_border_color_title">キーボーダーカラー</string>
+      <string name="keyb2_custom_button_border_color_summary">ボーダーが有効な場合のキーの色</string>
+      <string name="keyb2_custom_shadow_color_title">背景の影</string>
+      <string name="keyb2_custom_shadow_color_summary">キーボード上部のボーダー色</string>
+      <string name="keyb2_custom_text_color_title">鍵ラベル</string>
+      <string name="keyb2_custom_text_color_summary">キーのメインラベルの色</string>
+      <string name="keyb2_custom_text_alt_color_title">キーラベル小</string>
+      <string name="keyb2_custom_text_alt_color_summary">キーの小さいラベルの色</string>
+ </resources>

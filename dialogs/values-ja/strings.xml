@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">ロゴ</string>
+      <string name="ok">OK</string>
+      <string name="cancel">キャンセル</string>
+      <string name="change">変化する</string>
+      <string name="stop">やめる</string>
+      <string name="disconnect">切断する</string>
+      <string name="enter_printer_name">プリンタデバイス名を入力してください</string>
+      <string name="printer">プリンター</string>
+      <string name="enter_pin">PINを入力</string>
+      <string name="enter_otp">OTPユーザーとトークンを入力</string>
+      <string name="already_activated">すでにアクティブ化されています：</string>
+      <string name="file_download">ダウンロードファイル</string>
+      <string name="file_upload">ファイルをアップロードする</string>
+      <string name="rate_dialog_title">レート%s。</string>
+      <string name="rate_dialog_message">%s の使用を楽しんでいる場合は、評価してください。数秒しかかかりません！</string>
+      <string name="rate_dialog_action_rate">割合</string>
+      <string name="rate_dialog_action_never">結構です</string>
+      <string name="rate_dialog_action_later">後</string>
+      <string name="rate_dialog_thank_you">ありがとうございました！</string>
+ </resources>

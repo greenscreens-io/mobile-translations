@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Tulostuspalvelun tiedot</string>
+      <string name="print_service_help_title_1">Hanki tulostuspalvelun laajennus</string>
+      <string name="print_service_help_msg_1">Tulostamiseen on oltava asennettuna tulostuspalvelulaajennus. Jokaisella tulostimella on oma laajennus, jonka avulla voit tulostaa mobiililaitteelta. Yleisiä tulostuspalvelulaajennuksia on myös saatavana. Valitse plugin, joka palvelee sinua parhaiten. Voit lisätä uusia tulostuslaajennuksia milloin tahansa.</string>
+      <string name="print_service_help_title_2">Ota laajennus käyttöön</string>
+      <string name="print_service_help_msg_2">Kun olet ladannut tulostuspalvelulaajennuksen, sinua pyydetään ottamaan laajennus käyttöön. Valitse vain se ja napauta kytkintä asentoon “ON”.</string>
+      <string name="plugin_manager_title">Tulostuspalvelupäällikkö</string>
+      <string name="plugin_manager_sub_title">Tarvitset tulostuspalvelun laajennuksen, joka on asennettu ja otettu käyttöön tulostamiseen.</string>
+      <string name="before_enable_tips">Sinut ohjataan Android-tulostusasetuksiin.</string>
+      <string name="before_enable_tips_title">Ota laajennus käyttöön</string>
+      <string name="ok">MENE ASETUKSIIN</string>
+      <string name="cancel">PERUUTTAA</string>
+      <string name="enabled">käytössä</string>
+      <string name="disabled">Liikuntarajoitteinen</string>
+ </resources>

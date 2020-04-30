@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibrer på tastetryk</string>
+      <string name="borders">Nøglegrænser</string>
+      <string name="pref_keyboard_custom">Tilpassede temafarver</string>
+      <string name="pref_keyboard_preview">Eksempel</string>
+      <string name="keyb2_custom_action_color_title">Handlingsfarve</string>
+      <string name="keyb2_custom_action_color_summary">Farve til flade knapper</string>
+      <string name="keyb2_custom_background_color_title">Baggrund</string>
+      <string name="keyb2_custom_background_color_summary">Baggrundsfarve på tastatur</string>
+      <string name="keyb2_custom_button_color_title">Nøglefarve</string>
+      <string name="keyb2_custom_button_color_summary">Tastefarve, hvis grænser er aktiveret</string>
+      <string name="keyb2_custom_button_border_color_title">Tastekantfarve</string>
+      <string name="keyb2_custom_button_border_color_summary">Key norder farve, hvis grænser er aktiveret</string>
+      <string name="keyb2_custom_shadow_color_title">Baggrundsskygge</string>
+      <string name="keyb2_custom_shadow_color_summary">Farve på tastaturets øverste kant</string>
+      <string name="keyb2_custom_text_color_title">Nøglemærke</string>
+      <string name="keyb2_custom_text_color_summary">Hovedetiketfarve</string>
+      <string name="keyb2_custom_text_alt_color_title">Nøglemærke lille</string>
+      <string name="keyb2_custom_text_alt_color_summary">Lille lille etiketfarve</string>
+ </resources>

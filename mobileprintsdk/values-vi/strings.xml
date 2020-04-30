@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Thông tin dịch vụ in</string>
+      <string name="print_service_help_title_1">Nhận một Plugin dịch vụ in</string>
+      <string name="print_service_help_msg_1">Bạn phải cài đặt plugin dịch vụ in để in. Mỗi thương hiệu máy in có plugin riêng cho phép bạn in từ thiết bị di động của mình. Các plugin dịch vụ in chung cũng có sẵn. Chọn plugin phục vụ bạn tốt nhất. Bạn có thể thêm bổ sung in bất cứ lúc nào.</string>
+      <string name="print_service_help_title_2">Kích hoạt Plugin</string>
+      <string name="print_service_help_msg_2">Sau khi tải xuống Plugin Dịch vụ In, bạn sẽ được nhắc bật plugin. Chỉ cần chọn nó và chạm vào công tắc để đến ON ON.</string>
+      <string name="plugin_manager_title">Quản lý dịch vụ in</string>
+      <string name="plugin_manager_sub_title">Bạn cần một Plugin Dịch vụ in được cài đặt và kích hoạt để in.</string>
+      <string name="before_enable_tips">Bạn sẽ được chuyển đến Cài đặt in của Android.</string>
+      <string name="before_enable_tips_title">Kích hoạt Plugin của bạn</string>
+      <string name="ok">ĐI CÀI ĐẶT</string>
+      <string name="cancel">HỦY BỎ</string>
+      <string name="enabled">Đã bật</string>
+      <string name="disabled">Tàn tật</string>
+ </resources>

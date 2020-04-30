@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Вібрація при натисканні клавіш</string>
+      <string name="borders">Ключові межі</string>
+      <string name="pref_keyboard_custom">Кольорові кольори теми</string>
+      <string name="pref_keyboard_preview">Попередній перегляд</string>
+      <string name="keyb2_custom_action_color_title">Колір дії</string>
+      <string name="keyb2_custom_action_color_summary">Колір для плоских кнопок</string>
+      <string name="keyb2_custom_background_color_title">Фон</string>
+      <string name="keyb2_custom_background_color_summary">Колір фону клавіатури</string>
+      <string name="keyb2_custom_button_color_title">Колір клавіш</string>
+      <string name="keyb2_custom_button_color_summary">Колір ключового кольору, якщо рамки включені</string>
+      <string name="keyb2_custom_button_border_color_title">Колір основного кордону</string>
+      <string name="keyb2_custom_button_border_color_summary">Колір основного кольору, якщо кордони включені</string>
+      <string name="keyb2_custom_shadow_color_title">Тень фону</string>
+      <string name="keyb2_custom_shadow_color_summary">Колір верхньої межі клавіатури</string>
+      <string name="keyb2_custom_text_color_title">Ключова мітка</string>
+      <string name="keyb2_custom_text_color_summary">Основний колір етикетки</string>
+      <string name="keyb2_custom_text_alt_color_title">Ключова мітка мала</string>
+      <string name="keyb2_custom_text_alt_color_summary">Основний невеликий колір етикетки</string>
+ </resources>

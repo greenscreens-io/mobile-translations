@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">rendben</string>
+      <string name="cancel">Megszünteti</string>
+      <string name="change">változás</string>
+      <string name="stop">Állj meg</string>
+      <string name="disconnect">szétkapcsol</string>
+      <string name="enter_printer_name">Írja be a nyomtató eszköz nevét</string>
+      <string name="printer">Nyomtató</string>
+      <string name="enter_pin">Írja be a PIN-kódot</string>
+      <string name="enter_otp">Írja be az OTP felhasználót és a tokent</string>
+      <string name="already_activated">Már aktivált:</string>
+      <string name="file_download">Fájl letöltése</string>
+      <string name="file_upload">Fájl feltöltés</string>
+      <string name="rate_dialog_title">Értékelje %s.</string>
+      <string name="rate_dialog_message">Ha szívesen használja a (z) %s felhasználót, kérjük, segítsen nekünk, ha osztályozza azt. Csak néhány másodpercig tart!</string>
+      <string name="rate_dialog_action_rate">Mérték</string>
+      <string name="rate_dialog_action_never">Nem köszönöm</string>
+      <string name="rate_dialog_action_later">Majd később</string>
+      <string name="rate_dialog_thank_you">Köszönöm!</string>
+ </resources>

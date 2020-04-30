@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="arrRegister">Register</string>
+    <string name="arrUnregister">Unregister</string>
+    <string name="arrTest">Test</string>
+    <string name="arrUpdate">Update</string>
+    <string name="arrStart">Start</string>
+    <string name="arrEdit">Edit</string>
+    <string name="arrRemove">Remove</string>
+    <string name="arrBiometric">Biometric</string>
+
+    <string name="arrCamerascan">Camera Scan</string>
+    <string name="arrManualentry">Manual Entry</string>
+    <string name="arrRegtoken">Register Token</string>
+    <string name="arrRegbio">Register Biometric</string>
+</resources>

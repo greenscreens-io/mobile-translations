@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Màn hình xanh 5250 Terminal với máy quét mã vạch. Tìm hiểu thêm tại www.g Greensc Greens.io</string>
+
+      <string name="title_configs">Chọn cấu hình</string>
+      <string name="title_plugins">Chọn plugin</string>
+      <string name="title_help">Màn hình xanh - Trợ giúp</string>
+      <string name="selectAction">Chọn hành động</string>
+      <string name="cancel">Hủy bỏ</string>
+      <string name="ok">đồng ý</string>
+      <string name="data_removed">Dữ liệu bị xóa!</string>
+      <string name="config_data_required">UUID và Host là các giá trị bắt buộc!</string>
+      <string name="otp_data_required">Người dùng và mã thông báo là giá trị bắt buộc!</string>
+
+      <string name="loading">Đang tải…</string>
+      <string name="action_tutors">Hướng dẫn</string>
+
+      <string name="action_help">Cứu giúp</string>
+      <string name="action_about">Trong khoảng</string>
+
+      <string name="labelBarcode">Mã vạch</string>
+      <string name="labelPrinter">Máy in</string>
+      <string name="labelLockRotate">Khóa xoay</string>
+      <string name="labelSplitScreen">Màn hình chia nhỏ</string>
+      <string name="labelTheme">Chuyển chủ đề</string>
+      <string name="labelTemplate">Mẫu Spool</string>
+      <string name="labelDownload">Tập tin tải về</string>
+      <string name="labelUpload">Tải tệp lên</string>
+      <string name="pasteModeInfo">Chế độ sao chép / dán đã thay đổi</string>
+      <string name="crash_toast_text">Ôi! Tôi đã gặp sự cố, nhưng một báo cáo đã được gửi đến nhà phát triển của tôi để giúp khắc phục sự cố!</string>
+      <string name="crash_dialog_title">Nhà ga đã bị sập</string>
+      <string name="crash_dialog_text">Đã xảy ra lỗi không mong muốn buộc ứng dụng dừng lại. Vui lòng giúp chúng tôi khắc phục điều này bằng cách gửi cho chúng tôi dữ liệu lỗi, tất cả những gì bạn phải làm là nhấp vào OK.</string>
+      <string name="crash_dialog_comment_prompt">Bạn có thể thêm ý kiến của bạn về vấn đề dưới đây:</string>
+      <string name="msg_macro">Tên macro</string>
+      <string name="msg_macro_undefined">Macro không được xác định</string>
+      <string name="msg_barcode_invalid">Dữ liệu không hợp lệ, kiểm tra nếu quét mã vạch sai!</string>
+      <string name="msg_barcode_error">Lỗi trong khi xử lý mã vạch.</string>
+      <string name="action_settings">Cài đặt</string>
+      <string name="action_demo">Trình diễn</string>
+      <string name="action_camera">Quét</string>
+      <string name="saveBtn">Tiết kiệm</string>
+      <string name="submitBtn">Gửi đi</string>
+    <string name="warning">Cảnh báo</string>
+      <string name="unsupported_version">Phiên bản Android này không được hỗ trợ.</string>
+      <string name="update_webview">Để sử dụng ứng dụng, vui lòng cập nhật công cụ web lên phiên bản mới nhất.</string>
+      <string name="network_unavailable">Không có mạng! Vui lòng mở kết nối mạng!</string>
+      <string name="downloads_permission">Tải xuống không có sẵn. Xin vui lòng, kích hoạt quyền ứng dụng.</string>
+      <string name="info">Thông tin</string>
+      <string name="close_session_question">Bạn có chắc chắn muốn đóng phiên này?</string>
+      <string name="invalid_url">Url không hợp lệ!</string>
+      <string name="error">lỗi</string>
+      <string name="service_unavailable">Không thể truy cập dịch vụ từ xa</string>
+      <string name="no_data">Không có dữ liệu cấu hình đã lưu</string>
+      <string name="service_not_set">URL dịch vụ không được đặt</string>
+      <string name="description">Sự miêu tả</string>
+      <string name="no_data_from_scanner">Không có dữ liệu từ máy quét</string>
+      <string name="no_plugins_installed">Không có plugin nào được cài đặt</string>
+      <string name="internal_detector">Máy quét mã vạch AI</string>
+      <string name="wtma_invalid_service_url">Url dịch vụ mã vạch không hợp lệ, chuyển sang mặc định!</string>
+      <string name="offline_mode">Chế độ ngoại tuyến</string>
+      <string name="system_request">Yêu cầu hệ thống</string>
+      <string name="enter_number">Nhập số!</string>
+      <string name="printer">Máy in</string>
+      <string name="printer_not_active">Máy in không hoạt động.</string>
+      <string name="report_template">Mẫu báo cáo</string>
+      <string name="enter_template_name">Nhập tên mẫu!</string>
+      <string name="disconnect">Ngắt kết nối</string>
+      <string name="already_activated">Đã được kích hoạt :</string>
+      <string name="ssl_certificate_error">Lỗi chứng chỉ SSL.</string>
+      <string name="cert_authority_not_trusted">Cơ quan cấp chứng chỉ không đáng tin cậy.</string>
+      <string name="cert_expired">Giấy chứng nhận đã hết hạn.</string>
+      <string name="cert_mismatch">Giấy chứng nhận Tên máy chủ không khớp.</string>
+      <string name="cert_not_yet_valid">Giấy chứng nhận chưa hợp lệ.</string>
+      <string name="do_you_want_to_continue">Bạn có muốn tiếp tục không?</string>
+      <string name="continue_btn">Tiếp tục</string>
+      <string name="labelMacro">Bản ghi vĩ mô</string>
+      <string name="delete">Xóa bỏ</string>
+      <string name="title_activity_macro">Macro</string>
+
+      <string name="fileNotFound">Tập tin không tồn tại.</string>
+
+      <string name="pin_not_matched">PIN không khớp</string>
+      <string name="pin_not_set">PIN không được đặt</string>
+      <string name="labelKbar">Chuyển thanh phím</string>
+      <string name="otp_invalid_token">\ ?? MÃ KHÔNG HỢP LỆ ??</string>
+      <string name="otp_token_unsupported">Mã thông báo OTP không được hỗ trợ</string>
+      <string name="otp_token_title">Nhập mã thông báo OTP</string>
+      <string name="otp_token_title_reg">Đăng ký mã thông báo OTP</string>
+      <string name="otp_token_message">Yêu cầu mã thông báo OTP - Nhập thông tin xác thực</string>
+      <string name="otp_token_unsync">CẢNH BÁO!!! Vui lòng kiểm tra nếu thời gian hệ thống được đồng bộ hóa.</string>
+      <string name="webauth_required_message">Tất cả các lĩnh vực được yêu cầu</string>
+      <string name="webauth_title">Sinh trắc học</string>
+      <string name="wtma_sent">WTMA đã xác nhận</string>
+      <string name="file_too_big">Tệp quá lớn để mở!</string>
+      <string name="biometricBtn">Tiếp tục</string>
+      <string name="not_in_demo">Không có sẵn trong chế độ demo!</string>
+      <string name="tab_a_label">CHUNG</string>
+      <string name="tab_b_label">THIẾT BỊ</string>
+      <string name="tab_c_label">KHÁC</string>
+ </resources>

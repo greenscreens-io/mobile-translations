@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">يهتز عند ضغط الزر</string>
+      <string name="borders">الحدود الرئيسية</string>
+      <string name="pref_keyboard_custom">ألوان السمة المخصصة</string>
+      <string name="pref_keyboard_preview">معاينة</string>
+      <string name="keyb2_custom_action_color_title">لون العمل</string>
+      <string name="keyb2_custom_action_color_summary">لون الأزرار المسطحة</string>
+      <string name="keyb2_custom_background_color_title">خلفية</string>
+      <string name="keyb2_custom_background_color_summary">لون خلفية لوحة المفاتيح</string>
+      <string name="keyb2_custom_button_color_title">لون المفتاح</string>
+      <string name="keyb2_custom_button_color_summary">لون المفتاح إذا تم تمكين الحدود</string>
+      <string name="keyb2_custom_button_border_color_title">لون حد المفتاح</string>
+      <string name="keyb2_custom_button_border_color_summary">لون أمر المفتاح إذا تم تمكين الحدود</string>
+      <string name="keyb2_custom_shadow_color_title">ظل الخلفية</string>
+      <string name="keyb2_custom_shadow_color_summary">لون الحد العلوي للوحة المفاتيح</string>
+      <string name="keyb2_custom_text_color_title">التسمية الرئيسية</string>
+      <string name="keyb2_custom_text_color_summary">لون الملصق الرئيسي</string>
+      <string name="keyb2_custom_text_alt_color_title">تسمية مفتاح صغير</string>
+      <string name="keyb2_custom_text_alt_color_summary">لون الملصق الرئيسي الصغير</string>
+ </resources>

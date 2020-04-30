@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Lupa kielletty kirjoittamasta paikalliseen tallennustilaan.</string>
+      <string name="show_keyboard">Näytä näppäimistö</string>
+      <string name="select_keyboard">Valitse Näppäimistö</string>
+      <string name="keyboard_notification">Näppäimistö-ilmoitus käytössä.</string>
+      <string name="tap_to_open_keyboard">Napauta avataksesi Vihreät näytöt -näppäimistön.</string>
+      <string name="tap_to_select_keyboard">Napauta valitaksesi näppäimistön.</string>
+      <string name="no_intent_document">Ei sovellusta asiakirjan käyttämiseen</string>
+      <string name="print_mode_unsupported">Raporttilaa ei tueta valitulle ohjaimelle</string>
+
+      <string name="help_download">Ladataan käyttöopasta palvelimelta ...</string>
+      <string name="no_pdf_viewer">PDF-katseluohjelmaa ei löytynyt! Asenna yksi Google Playsta.</string>
+      <string name="no_file">Tiedostoa ei löytynyt.</string>
+      <string name="no_print_data">Ei tulostettavia tietoja.</string>
+      <string name="network_unavailable">Verkkoa ei ole saatavana. Avaa WIFI- tai mobiiliverkko.</string>
+      <string name="internal_initialization">Alustaminen prosessissa, yritä uudelleen muutamassa sekunnissa.</string>
+      <string name="print_error">Tietoja ei tulostettu</string>
+      <string name="printer_not_found">Seepatulostinta ei löydy</string>
+      <string name="multipart_upload">Moniosainen lataus</string>
+      <string name="cancel_upload">Peruuttaa</string>
+      <string name="upload_cancelled">Lataa on peruutettu</string>
+      <string name="upload_success">Lähettäminen suoritettu onnistuneesti [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Virhe ladattaessa</string>
+      <string name="upload_title">Lataaminen ...</string>
+      <string name="uploading">Lähettänyt [[UPLOADED_FILES]] / [[TOTAL_FILES]]] kohdasta [UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra-ohjainta ei ole asennettu!</string>
+      <string name="youAreNotUpdatedTitle">Päivitys saatavilla</string>
+      <string name="youAreNotUpdatedMessage">Uusi versio Green Screens Terminalista on saatavana. \ NPäivitä versioon!</string>
+      <string name="update">Päivittää</string>
+      <string name="report_downloaded">Raportti ladattu laitteeseen</string>
+      <string name="report_downloading">Ilmoita lataaminen palvelimelta</string>
+      <string name="report_print">Raportti lähetetään tulostettavaksi</string>
+      <string name="biometric_authenticate_ok">Biometrinen todennettu</string>
+      <string name="biometric_validate_ok">Biometrinen validointi</string>
+      <string name="biometric_register_ok">Biometrinen rekisteröity</string>
+      <string name="biometric_unregister_ok">Biometrinen rekisteröimätön</string>
+      <string name="biometric_update_ok">Biometrinen päivitys</string>
+      <string name="biometric_error">Biometrisiä tietoja ei rekisteröity</string>
+ </resources>

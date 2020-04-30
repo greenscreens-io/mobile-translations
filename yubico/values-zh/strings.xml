@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="password_hint">密码</string>
+      <string name="password_remember">记得</string>
+ </resources>

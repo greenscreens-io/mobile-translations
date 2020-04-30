@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">لرزش در مطبوعات کلید</string>
+      <string name="borders">مرزهای کلیدی</string>
+      <string name="pref_keyboard_custom">رنگ های سفارشی تم</string>
+      <string name="pref_keyboard_preview">پیش نمایش</string>
+      <string name="keyb2_custom_action_color_title">رنگ عمل</string>
+      <string name="keyb2_custom_action_color_summary">رنگ دکمه های تخت</string>
+      <string name="keyb2_custom_background_color_title">زمینه</string>
+      <string name="keyb2_custom_background_color_summary">رنگ پس زمینه صفحه کلید</string>
+      <string name="keyb2_custom_button_color_title">رنگ کلیدی</string>
+      <string name="keyb2_custom_button_color_summary">در صورت فعال بودن مرزها ، کلید اصلی</string>
+      <string name="keyb2_custom_button_border_color_title">رنگ حاشیه کلید</string>
+      <string name="keyb2_custom_button_border_color_summary">در صورت فعال بودن مرزها ، رنگ کلید اصلی</string>
+      <string name="keyb2_custom_shadow_color_title">سایه پس زمینه</string>
+      <string name="keyb2_custom_shadow_color_summary">رنگ حاشیه صفحه کلید</string>
+      <string name="keyb2_custom_text_color_title">برچسب کلیدی</string>
+      <string name="keyb2_custom_text_color_summary">رنگ برچسب اصلی</string>
+      <string name="keyb2_custom_text_alt_color_title">برچسب اصلی کوچک است</string>
+      <string name="keyb2_custom_text_alt_color_summary">رنگ برچسب کوچک</string>
+ </resources>

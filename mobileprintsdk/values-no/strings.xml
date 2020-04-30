@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="title_activity_print_service_plugin_info">Informasjon om utskriftsservice</string>
+      <string name="print_service_help_title_1">Få en utskriftsservice-plugin</string>
+      <string name="print_service_help_msg_1">Du må ha en plugin for utskriftstjeneste installert for å skrive ut. Hvert merke skriver har sin egen plugin som lar deg skrive ut fra din mobile enhet. Generiske utskriftsservice plugins er også tilgjengelige. Velg plugin som tjener deg best. Du kan legge til flere utskriftsprogrammer når som helst.</string>
+      <string name="print_service_help_title_2">Aktiver plugin</string>
+      <string name="print_service_help_msg_2">Etter at du har lastet ned en Print Service-plugin, blir du bedt om å aktivere plugin-modulen din. Bare velg den og trykk på bryteren til “ON”.</string>
+      <string name="plugin_manager_title">Print Service Manager</string>
+      <string name="plugin_manager_sub_title">Du trenger en Print Service Plugin installert og aktivert for å skrive ut.</string>
+      <string name="before_enable_tips">Du blir ledet til Android Print Settings.</string>
+      <string name="before_enable_tips_title">Aktiver plugin-modulen din</string>
+      <string name="ok">GÅ TIL INNSTILLINGER</string>
+      <string name="cancel">AVBRYT</string>
+      <string name="enabled">aktivert</string>
+      <string name="disabled">Funksjonshemmet</string>
+ </resources>

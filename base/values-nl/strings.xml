@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Toestemming geweigerd om naar lokale opslag te schrijven.</string>
+      <string name="show_keyboard">Toetsenbord weergeven</string>
+      <string name="select_keyboard">Selecteer Toetsenbord</string>
+      <string name="keyboard_notification">Toetsenbordmelding ingeschakeld.</string>
+      <string name="tap_to_open_keyboard">Tik om het Green Screens-toetsenbord te openen.</string>
+      <string name="tap_to_select_keyboard">Tik om het toetsenbord te selecteren.</string>
+      <string name="no_intent_document">Geen applicatie om document te gebruiken</string>
+      <string name="print_mode_unsupported">Rapportmodus wordt niet ondersteund voor geselecteerde bestuurder</string>
+
+      <string name="help_download">Handleiding downloaden van server ...</string>
+      <string name="no_pdf_viewer">PDF Viewer niet gevonden! Installeer er een van Google Play.</string>
+      <string name="no_file">Bestand niet gevonden.</string>
+      <string name="no_print_data">Geen gegevens om af te drukken.</string>
+      <string name="network_unavailable">Netwerk niet beschikbaar. Open WIFI of mobiel netwerk.</string>
+      <string name="internal_initialization">De initialisatie wordt uitgevoerd. Probeer het over enkele seconden opnieuw.</string>
+      <string name="print_error">Gegevens niet afgedrukt</string>
+      <string name="printer_not_found">Zebra Printer niet gevonden</string>
+      <string name="multipart_upload">Meerdelige upload</string>
+      <string name="cancel_upload">annuleren</string>
+      <string name="upload_cancelled">Uploaden is geannuleerd</string>
+      <string name="upload_success">Uploaden voltooid in [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Fout bij uploaden</string>
+      <string name="upload_title">Uploaden ...</string>
+      <string name="uploading">Uploadde [[UPLOADED_FILES]] van [[TOTAL_FILES]] om [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra Driver niet geïnstalleerd!</string>
+      <string name="youAreNotUpdatedTitle">Update beschikbaar</string>
+      <string name="youAreNotUpdatedMessage">Er is een nieuwe versie van Green Screens Terminal beschikbaar. \ NUpdate naar versie!</string>
+      <string name="update">Bijwerken</string>
+      <string name="report_downloaded">Rapport gedownload naar het apparaat</string>
+      <string name="report_downloading">Rapport downloaden van server</string>
+      <string name="report_print">Rapport verzenden om af te drukken</string>
+      <string name="biometric_authenticate_ok">Biometrisch geverifieerd</string>
+      <string name="biometric_validate_ok">Biometrisch gevalideerd</string>
+      <string name="biometric_register_ok">Biometrisch geregistreerd</string>
+      <string name="biometric_unregister_ok">Biometrisch niet geregistreerd</string>
+      <string name="biometric_update_ok">Biometrisch bijgewerkt</string>
+      <string name="biometric_error">Biometrisch niet geregistreerd</string>
+ </resources>

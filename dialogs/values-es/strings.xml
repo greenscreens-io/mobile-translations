@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="desc_logo">logo</string>
+      <string name="ok">Okay</string>
+      <string name="cancel">Cancelar</string>
+      <string name="change">Cambio</string>
+      <string name="stop">Detener</string>
+      <string name="disconnect">Desconectar</string>
+      <string name="enter_printer_name">Ingrese el nombre del dispositivo de la impresora</string>
+      <string name="printer">Impresora</string>
+      <string name="enter_pin">Ingrese su PIN</string>
+      <string name="enter_otp">Ingrese usuario y token de OTP</string>
+      <string name="already_activated">Ya activado :</string>
+      <string name="file_download">Descargar archivo</string>
+      <string name="file_upload">Subir archivo</string>
+      <string name="rate_dialog_title">Tasa %s.</string>
+      <string name="rate_dialog_message">Si le gusta usar %s, ayúdenos calificándolo. Solo toma unos segundos!</string>
+      <string name="rate_dialog_action_rate">Velocidad</string>
+      <string name="rate_dialog_action_never">No, gracias</string>
+      <string name="rate_dialog_action_later">Más tarde</string>
+      <string name="rate_dialog_thank_you">¡Gracias!</string>
+ </resources>

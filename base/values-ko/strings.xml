@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">로컬 저장소에 대한 쓰기 권한이 거부되었습니다.</string>
+      <string name="show_keyboard">키보드 표시</string>
+      <string name="select_keyboard">키보드 선택</string>
+      <string name="keyboard_notification">키보드 알림이 활성화되었습니다.</string>
+      <string name="tap_to_open_keyboard">녹색 화면 키보드를 열려면 누릅니다.</string>
+      <string name="tap_to_select_keyboard">키보드를 선택하려면 누릅니다.</string>
+      <string name="no_intent_document">문서를 사용할 수있는 신청서가 없습니다</string>
+      <string name="print_mode_unsupported">선택한 드라이버에 대해 보고서 모드가 지원되지 않습니다</string>
+
+      <string name="help_download">서버에서 매뉴얼 다운로드 중 ...</string>
+      <string name="no_pdf_viewer">PDF 뷰어를 찾을 수 없습니다! Google Play에서 설치하십시오.</string>
+      <string name="no_file">파일을 찾을 수 없습니다.</string>
+      <string name="no_print_data">인쇄 할 데이터가 없습니다.</string>
+      <string name="network_unavailable">네트워크를 사용할 수 없습니다. WIFI 또는 모바일 네트워크를여십시오.</string>
+      <string name="internal_initialization">초기화가 진행 중입니다. 몇 초 후에 다시 시도하십시오.</string>
+      <string name="print_error">인쇄되지 않은 데이터</string>
+      <string name="printer_not_found">Zebra 프린터를 찾을 수 없습니다</string>
+      <string name="multipart_upload">멀티 파트 업로드</string>
+      <string name="cancel_upload">취소</string>
+      <string name="upload_cancelled">업로드가 취소되었습니다</string>
+      <string name="upload_success">[[ELAPSED_TIME]]에 업로드가 완료되었습니다.</string>
+      <string name="upload_error">업로드 중 오류</string>
+      <string name="upload_title">업로드 중 ...</string>
+      <string name="uploading">[[UPLOAD_RATE]]-[[PROGRESS]]에 [[TOTAL_FILES]]의 [[UPLOADED_FILES]]을 (를) 업로드했습니다.</string>
+      <string name="ZEBRA_NOT_FOUND">Zebra 드라이버가 설치되지 않았습니다!</string>
+      <string name="youAreNotUpdatedTitle">사용 가능한 업데이트</string>
+      <string name="youAreNotUpdatedMessage">새로운 버전의 Green Screens Terminal을 사용할 수 있습니다. \ n 버전으로 업데이트하십시오!</string>
+      <string name="update">최신 정보</string>
+      <string name="report_downloaded">장치에 보고서 다운로드</string>
+      <string name="report_downloading">서버에서 보고서 다운로드</string>
+      <string name="report_print">인쇄 보내기</string>
+      <string name="biometric_authenticate_ok">생체 인증</string>
+      <string name="biometric_validate_ok">생체 인식</string>
+      <string name="biometric_register_ok">생체 등록</string>
+      <string name="biometric_unregister_ok">생체 인식 미등록</string>
+      <string name="biometric_update_ok">생체 인식 업데이트</string>
+      <string name="biometric_error">생체 인식 미등록</string>
+ </resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">A felismeréshez hozzáférni kell a kamerához</string>
+      <string name="permission_warning">Engedély figyelmeztetés</string>
+      <string name="no_camera_permission">A vonalkód-felismerés nem futtatható, mert nem rendelkezik a kamera engedélyével.</string>
+      <string name="low_storage_error">A vonalkód-érzékelők függőségei nem tölthetők le az eszköz alacsony tárolása miatt</string>
+ </resources>

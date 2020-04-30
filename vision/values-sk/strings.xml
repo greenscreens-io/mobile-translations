@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Na detekciu je potrebný prístup k fotoaparátu</string>
+      <string name="permission_warning">Varovanie o povolení</string>
+      <string name="no_camera_permission">Rozpoznávanie čiarových kódov sa nedá spustiť, pretože nemá povolenie fotoaparátu.</string>
+      <string name="low_storage_error">Závislosti detektora čiarového kódu nie je možné stiahnuť kvôli malému úložisku zariadenia</string>
+ </resources>

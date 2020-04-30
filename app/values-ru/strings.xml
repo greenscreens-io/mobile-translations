@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Зеленые экраны Терминал 5250 со сканером штрих-кода. Узнайте больше на www.greenscreens.io</string>
+
+      <string name="title_configs">Выберите конфигурацию</string>
+      <string name="title_plugins">Выберите плагин</string>
+      <string name="title_help">Зеленые экраны - Помощь</string>
+      <string name="selectAction">Выберите действие</string>
+      <string name="cancel">Отмена</string>
+      <string name="ok">Хорошо</string>
+      <string name="data_removed">Данные удалены!</string>
+      <string name="config_data_required">UUID и Host - обязательные значения!</string>
+      <string name="otp_data_required">Пользователь и токен являются обязательными значениями!</string>
+
+      <string name="loading">Loading ...</string>
+      <string name="action_tutors">Учебники</string>
+
+      <string name="action_help">Помогите</string>
+      <string name="action_about">Около</string>
+
+      <string name="labelBarcode">Штрих-код</string>
+      <string name="labelPrinter">принтер</string>
+      <string name="labelLockRotate">Блокировка поворота</string>
+      <string name="labelSplitScreen">Разделенный экран</string>
+      <string name="labelTheme">Переключить тему</string>
+      <string name="labelTemplate">Золотник</string>
+      <string name="labelDownload">Загрузка файла</string>
+      <string name="labelUpload">Файл загружен</string>
+      <string name="pasteModeInfo">Режим копирования / вставки изменен</string>
+      <string name="crash_toast_text">Оооопс! Я разбился, но мой разработчик отправил отчет, чтобы помочь решить проблему!</string>
+      <string name="crash_dialog_title">Терминал разбился</string>
+      <string name="crash_dialog_text">Произошла непредвиденная ошибка, заставившая приложение остановиться. Пожалуйста, помогите нам исправить это, отправив нам данные об ошибках, все, что вам нужно сделать, это нажать ОК.</string>
+      <string name="crash_dialog_comment_prompt">Вы можете добавить свои комментарии о проблеме ниже:</string>
+      <string name="msg_macro">Имя макроса</string>
+      <string name="msg_macro_undefined">Макрос не определен</string>
+      <string name="msg_barcode_invalid">Неверные данные, проверьте, не отсканирован ли неправильный штрих-код!</string>
+      <string name="msg_barcode_error">Ошибка при обработке штрих-кода.</string>
+      <string name="action_settings">настройки</string>
+      <string name="action_demo">демос</string>
+      <string name="action_camera">сканирование</string>
+      <string name="saveBtn">Сохранить</string>
+      <string name="submitBtn">Разместить</string>
+    <string name="warning">Предупреждение</string>
+      <string name="unsupported_version">Эта версия Android не поддерживается.</string>
+      <string name="update_webview">Чтобы использовать приложение, пожалуйста, обновите веб-движок до последней версии.</string>
+      <string name="network_unavailable">Сеть недоступна! Пожалуйста, откройте подключение к сети!</string>
+      <string name="downloads_permission">Загрузки недоступны. Пожалуйста, включите разрешения приложения.</string>
+      <string name="info">Информация</string>
+      <string name="close_session_question">Вы уверены, что хотите закрыть эту сессию?</string>
+      <string name="invalid_url">Неправильный адрес!</string>
+      <string name="error">ошибка</string>
+      <string name="service_unavailable">Невозможно получить доступ к удаленному сервису</string>
+      <string name="no_data">Нет сохраненных данных конфигурации</string>
+      <string name="service_not_set">URL службы не задан</string>
+      <string name="description">Описание</string>
+      <string name="no_data_from_scanner">Нет данных со сканера</string>
+      <string name="no_plugins_installed">Плагины не установлены</string>
+      <string name="internal_detector">AI сканер штрих-кода</string>
+      <string name="wtma_invalid_service_url">Неверный URL-адрес службы штрих-кода, по умолчанию!</string>
+      <string name="offline_mode">Автономный режим</string>
+      <string name="system_request">Системный запрос</string>
+      <string name="enter_number">Введите номер!</string>
+      <string name="printer">принтер</string>
+      <string name="printer_not_active">Принтер не активен.</string>
+      <string name="report_template">Шаблон отчета</string>
+      <string name="enter_template_name">Введите название шаблона!</string>
+      <string name="disconnect">Отключить</string>
+      <string name="already_activated">Уже активирован:</string>
+      <string name="ssl_certificate_error">Ошибка SSL-сертификата.</string>
+      <string name="cert_authority_not_trusted">Центр сертификации не является доверенным.</string>
+      <string name="cert_expired">Срок действия сертификата истек.</string>
+      <string name="cert_mismatch">Несоответствие имени хоста сертификата.</string>
+      <string name="cert_not_yet_valid">Сертификат еще не действителен.</string>
+      <string name="do_you_want_to_continue">Вы все равно хотите продолжить?</string>
+      <string name="continue_btn">Продолжить</string>
+      <string name="labelMacro">Запись макроса</string>
+      <string name="delete">удалять</string>
+      <string name="title_activity_macro">макрос</string>
+
+      <string name="fileNotFound">Файл не существует</string>
+      <string name="pin_not_matched">PIN-код не совпадает</string>
+      <string name="pin_not_set">PIN-код не установлен</string>
+      <string name="labelKbar">Переключить клавиатуру</string>
+      <string name="otp_invalid_token">\ ?? НЕВЕРНЫЙ ЖЕЛЕЗ ??</string>
+      <string name="otp_token_unsupported">OTP Token не поддерживается</string>
+      <string name="otp_token_title">OTP Token Entry</string>
+      <string name="otp_token_title_reg">Регистрация OTP-токена</string>
+      <string name="otp_token_message">Требуется OTP-токен - введите учетные данные</string>
+      <string name="otp_token_unsync">ПРЕДУПРЕЖДЕНИЕ!!! Пожалуйста, проверьте, синхронизировано ли системное время.</string>
+      <string name="webauth_required_message">Все поля обязательны для заполнения</string>
+      <string name="webauth_title">Биометрические</string>
+      <string name="wtma_sent">WTMA подтвержден</string>
+      <string name="file_too_big">Файл слишком большой для открытия!</string>
+      <string name="biometricBtn">Продолжить</string>
+      <string name="not_in_demo">Недоступно в демонстрационном режиме!</string>
+      <string name="tab_a_label">ГЕНЕРАЛЬНЫЙ</string>
+      <string name="tab_b_label">УСТРОЙСТВО</string>
+      <string name="tab_c_label">ДРУГОЙ</string>
+ </resources>

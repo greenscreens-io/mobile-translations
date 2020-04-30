@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Άρνηση άδειας για εγγραφή στον τοπικό χώρο αποθήκευσης.</string>
+      <string name="show_keyboard">Εμφάνιση πληκτρολογίου</string>
+      <string name="select_keyboard">Επιλέξτε Πληκτρολόγιο</string>
+      <string name="keyboard_notification">Η ειδοποίηση πληκτρολογίου ενεργοποιήθηκε.</string>
+      <string name="tap_to_open_keyboard">Πατήστε για να ανοίξετε το πληκτρολόγιο πράσινων οθονών.</string>
+      <string name="tap_to_select_keyboard">Πατήστε για να επιλέξετε πληκτρολόγιο.</string>
+      <string name="no_intent_document">Δεν υπάρχει εφαρμογή για χρήση εγγράφου</string>
+      <string name="print_mode_unsupported">Η λειτουργία αναφοράς δεν υποστηρίζεται για επιλεγμένο πρόγραμμα οδήγησης</string>
+
+      <string name="help_download">Λήψη εγχειριδίου από διακομιστή ...</string>
+      <string name="no_pdf_viewer">Το πρόγραμμα προβολής PDF δεν βρέθηκε! Εγκαταστήστε ένα από το Google Play.</string>
+      <string name="no_file">Το αρχείο δε βρέθηκε.</string>
+      <string name="no_print_data">Δεν υπάρχουν δεδομένα για εκτύπωση.</string>
+      <string name="network_unavailable">Το δίκτυο δεν είναι διαθέσιμο. Ανοίξτε WIFI ή δίκτυο κινητής τηλεφωνίας.</string>
+      <string name="internal_initialization">Εκκίνηση σε διαδικασία, δοκιμάστε ξανά σε λίγα δευτερόλεπτα.</string>
+      <string name="print_error">Τα δεδομένα δεν εκτυπώνονται</string>
+      <string name="printer_not_found">Ο εκτυπωτής Zebra δεν βρέθηκε</string>
+      <string name="multipart_upload">Πολλαπλή μεταφόρτωση</string>
+      <string name="cancel_upload">Ματαίωση</string>
+      <string name="upload_cancelled">Η μεταφόρτωση ακυρώθηκε</string>
+      <string name="upload_success">Η μεταφόρτωση ολοκληρώθηκε με επιτυχία στις [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Σφάλμα κατά τη μεταφόρτωση</string>
+      <string name="upload_title">Μεταφόρτωση ...</string>
+      <string name="uploading">Μεταφορτώθηκε [[UPLOADED_FILES]] από [[TOTAL_FILES]] στις [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Το πρόγραμμα οδήγησης Zebra δεν έχει εγκατασταθεί!</string>
+      <string name="youAreNotUpdatedTitle">Διαθέσιμη ενημέρωση</string>
+      <string name="youAreNotUpdatedMessage">Διατίθεται μια νέα έκδοση του τερματικού πράσινων οθονών. \ NΕνημερώστε την στην έκδοση!</string>
+      <string name="update">Εκσυγχρονίζω</string>
+      <string name="report_downloaded">Η αναφορά λήφθηκε στη συσκευή</string>
+      <string name="report_downloading">Λήψη αναφοράς από διακομιστή</string>
+      <string name="report_print">Αναφορά αποστολής για εκτύπωση</string>
+      <string name="biometric_authenticate_ok">Βιομετρικό έλεγχο ταυτότητας</string>
+      <string name="biometric_validate_ok">Βιομετρική επικυρωμένη</string>
+      <string name="biometric_register_ok">Βιομετρική καταχωρημένη</string>
+      <string name="biometric_unregister_ok">Βιομετρικά μη καταχωρημένα</string>
+      <string name="biometric_update_ok">Η βιομετρική ενημέρωση</string>
+      <string name="biometric_error">Το βιομετρικό δεν έχει καταχωριστεί</string>
+ </resources>

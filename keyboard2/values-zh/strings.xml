@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">按键振动</string>
+      <string name="borders">关键边界</string>
+      <string name="pref_keyboard_custom">自定义主题颜色</string>
+      <string name="pref_keyboard_preview">预习</string>
+      <string name="keyb2_custom_action_color_title">动作色</string>
+      <string name="keyb2_custom_action_color_summary">平面按钮的颜色</string>
+      <string name="keyb2_custom_background_color_title">背景</string>
+      <string name="keyb2_custom_background_color_summary">键盘背景色</string>
+      <string name="keyb2_custom_button_color_title">按键颜色</string>
+      <string name="keyb2_custom_button_color_summary">按键颜色（如果启用了边框）</string>
+      <string name="keyb2_custom_button_border_color_title">关键边框颜色</string>
+      <string name="keyb2_custom_button_border_color_summary">关键边框颜色（如果启用了边框）</string>
+      <string name="keyb2_custom_shadow_color_title">背景阴影</string>
+      <string name="keyb2_custom_shadow_color_summary">键盘顶部边框颜色</string>
+      <string name="keyb2_custom_text_color_title">钥匙标签</string>
+      <string name="keyb2_custom_text_color_summary">按键主标签颜色</string>
+      <string name="keyb2_custom_text_alt_color_title">钥匙标签小</string>
+      <string name="keyb2_custom_text_alt_color_summary">关键小标签颜色</string>
+ </resources>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Rung trên phím nhấn</string>
+      <string name="borders">Đường viền chính</string>
+      <string name="pref_keyboard_custom">Màu sắc chủ đề tùy chỉnh</string>
+      <string name="pref_keyboard_preview">Xem trước</string>
+      <string name="keyb2_custom_action_color_title">Màu hành động</string>
+      <string name="keyb2_custom_action_color_summary">Màu cho các nút phẳng</string>
+      <string name="keyb2_custom_background_color_title">Lý lịch</string>
+      <string name="keyb2_custom_background_color_summary">Màu nền bàn phím</string>
+      <string name="keyb2_custom_button_color_title">Màu chính</string>
+      <string name="keyb2_custom_button_color_summary">Màu chính nếu viền được bật</string>
+      <string name="keyb2_custom_button_border_color_title">Màu viền chính</string>
+      <string name="keyb2_custom_button_border_color_summary">Màu norder chính nếu viền được bật</string>
+      <string name="keyb2_custom_shadow_color_title">Bóng nền</string>
+      <string name="keyb2_custom_shadow_color_summary">Bàn phím màu trên cùng</string>
+      <string name="keyb2_custom_text_color_title">Nhãn chính</string>
+      <string name="keyb2_custom_text_color_summary">Màu nhãn chính</string>
+      <string name="keyb2_custom_text_alt_color_title">Nhãn chính nhỏ</string>
+      <string name="keyb2_custom_text_alt_color_summary">Màu nhãn nhỏ</string>
+ </resources>

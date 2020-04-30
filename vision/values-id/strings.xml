@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Akses ke kamera diperlukan untuk deteksi</string>
+      <string name="permission_warning">Peringatan izin</string>
+      <string name="no_camera_permission">Pengenalan barcode tidak dapat berjalan karena tidak memiliki izin kamera.</string>
+      <string name="low_storage_error">Ketergantungan detektor barcode tidak dapat diunduh karena penyimpanan perangkat yang rendah</string>
+ </resources>

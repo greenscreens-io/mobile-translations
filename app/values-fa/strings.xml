@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">صفحه سبز Green Terminal 5250 با اسکنر بارکد. در www.greenscreens.io اطلاعات بیشتری کسب کنید</string>
+
+      <string name="title_configs">پیکربندی را انتخاب کنید</string>
+      <string name="title_plugins">افزونه را انتخاب کنید</string>
+      <string name="title_help">صفحه های سبز - راهنما</string>
+      <string name="selectAction">عمل را انتخاب کنید</string>
+      <string name="cancel">لغو</string>
+      <string name="ok">خوب</string>
+      <string name="data_removed">داده حذف شد!</string>
+      <string name="config_data_required">UUID و میزبان مقادیر لازم هستند!</string>
+      <string name="otp_data_required">مقادیر مورد نیاز کاربر و نشانه است!</string>
+
+      <string name="loading">بارگذاری…</string>
+      <string name="action_tutors">آموزشها</string>
+
+      <string name="action_help">کمک</string>
+      <string name="action_about">در باره</string>
+
+      <string name="labelBarcode">بارکد</string>
+      <string name="labelPrinter">چاپگر</string>
+      <string name="labelLockRotate">چرخش قفل</string>
+      <string name="labelSplitScreen">صفحه تقسیم</string>
+      <string name="labelTheme">تغییر موضوع</string>
+      <string name="labelTemplate">الگوی قرقره</string>
+      <string name="labelDownload">بارگیری فایل</string>
+      <string name="labelUpload">بارگذاری پرونده</string>
+      <string name="pasteModeInfo">حالت کپی / چسباندن تغییر کرد</string>
+      <string name="crash_toast_text">اوووپس من تصادف کردم ، اما گزارشی برای کمک به رفع مشکل به توسعه دهنده من ارسال شده است!</string>
+      <string name="crash_dialog_title">ترمینال خراب شده است</string>
+      <string name="crash_dialog_text">یک خطای غیرمنتظره باعث شد برنامه متوقف شود. لطفاً با ارسال داده خطا به ما در رفع این مشکل کمک کنید ، تنها کاری که باید انجام دهید این است که بر روی OK کلیک کنید.</string>
+      <string name="crash_dialog_comment_prompt">ممکن است نظرات خود را در مورد مشکل زیر اضافه کنید:</string>
+      <string name="msg_macro">نام ماکرو</string>
+      <string name="msg_macro_undefined">کلان تعریف نشده است</string>
+      <string name="msg_barcode_invalid">داده نامعتبر است ، بررسی کنید آیا بارکد اسکن شده اشتباه است!</string>
+      <string name="msg_barcode_error">هنگام پردازش بارکد خطایی رخ داد.</string>
+      <string name="action_settings">تنظیمات</string>
+      <string name="action_demo">نسخه ی نمایشی</string>
+      <string name="action_camera">اسکن</string>
+      <string name="saveBtn">صرفه جویی</string>
+      <string name="submitBtn">ارسال</string>
+    <string name="warning">هشدار</string>
+      <string name="unsupported_version">این نسخه از اندروید پشتیبانی نمی شود.</string>
+      <string name="update_webview">به منظور استفاده از برنامه ، لطفاً موتور وب را به آخرین نسخه به روز کنید.</string>
+      <string name="network_unavailable">شبکه در دسترس نیست! لطفا اتصال شبکه را باز کنید!</string>
+      <string name="downloads_permission">بارگیری در دسترس نیست لطفا مجوزهای برنامه را فعال کنید.</string>
+      <string name="info">اطلاعات</string>
+      <string name="close_session_question">آیا مطمئن هستید که می خواهید این جلسه را ببندید؟</string>
+      <string name="invalid_url">آدرس اینترنتی نامعتبر!</string>
+      <string name="error">خطا</string>
+      <string name="service_unavailable">دسترسی به سرویس از راه دور امکان پذیر نیست</string>
+      <string name="no_data">داده پیکربندی ذخیره شده وجود ندارد</string>
+      <string name="service_not_set">URL سرویس تنظیم نشده است</string>
+      <string name="description">شرح</string>
+      <string name="no_data_from_scanner">داده ای از اسکنر وجود ندارد</string>
+      <string name="no_plugins_installed">هیچ افزونه ای نصب نشده است</string>
+      <string name="internal_detector">اسکنر بارکد AI</string>
+      <string name="wtma_invalid_service_url">آدرس سرویس بارکد نامعتبر ، به صورت پیش فرض تغییر یافت!</string>
+      <string name="offline_mode">حالت آفلاین</string>
+      <string name="system_request">درخواست سیستم</string>
+      <string name="enter_number">شماره را وارد کنید!</string>
+      <string name="printer">چاپگر</string>
+      <string name="printer_not_active">چاپگر فعال نیست.</string>
+      <string name="report_template">الگوی گزارش</string>
+      <string name="enter_template_name">نام الگو را وارد کنید!</string>
+      <string name="disconnect">قطع شدن</string>
+      <string name="already_activated">قبلاً فعال شده است:</string>
+      <string name="ssl_certificate_error">خطای گواهی SSL.</string>
+      <string name="cert_authority_not_trusted">به مجوز گواهی اعتماد نمی شود.</string>
+      <string name="cert_expired">گواهی منقضی شده است</string>
+      <string name="cert_mismatch">عدم مطابقت نام میزبان</string>
+      <string name="cert_not_yet_valid">گواهی هنوز معتبر نیست.</string>
+      <string name="do_you_want_to_continue">آیا می خواهید به هر حال ادامه دهید؟</string>
+      <string name="continue_btn">ادامه هید</string>
+      <string name="labelMacro">ماکرو رکورد</string>
+      <string name="delete">حذف</string>
+      <string name="title_activity_macro">ماکرو</string>
+
+      <string name="fileNotFound">پرونده وجود ندارد</string>
+
+      <string name="pin_not_matched">پین مطابقت ندارد</string>
+      <string name="pin_not_set">پین تنظیم نشده است</string>
+      <string name="labelKbar">صفحه کلید را تغییر دهید</string>
+      <string name="otp_invalid_token">\ ؟؟ INVALID TOKEN؟</string>
+      <string name="otp_token_unsupported">نشانه OTP پشتیبانی نمی شود</string>
+      <string name="otp_token_title">ورود به نشانه OTP</string>
+      <string name="otp_token_title_reg">ثبت توکن OTP</string>
+      <string name="otp_token_message">OTP توکن مورد نیاز - اعتبارنامه را وارد کنید</string>
+      <string name="otp_token_unsync">هشدار !!! لطفاً همگام بودن زمان سیستم را بررسی کنید.</string>
+      <string name="webauth_required_message">همه زمینه ها الزامی هستند</string>
+      <string name="webauth_title">بیومتریک</string>
+      <string name="wtma_sent">WTMA تأیید کرد</string>
+      <string name="file_too_big">پرونده برای باز کردن خیلی بزرگ است!</string>
+      <string name="biometricBtn">ادامه هید</string>
+      <string name="not_in_demo">در حالت نسخه ی نمایشی در دسترس نیست!</string>
+      <string name="tab_a_label">عمومی</string>
+      <string name="tab_b_label">دستگاه</string>
+      <string name="tab_c_label">دیگر</string>
+ </resources>

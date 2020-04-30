@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="permission_camera_rationale">Toegang tot de camera is nodig voor detectie</string>
+      <string name="permission_warning">Toestemmingswaarschuwing</string>
+      <string name="no_camera_permission">Barcodeherkenning kan niet worden uitgevoerd omdat deze geen camerarechten heeft.</string>
+      <string name="low_storage_error">Afhankelijkheden van streepjescodemelders kunnen niet worden gedownload vanwege onvoldoende apparaatopslag</string>
+ </resources>

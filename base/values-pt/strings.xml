@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="local_storage_permission">Permissão negada para gravar no armazenamento local.</string>
+      <string name="show_keyboard">Mostrar teclado</string>
+      <string name="select_keyboard">Selecionar teclado</string>
+      <string name="keyboard_notification">Notificação do teclado ativada.</string>
+      <string name="tap_to_open_keyboard">Toque para abrir o teclado Telas Verdes.</string>
+      <string name="tap_to_select_keyboard">Toque para selecionar o teclado.</string>
+      <string name="no_intent_document">Nenhum aplicativo para usar o documento</string>
+      <string name="print_mode_unsupported">Modo de relatório não suportado pelo driver selecionado</string>
+
+      <string name="help_download">Fazendo o download do manual do servidor ...</string>
+      <string name="no_pdf_viewer">Visualizador de PDF não encontrado! Instale um do Google Play.</string>
+      <string name="no_file">Arquivo não encontrado.</string>
+      <string name="no_print_data">Não há dados para imprimir.</string>
+      <string name="network_unavailable">Rede indisponível. Por favor, abra WIFI ou rede móvel.</string>
+      <string name="internal_initialization">Inicialização em processo, tente novamente em alguns segundos.</string>
+      <string name="print_error">Dados não impressos</string>
+      <string name="printer_not_found">Impressora Zebra não encontrada</string>
+      <string name="multipart_upload">Upload de várias partes</string>
+      <string name="cancel_upload">Cancelar</string>
+      <string name="upload_cancelled">O upload foi cancelado</string>
+      <string name="upload_success">Upload concluído com êxito em [[ELAPSED_TIME]]</string>
+      <string name="upload_error">Erro ao fazer upload</string>
+      <string name="upload_title">Enviando...</string>
+      <string name="uploading">Carregado [[UPLOADED_FILES]] de [[TOTAL_FILES]] em [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+      <string name="ZEBRA_NOT_FOUND">Driver Zebra não instalado!</string>
+      <string name="youAreNotUpdatedTitle">Atualização disponível</string>
+      <string name="youAreNotUpdatedMessage">Está disponível uma nova versão do Terminal de telas verdes. \ NAtualize para a versão!</string>
+      <string name="update">Atualizar</string>
+      <string name="report_downloaded">Relatório baixado para o dispositivo</string>
+      <string name="report_downloading">Relatório de download do servidor</string>
+      <string name="report_print">Relatório enviar para impressão</string>
+      <string name="biometric_authenticate_ok">Autenticação biométrica</string>
+      <string name="biometric_validate_ok">Validação biométrica</string>
+      <string name="biometric_register_ok">Registrado biométrico</string>
+      <string name="biometric_unregister_ok">Biométrico não registrado</string>
+      <string name="biometric_update_ok">Atualização biométrica</string>
+      <string name="biometric_error">Biométrico não registrado</string>
+ </resources>

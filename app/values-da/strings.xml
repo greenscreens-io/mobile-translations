@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">Grønne skærme 5250 terminal med stregkodescanner. Find ud af mere på www.greenscreens.io</string>
+
+      <string name="title_configs">Vælg konfiguration</string>
+      <string name="title_plugins">Vælg plugin</string>
+      <string name="title_help">Grønne skærme - Hjælp</string>
+      <string name="selectAction">Vælg handling</string>
+      <string name="cancel">Afbestille</string>
+      <string name="ok">Okay</string>
+      <string name="data_removed">Data fjernet!</string>
+      <string name="config_data_required">UUID og vært er nødvendige værdier!</string>
+      <string name="otp_data_required">Bruger og token er nødvendige værdier!</string>
+
+      <string name="loading">Indlæser…</string>
+      <string name="action_tutors">Vejledninger</string>
+
+      <string name="action_help">Hjælp</string>
+      <string name="action_about">Om</string>
+
+      <string name="labelBarcode">Stregkode</string>
+      <string name="labelPrinter">Printer</string>
+      <string name="labelLockRotate">Lås drej</string>
+      <string name="labelSplitScreen">Delt skærm</string>
+      <string name="labelTheme">Skift tema</string>
+      <string name="labelTemplate">Spoolskabelon</string>
+      <string name="labelDownload">File Download</string>
+      <string name="labelUpload">Fil upload</string>
+      <string name="pasteModeInfo">Kopi / indsæt tilstand ændret</string>
+      <string name="crash_toast_text">Ooooops! Jeg styrtede ned, men en rapport er blevet sendt til min udvikler for at hjælpe med at løse problemet!</string>
+      <string name="crash_dialog_title">Terminal er gået ned</string>
+      <string name="crash_dialog_text">Der opstod en uventet fejl, der tvang applikationen til at stoppe. Hjælp os med at ordne dette ved at sende os fejldata, alt hvad du skal gøre er at klikke på OK.</string>
+      <string name="crash_dialog_comment_prompt">Du kan tilføje dine kommentarer til problemet nedenfor:</string>
+      <string name="msg_macro">Makronavn</string>
+      <string name="msg_macro_undefined">Makro ikke defineret</string>
+      <string name="msg_barcode_invalid">Ugyldige data, kontroller, om forkert stregkode blev scannet!</string>
+      <string name="msg_barcode_error">Fejl under behandling af stregkode.</string>
+      <string name="action_settings">Indstillinger</string>
+      <string name="action_demo">Demoer</string>
+      <string name="action_camera">Scan</string>
+      <string name="saveBtn">Gemme</string>
+      <string name="submitBtn">Indsend</string>
+    <string name="warning">Advarsel</string>
+      <string name="unsupported_version">Denne version af Android understøttes ikke.</string>
+      <string name="update_webview">For at bruge applikationen skal du opdatere webmotoren til den nyeste version.</string>
+      <string name="network_unavailable">Netværk ikke tilgængeligt! Åbn netværksforbindelse!</string>
+      <string name="downloads_permission">Downloads ikke tilgængeligt. Aktiver venligst applikationstilladelser.</string>
+      <string name="info">Info</string>
+      <string name="close_session_question">Er du sikker på, at du vil afslutte denne session?</string>
+      <string name="invalid_url">Ugyldig URL!</string>
+      <string name="error">Fejl</string>
+      <string name="service_unavailable">Kan ikke få adgang til fjerntjeneste</string>
+      <string name="no_data">Ingen gemte konfigurationsdata</string>
+      <string name="service_not_set">Tjeneste-URL ikke indstillet</string>
+      <string name="description">Beskrivelse</string>
+      <string name="no_data_from_scanner">Ingen data fra scanneren</string>
+      <string name="no_plugins_installed">Ingen plugins installeret</string>
+      <string name="internal_detector">AI stregkodescanner</string>
+      <string name="wtma_invalid_service_url">Ugyldig URL-adresse for stregkode, skiftet til standard!</string>
+      <string name="offline_mode">Offline-tilstand</string>
+      <string name="system_request">Systemanmodning</string>
+      <string name="enter_number">Indtast nummer!</string>
+      <string name="printer">Printer</string>
+      <string name="printer_not_active">Printeren er ikke aktiv.</string>
+      <string name="report_template">Rapportskabelon</string>
+      <string name="enter_template_name">Indtast skabelonens navn!</string>
+      <string name="disconnect">Koble fra</string>
+      <string name="already_activated">Allerede aktiveret:</string>
+      <string name="ssl_certificate_error">SSL-certifikatfejl.</string>
+      <string name="cert_authority_not_trusted">Certifikatmyndigheden er ikke betroet.</string>
+      <string name="cert_expired">Certifikatet er udløbet.</string>
+      <string name="cert_mismatch">Certifikatet Hostnavn misforhold.</string>
+      <string name="cert_not_yet_valid">Certifikatet er endnu ikke gyldigt.</string>
+      <string name="do_you_want_to_continue">Vil du fortsætte alligevel?</string>
+      <string name="continue_btn">Blive ved</string>
+      <string name="labelMacro">Makrooptagelse</string>
+      <string name="delete">Slet</string>
+      <string name="title_activity_macro">Makroer</string>
+
+      <string name="fileNotFound">Filen findes ikke.</string>
+
+      <string name="pin_not_matched">PIN-koden stemmer ikke overens</string>
+      <string name="pin_not_set">PIN-kode er ikke indstillet</string>
+      <string name="labelKbar">Skift tastatur</string>
+      <string name="otp_invalid_token">\ ?? UGYLDIG TOKEN ??</string>
+      <string name="otp_token_unsupported">OTP-token understøttes ikke</string>
+      <string name="otp_token_title">OTP-tokenindtastning</string>
+      <string name="otp_token_title_reg">OTP-tokenregistrering</string>
+      <string name="otp_token_message">OTP-token krævet - Angiv legitimationsoplysninger</string>
+      <string name="otp_token_unsync">ADVARSEL!!! Kontroller, om systemtiden er synkroniseret.</string>
+      <string name="webauth_required_message">Alt felt er påkrævet</string>
+      <string name="webauth_title">Biometrisk</string>
+      <string name="wtma_sent">WTMA bekræftet</string>
+      <string name="file_too_big">Fil for stor til at åbne!</string>
+      <string name="biometricBtn">Blive ved</string>
+      <string name="not_in_demo">Ikke tilgængelig i demo-tilstand!</string>
+      <string name="tab_a_label">GENEREL</string>
+      <string name="tab_b_label">APPARAT</string>
+      <string name="tab_c_label">ANDET</string>
+ </resources>

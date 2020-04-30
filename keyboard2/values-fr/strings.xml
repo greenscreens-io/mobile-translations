@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+      <string name="vib">Vibre lorqu\'on presse une touche</string>
+      <string name="borders">Frontières clés</string>
+      <string name="pref_keyboard_custom">Couleurs de thème personnalisées</string>
+      <string name="pref_keyboard_preview">Aperçu</string>
+      <string name="keyb2_custom_action_color_title">Couleur d\'action</string>
+      <string name="keyb2_custom_action_color_summary">Couleur pour boutons plats</string>
+      <string name="keyb2_custom_background_color_title">Contexte</string>
+      <string name="keyb2_custom_background_color_summary">Couleur d\'arrière-plan du clavier</string>
+      <string name="keyb2_custom_button_color_title">Couleur des touches</string>
+      <string name="keyb2_custom_button_color_summary">Couleur des touches si les bordures sont activées</string>
+      <string name="keyb2_custom_button_border_color_title">Couleur de la bordure des touches</string>
+      <string name="keyb2_custom_button_border_color_summary">Couleur nordique clé si les bordures sont activées</string>
+      <string name="keyb2_custom_shadow_color_title">Ombre d\'arrière-plan</string>
+      <string name="keyb2_custom_shadow_color_summary">Couleur de la bordure supérieure du clavier</string>
+      <string name="keyb2_custom_text_color_title">Étiquette de clé</string>
+      <string name="keyb2_custom_text_color_summary">Couleur principale de l\'étiquette principale</string>
+      <string name="keyb2_custom_text_alt_color_title">Étiquette de clé petite</string>
+      <string name="keyb2_custom_text_alt_color_summary">Couleur de la petite étiquette clé</string>
+ </resources>

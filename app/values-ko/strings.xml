@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?> <resources>
+
+
+      <string name="app_desc">녹색 화면 5250 바코드 스캐너가있는 터미널. www.greenscreens.io에서 자세한 내용을 확인하십시오.</string>
+
+      <string name="title_configs">구성 선택</string>
+      <string name="title_plugins">플러그인 선택</string>
+      <string name="title_help">녹색 화면-도움말</string>
+      <string name="selectAction">액션 선택</string>
+      <string name="cancel">취소</string>
+      <string name="ok">확인</string>
+      <string name="data_removed">데이터가 제거되었습니다!</string>
+      <string name="config_data_required">UUID 및 호스트는 필수 값입니다!</string>
+      <string name="otp_data_required">사용자와 토큰은 필수 값입니다!</string>
+
+      <string name="loading">로드 중…</string>
+      <string name="action_tutors">튜토리얼</string>
+
+      <string name="action_help">도움</string>
+      <string name="action_about">약</string>
+
+      <string name="labelBarcode">바코드</string>
+      <string name="labelPrinter">인쇄기</string>
+      <string name="labelLockRotate">회전 잠금</string>
+      <string name="labelSplitScreen">분할 화면</string>
+      <string name="labelTheme">테마 전환</string>
+      <string name="labelTemplate">스풀 템플릿</string>
+      <string name="labelDownload">파일 다운로드</string>
+      <string name="labelUpload">파일 업로드</string>
+      <string name="pasteModeInfo">복사 / 붙여 넣기 모드 변경</string>
+      <string name="crash_toast_text">웁스! 충돌이 발생했지만 문제를 해결하는 데 도움이되는 보고서가 개발자에게 전송되었습니다.</string>
+      <string name="crash_dialog_title">터미널 추락</string>
+      <string name="crash_dialog_text">응용 프로그램을 중지시키는 예기치 않은 오류가 발생했습니다. 오류 데이터를 보내서이 문제를 해결하도록 도와주세요. 확인을 클릭하기 만하면됩니다.</string>
+      <string name="crash_dialog_comment_prompt">아래 문제에 대한 의견을 추가 할 수 있습니다.</string>
+      <string name="msg_macro">매크로 이름</string>
+      <string name="msg_macro_undefined">매크로가 정의되지 않았습니다</string>
+      <string name="msg_barcode_invalid">잘못된 데이터, 잘못된 바코드 스캔 여부를 확인하십시오!</string>
+      <string name="msg_barcode_error">바코드 처리 중 오류가 발생했습니다.</string>
+      <string name="action_settings">설정</string>
+      <string name="action_demo">시민</string>
+      <string name="action_camera">주사</string>
+      <string name="saveBtn">저장</string>
+      <string name="submitBtn">제출</string>
+    <string name="warning">경고</string>
+      <string name="unsupported_version">이 버전의 Android는 지원되지 않습니다.</string>
+      <string name="update_webview">응용 프로그램을 사용하려면 웹 엔진을 최신 버전으로 업데이트하십시오.</string>
+      <string name="network_unavailable">네트워크를 사용할 수 없습니다! 네트워크 연결을여십시오!</string>
+      <string name="downloads_permission">다운로드가 불가능합니다. 응용 프로그램 권한을 활성화하십시오.</string>
+      <string name="info">정보</string>
+      <string name="close_session_question">이 세션을 닫으시겠습니까?</string>
+      <string name="invalid_url">잘못된 URL!</string>
+      <string name="error">오류</string>
+      <string name="service_unavailable">원격 서비스에 액세스 할 수 없습니다</string>
+      <string name="no_data">저장된 구성 데이터가 없습니다.</string>
+      <string name="service_not_set">서비스 URL이 설정되지 않았습니다</string>
+      <string name="description">기술</string>
+      <string name="no_data_from_scanner">스캐너에서 데이터가 없습니다</string>
+      <string name="no_plugins_installed">플러그인이 설치되지 않았습니다</string>
+      <string name="internal_detector">AI 바코드 스캐너</string>
+      <string name="wtma_invalid_service_url">잘못된 바코드 서비스 URL, 기본값으로 전환!</string>
+      <string name="offline_mode">오프라인 모드</string>
+      <string name="system_request">시스템 요청</string>
+      <string name="enter_number">숫자를 입력하십시오!</string>
+      <string name="printer">인쇄기</string>
+      <string name="printer_not_active">프린터가 활성화되지 않았습니다.</string>
+      <string name="report_template">보고서 템플릿</string>
+      <string name="enter_template_name">템플릿 이름을 입력하십시오!</string>
+      <string name="disconnect">분리</string>
+      <string name="already_activated">이미 활성화 :</string>
+      <string name="ssl_certificate_error">SSL 인증서 오류</string>
+      <string name="cert_authority_not_trusted">인증 기관을 신뢰할 수 없습니다.</string>
+      <string name="cert_expired">인증서가 만료되었습니다.</string>
+      <string name="cert_mismatch">인증서 호스트 이름이 일치하지 않습니다.</string>
+      <string name="cert_not_yet_valid">인증서가 아직 유효하지 않습니다.</string>
+      <string name="do_you_want_to_continue">그래도 계속 하시겠습니까?</string>
+      <string name="continue_btn">계속하다</string>
+      <string name="labelMacro">매크로 기록</string>
+      <string name="delete">지우다</string>
+      <string name="title_activity_macro">매크로</string>
+
+      <string name="fileNotFound">파일이 존재하지 않습니다.</string>
+
+      <string name="pin_not_matched">PIN이 일치하지 않습니다</string>
+      <string name="pin_not_set">PIN이 설정되지 않았습니다</string>
+      <string name="labelKbar">키바 스위치</string>
+      <string name="otp_invalid_token">\ ?? 잘못된 토큰 ??</string>
+      <string name="otp_token_unsupported">지원되지 않는 OTP 토큰</string>
+      <string name="otp_token_title">OTP 토큰 엔트리</string>
+      <string name="otp_token_title_reg">OTP 토큰 등록</string>
+      <string name="otp_token_message">OTP 토큰 필요-자격 증명 입력</string>
+      <string name="otp_token_unsync">경고!!! 시스템 시간이 동기화되었는지 확인하십시오.</string>
+      <string name="webauth_required_message">모든 분야는 필수입니다</string>
+      <string name="webauth_title">생체 인식</string>
+      <string name="wtma_sent">WTMA 확인</string>
+      <string name="file_too_big">파일이 너무 커서 열 수 없습니다!</string>
+      <string name="biometricBtn">계속하다</string>
+      <string name="not_in_demo">데모 모드에서는 사용할 수 없습니다!</string>
+      <string name="tab_a_label">일반</string>
+      <string name="tab_b_label">장치</string>
+      <string name="tab_c_label">다른</string>
+ </resources>
